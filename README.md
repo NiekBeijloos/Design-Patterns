@@ -1,1 +1,1 @@
-<img src=Categories.svg width=100% height=100%>
+![Design Patterns categories](https://github.com/NiekBeijloos/Design-Patterns/blob/master/Categories.svg?raw=true)
