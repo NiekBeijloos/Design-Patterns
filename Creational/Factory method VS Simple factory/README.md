@@ -34,12 +34,12 @@ That last question is really difficult to answer, because there is not a strict 
 
 I think the book Design Patterns provides a good example when to use the Factory Method pattern:
 
-<img src=FactoryMethodExample(1).png width=70% height=60%>
-<img src=FactoryMethodExample(2).png width=80% height=60%>
+<img src=FactoryMethodExample(1).png width=50% height=60%>
+<img src=FactoryMethodExample(2).png width=60% height=60%>
 
 In case we want to accomplish the same using the Simple factory and Dependency injection, we will end up with the following code:
 
-<img src=SimpleFactory.png width=70% height=60%>
+<img src=SimpleFactory.png width=50% height=60%>
 
 Above example is clearly not desirable. We need to check the size of the arrays to not refer outside the array boundaries. Boundary checking means we add extra complexity to our code. On top of that, the 'intermitted' client code will have knowledge about rooms, walls and doors. This means a violation of the Interface Seggregation Principle. 'The 'intermitted' client is depedent on entities it does not use'. We need to recompile and/or modify this 'intermitted' client in case there is an interface change. 
 
