@@ -45,4 +45,4 @@ Above example is clearly not desirable. We need to check the size of the arrays 
 
 ## Conclusion
 
-The key takeways of this article are simplicity, Single Responsibility and Open Closed. First observe if seperating the construction logic makes the code more readable and maintenance friendly. If not, keep the code as is. If is does, try to seperate the logic. We have now applied Simple factory. In case more logic is added to the Simple Factory, we might consider to make it more flexible to change and make it reusable. We do this by delegating the product creation to the sub-classes. We have now applied Factory method.   
+The key takeways of this article are simplicity, Single Responsibility and Open Closed. First observe if seperating the construction logic makes the code more readable and maintenance friendly. If not, keep the code as is. If it does, try to seperate the logic. We have now applied Simple factory. In case more logic is added to the Simple Factory, we might consider to make it more flexible to change and make it reusable. We do this by delegating the product creation to the sub-classes. We have now applied Factory method.   
