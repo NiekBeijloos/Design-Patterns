@@ -4,8 +4,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>590</x>
-      <y>370</y>
+      <x>780</x>
+      <y>480</y>
       <w>150</w>
       <h>50</h>
     </coordinates>
@@ -17,8 +17,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>510</x>
-      <y>480</y>
+      <x>700</x>
+      <y>590</y>
       <w>150</w>
       <h>30</h>
     </coordinates>
@@ -28,8 +28,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>570</x>
-      <y>410</y>
+      <x>760</x>
+      <y>520</y>
       <w>110</w>
       <h>90</h>
     </coordinates>
@@ -39,8 +39,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>680</x>
-      <y>480</y>
+      <x>870</x>
+      <y>590</y>
       <w>150</w>
       <h>30</h>
     </coordinates>
@@ -50,12 +50,34 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>650</x>
-      <y>410</y>
+      <x>840</x>
+      <y>520</y>
       <w>120</w>
       <h>90</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;.</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;40.0;100.0;40.0;100.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>780</x>
+      <y>390</y>
+      <w>150</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>PrototypeRegistry</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>840</x>
+      <y>410</y>
+      <w>30</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
   </element>
 </diagram>
