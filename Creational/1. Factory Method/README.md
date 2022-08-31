@@ -1,3 +1,6 @@
 # Factory Method
-<img src=FactoryMethodUML.png width=60% height=60%>
-<img src=FactoryMethod.svg width=100% height=100%>
+## UML
+<img src=FactoryMethodUML.svg width=50% height=50%>
+
+## Why (not), when (not)?
+<img src=FactoryMethod-cropped.svg>
