@@ -4,3 +4,4 @@
 
 ## Why (not), when (not)?
 <img src=SimpleFactory.svg>
+![Simple Factory](https://raw.githubusercontent.com/NiekBeijloos/Design-Patterns/master/Creational/3.%20Simple%20Factory/SimpleFactory.svg?raw=true)
