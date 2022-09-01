@@ -3,4 +3,4 @@
 <img src=FactoryMethodUML.png width=40% height=40%>
 
 ## Why (not), when (not)?
-<img src=FactoryMethod.svg>
+![Factory Method](https://raw.githubusercontent.com/NiekBeijloos/Design-Patterns/master/Creational/1.%20Factory%20Method/FactoryMethod.svg?raw=true)
