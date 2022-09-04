@@ -1,4 +1,4 @@
-# Abstract Factory
+# Builder
 ## UML
 <img src=BuilderUML.png width=40% height=40%>
 
