@@ -1,4 +1,4 @@
-# Abstract Factory
+# Simple Factory
 ## UML
 <img src=SimpleFactoryUML.png width=40% height=40%>
 
