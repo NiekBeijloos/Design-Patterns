@@ -41,7 +41,7 @@ Use the Abstract Factory when:
 - The construction logic is likely to change
 
 Use the Simple Factory when:
-- The construction logic of the product is not applicable to multiple clients
+- The construction logic of the product is applicable to multiple clients
 - A client needs to vary the product(s) during runtime
 - The construction logic is not likely to change
 
