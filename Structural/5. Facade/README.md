@@ -1,4 +1,4 @@
-# Decorator
+# Facade
 ## UML
 <img src=FacadeUML.png width=40% height=40%>
 
