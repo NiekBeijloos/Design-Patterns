@@ -1,4 +1,4 @@
-# Bridge
+# Composite
 ## UML
 <img src=CompositeUML.png width=40% height=40%>
 
