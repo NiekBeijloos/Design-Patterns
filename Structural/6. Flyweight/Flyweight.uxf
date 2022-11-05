@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.0.0">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>234</x>
+      <y>189</y>
+      <w>225</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>FlyweightFactory
+--
+-cache:Flyweight[]
+--
++GetFlyweight(key)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>540</x>
+      <y>189</y>
+      <w>225</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Flyweight
+--
+-intrinsicState
+--
++Operation(extrinsicState)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>450</x>
+      <y>207</y>
+      <w>108</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;100.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>324</x>
+      <y>243</y>
+      <w>162</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0;160.0;60.0;160.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>369</x>
+      <y>333</y>
+      <w>225</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>Context
+--
+-Flyweight
+-extrinsicState
+--
++Context(extrinsicState, intrinsicState)
++Operation()</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>486</x>
+      <y>252</y>
+      <w>180</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;90.0;10.0;50.0;180.0;50.0;180.0;10.0</additional_attributes>
+  </element>
+</diagram>
