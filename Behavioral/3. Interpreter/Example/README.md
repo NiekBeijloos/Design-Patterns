@@ -49,6 +49,7 @@ Let's define the context:
 The Context will consist of an input string and the character that is currently under interpretation. The Context will be used by the grammar.
 
 Let's create the LiteralExpression:
+
 <img src=Expression.png width=60% height=50%>
 <img src=LiteralExpression.png width=85% height=70%>
 
