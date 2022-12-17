@@ -57,7 +57,7 @@ The LiteralExpression will store a token of type char. The interpret function ev
 
 Now that the LiteralExpression is defined, let's compose the AsteriskExpression:
 
-<img src=AsteriskExpression.png width=45% height=40%>
+<img src=AsteriskExpression.png width=50% height=50%>
 
 The AsteriskExpression will 'consume' two expressions. One expression before (=left leaf) the Asterisk and one expression after(=right leaf) the Asterisk symbol. E.g. reglar expression: a*b, has an 'a' before the Asterisk and a 'b' after the Asterisk. The interpret function will evaluate the context until all symbols are evaluated. The first character of the input is interpreted during each evaulation step. In case the expression before the Asterisk does not evaluate to 'true' then the expression after the Asterisk symbol is evaluated. If the expression after the Asterisk symbol is interpreted to 'true', and the context input is completly evaluated, then there is a match. The check if the input size is 0 means that the complete input is evaluated and overcomes that the combination of regular expression: "a\*b" and string input "aabb" is interpreted as 'true'.
 
