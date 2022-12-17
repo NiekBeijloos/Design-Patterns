@@ -81,7 +81,9 @@ Let's see a more 'advanced' scenario, scenario 5:
 - Then: the Regular Expression Engine should return: TRUE
 
 Scenario 5 in a test case:
+
 <img src=RegularExpression_A_ASTERISK_B_ASTERISK.png width=50% height=50%>
+
 Regular expression 'a*b\*' is expressed using two LiteralExpressions and two AsteriskExpressions. This structure can be defined in an abstract syntax tree (=AST):
 
 <img src=AST.png width=40% height=40%>
