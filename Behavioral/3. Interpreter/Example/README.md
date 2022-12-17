@@ -34,30 +34,30 @@ Scenario 5:
 
 Let's draw an UML class diagram to express how the problem can be resolved using the Interpreter Pattern:
 
-<img src=RegularExpressionEngineUML.png width=50% height=50%>
+<img src=RegularExpressionEngineUML.png width=40% height=50%>
 
 This can be reflected on the 'templated' class diagram of the Interpreter Pattern:
 
-<img src=InterpreterUML.png width=50% height=50%>
+<img src=InterpreterUML.png width=40% height=50%>
 
 The Asterisk expression is a Non Terminal Expression. A non Terminal Expression 'connects' both terminal and non terminal expressions. As the name indicates it cannot 'terminate' expression evaluation. A Literal expression is a Terminal Expression. A Terminal Expression defines the base of a language. As the name indicates it can 'terminate' expression interpretation. The context will contain the string-under-interpretation. This context will be interpreted based on the defined regular expression. The regular expression will be composed of AsteriskExpression object(s) and LiteralExpression object(s). The pattern prescribes that each symbol in a grammar should have its own class for reusability, ease of change and testability.
 
 Let's define the context:
 
-<img src=Context.png width=32% height=50%>
+<img src=Context.png width=20% height=20%>
 
 The Context will consist of an input string and the character that is currently under interpretation. The Context will be used by the grammar.
 
 Let's create the LiteralExpression:
 
-<img src=Expression.png width=60% height=50%>
-<img src=LiteralExpression.png width=85% height=70%>
+<img src=Expression.png width=40% height=40%>
+<img src=LiteralExpression.png width=50% height=50%>
 
 The LiteralExpression will store a token of type char. The interpret function evaluates the context and removes the first char of the string-under-interpretation in case the char-under-match is equal to the token. After removal the interpretation will return true if there is a match between context and token. E.g.: input "a" will match 'true' against LiteralExpression 'a'.
 
 Now that the LiteralExpression is defined, let's compose the AsteriskExpression:
 
-<img src=AsteriskExpression.png width=85% height=70%>
+<img src=AsteriskExpression.png width=45% height=40%>
 
 The AsteriskExpression will 'consume' two expressions. One expression before (=left leaf) the Asterisk and one expression after(=right leaf) the Asterisk symbol. E.g. reglar expression: a*b, has an 'a' before the Asterisk and a 'b' after the Asterisk. The interpret function will evaluate the context until all symbols are evaluated. The first character of the input is interpreted during each evaulation step. In case the expression before the Asterisk does not evaluate to 'true' then the expression after the Asterisk symbol is evaluated. If the expression after the Asterisk symbol is interpreted to 'true', and the context input is completly evaluated, then there is a match. The check if the input size is 0 means that the complete input is evaluated and overcomes that the combination of regular expression: "a\*b" and string input "aabb" is interpreted as 'true'.
 
@@ -68,10 +68,10 @@ Now that we have all the 'assests' of our grammar we can start verifying our Reg
 
 Construction of the regular expression will not be done by a Parser. A Parser enables composing regular expressions dynamically. In this example the regular expressions will be statically defined. Let's define scenario 3 in a test:
 
-<img src=RegularExpression_A_Asterisk_B.png width=90% height=70%>
+<img src=RegularExpression_A_Asterisk_B.png width=50% height=50%>
 
 The regular expression 'a*b' is constructed using two LiteralExpression objects and an AsteriskExpression object. The AsteriskExpression is a composite. The context is defined as 'aab'. Interpreting this context evaluates evaluates to 'true'. Verification:
-<img src=RegularExpression_A_Asterisk_B_TestResult.png width=90% height=70%>
+<img src=RegularExpression_A_Asterisk_B_TestResult.png width=50% height=50%>
 
 The Regular Expression Engine works! 
 
@@ -81,14 +81,14 @@ Let's see a more 'advanced' scenario, scenario 5:
 - Then: the Regular Expression Engine should return: TRUE
 
 Scenario 5 in a test case:
-<img src=RegularExpression_A_ASTERISK_B_Asterisk.png width=90% height=70%>
+<img src=RegularExpression_A_ASTERISK_B_Asterisk.png width=50% height=50%>
 Regular expression 'a*b\*' is expressed using two LiteralExpressions and two AsteriskExpressions. This structure can be defined in an abstract syntax tree (=AST):
 
-<img src=AST.png width=50% height=50%>
+<img src=AST.png width=40% height=40%>
 
 Interpretation of this AST based on the context "aabb" will result in 'true'. Verification:
 
-<img src=RegularExpression_A_ASTERISK_B_Asterisk_testResult.png width=60% height=70%>
+<img src=RegularExpression_A_ASTERISK_B_Asterisk_testResult.png width=50% height=50%>
 
 The simple Regular Expression Matcher has been developed and verified! The Regular Expression matcher is capable of interpreting a string literal, based on a Regular expression, into a boolean form. 
 
