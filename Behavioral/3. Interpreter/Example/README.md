@@ -50,7 +50,7 @@ The Context will consist of an input string and the character that is currently 
 
 Let's create the LiteralExpression:
 
-<img src=Expression.png width=40% height=40%>
+<img src=Expression.png width=30% height=30%>
 <img src=LiteralExpression.png width=50% height=50%>
 
 The LiteralExpression will store a token of type char. The interpret function evaluates the context and removes the first char of the string-under-interpretation in case the char-under-match is equal to the token. After removal the interpretation will return true if there is a match between context and token. E.g.: input "a" will match 'true' against LiteralExpression 'a'.
