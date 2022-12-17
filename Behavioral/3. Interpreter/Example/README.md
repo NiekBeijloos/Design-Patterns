@@ -68,7 +68,7 @@ Now that we have all the 'assests' of our grammar we can start verifying our Reg
 
 Construction of the regular expression will not be done by a Parser. A Parser enables composing regular expressions dynamically. In this example the regular expressions will be statically defined. Let's define scenario 3 in a test:
 
-<img src=RegularExpression_A_Asterisk_B.png width=50% height=50%>
+<img src=RegularExpression_A_ASTERISK_B.png width=50% height=50%>
 
 The regular expression 'a*b' is constructed using two LiteralExpression objects and an AsteriskExpression object. The AsteriskExpression is a composite. The context is defined as 'aab'. Interpreting this context evaluates evaluates to 'true'. Verification:
 <img src=RegularExpression_A_Asterisk_B_TestResult.png width=50% height=50%>
@@ -88,7 +88,7 @@ Regular expression 'a*b\*' is expressed using two LiteralExpressions and two Ast
 
 Interpretation of this AST based on the context "aabb" will result in 'true'. Verification:
 
-<img src=RegularExpression_A_ASTERISK_B_Asterisk_testResult.png width=50% height=50%>
+<img src=RegularExpression_A_ASTERISK_B_ASTERISK_testResult.png width=50% height=50%>
 
 The simple Regular Expression Matcher has been developed and verified! The Regular Expression matcher is capable of interpreting a string literal, based on a Regular expression, into a boolean form. 
 
