@@ -71,6 +71,7 @@ Construction of the regular expression will not be done by a Parser. A Parser en
 <img src=RegularExpression_A_ASTERISK_B.png width=50% height=50%>
 
 The regular expression 'a*b' is constructed using two LiteralExpression objects and an AsteriskExpression object. The AsteriskExpression is a composite. The context is defined as 'aab'. Interpreting this context evaluates evaluates to 'true'. Verification:
+
 <img src=RegularExpression_A_ASTERISK_B_TestResult.png width=50% height=50%>
 
 The Regular Expression Engine works! 
