@@ -91,7 +91,7 @@ Regular expression 'a*b\*' is expressed using two LiteralExpressions and two Ast
 
 Interpretation of this AST based on the context "aabb" will result in 'true'. Verification:
 
-<img src=RegularExpression_A_ASTERISK_B_ASTERISK_TestResult.png width=50% height=50%>
+<img src=RegularExpression_A_ASTERISK_B_ASTERISK_TestResult.png width=30% height=30%>
 
 The simple Regular Expression Matcher has been developed and verified! The Regular Expression matcher is capable of interpreting a string literal, based on a Regular expression, into a boolean form. 
 
