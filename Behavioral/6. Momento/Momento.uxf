@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.0.0">
+  <zoom_level>11</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>396</x>
+      <y>308</y>
+      <w>319</w>
+      <h>121</h>
+    </coordinates>
+    <panel_attributes>Originator
+--
+-state:int
+--
++CreateSnapshot():Momento
++SetSnapshot(momento:Momento):void
++Action():void
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>792</x>
+      <y>308</y>
+      <w>319</w>
+      <h>121</h>
+    </coordinates>
+    <panel_attributes>Momento
+--
+-state:int
+--
+-SetState(state:int)
+-GetState():int</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>704</x>
+      <y>363</y>
+      <w>110</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>80.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>594</x>
+      <y>539</y>
+      <w>319</w>
+      <h>242</h>
+    </coordinates>
+    <panel_attributes>Caretaker
+--
+-history:Momento[]
+-orginator:Originator
+--
+void Execute(){
+   history.add(Originator-&gt;CreateSnapshot())
+   originator-&gt;Action()	
+}
+
+void Undo(){
+	originator-&gt;SetSnapshot(history.pop())
+}</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>737</x>
+      <y>418</y>
+      <w>198</w>
+      <h>143</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-
+m2=*
+m1=1</panel_attributes>
+    <additional_attributes>10.0;110.0;10.0;60.0;160.0;60.0;160.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>539</x>
+      <y>418</y>
+      <w>209</w>
+      <h>143</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0;170.0;60.0;170.0;110.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>704</x>
+      <y>330</y>
+      <w>110</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+&lt;&lt;Friend&gt;&gt;</panel_attributes>
+    <additional_attributes>10.0;20.0;80.0;20.0</additional_attributes>
+  </element>
+</diagram>
