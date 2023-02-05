@@ -21,27 +21,27 @@
 		.st6 {font-size:1em}
 		.st7 {marker-end:url(#mrkr4-16);stroke:#ed7d31;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st8 {fill:#ed7d31;fill-opacity:1;stroke:#ed7d31;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st9 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st9 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
 		.st10 {fill:#d06d29;font-family:Calibri;font-size:0.666664em}
 		.st11 {marker-end:url(#mrkr4-24);stroke:#70ad47;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st12 {fill:#70ad47;fill-opacity:1;stroke:#70ad47;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st13 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
-		.st14 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
-		.st15 {fill:url(#grad0-31);stroke:#dfa800;stroke-width:0.75}
-		.st16 {fill:#dfa800;font-family:Calibri;font-size:0.833336em}
-		.st17 {font-size:1em;font-weight:bold}
-		.st18 {fill:url(#grad0-51);stroke:#dfa800;stroke-width:0.75}
-		.st19 {fill:#dfa800;stroke:#ba8c00;stroke-width:0.75}
-		.st20 {marker-end:url(#mrkr4-61);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
-		.st21 {fill:#fec000;fill-opacity:1;stroke:#fec000;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st22 {fill:#dfa800;font-family:Calibri;font-size:0.666664em}
-		.st23 {fill:url(#grad0-68);stroke:#d06d29;stroke-width:0.75}
-		.st24 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
-		.st25 {fill:url(#grad0-127);stroke:#d06d29;stroke-width:0.75}
-		.st26 {fill:#61973d;stroke:#507e31;stroke-width:0.75}
-		.st27 {fill:url(#grad0-135);stroke:#61973d;stroke-width:0.75}
-		.st28 {fill:#61973d;font-family:Calibri;font-size:0.833336em}
-		.st29 {fill:url(#grad0-156);stroke:#61973d;stroke-width:0.75}
+		.st13 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
+		.st14 {fill:url(#grad0-31);stroke:#dfa800;stroke-width:0.75}
+		.st15 {fill:#dfa800;font-family:Calibri;font-size:0.833336em}
+		.st16 {font-size:1em;font-weight:bold}
+		.st17 {fill:url(#grad0-51);stroke:#dfa800;stroke-width:0.75}
+		.st18 {fill:#dfa800;stroke:#ba8c00;stroke-width:0.75}
+		.st19 {marker-end:url(#mrkr4-61);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st20 {fill:#fec000;fill-opacity:1;stroke:#fec000;stroke-opacity:1;stroke-width:0.52631578947368}
+		.st21 {fill:#dfa800;font-family:Calibri;font-size:0.666664em}
+		.st22 {fill:url(#grad0-68);stroke:#d06d29;stroke-width:0.75}
+		.st23 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
+		.st24 {fill:url(#grad0-127);stroke:#d06d29;stroke-width:0.75}
+		.st25 {fill:#61973d;stroke:#507e31;stroke-width:0.75}
+		.st26 {fill:url(#grad0-135);stroke:#61973d;stroke-width:0.75}
+		.st27 {fill:#61973d;font-family:Calibri;font-size:0.833336em}
+		.st28 {fill:url(#grad0-156);stroke:#61973d;stroke-width:0.75}
+		.st29 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st30 {font-size:1em;text-decoration:underline}
 		.st31 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
@@ -91,7 +91,7 @@
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
-		<marker id="mrkr4-61" class="st21" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
+		<marker id="mrkr4-61" class="st20" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
@@ -106,14 +106,14 @@
 		<v:layer v:name="Connector" v:index="0"/>
 		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(384.862,-784.289)">
 			<title>Rectangle</title>
-			<desc>Strategy (policy) Change the used strategy of an object, by d...</desc>
+			<desc>Strategy (=policy) Change the used strategy of an object, by ...</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="101.28" cy="1403.15" width="202.56" height="85.0394"/>
 			<rect x="0" y="1360.63" width="202.559" height="85.0394" class="st1"/>
-			<text x="67.42" y="1388.15" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Strategy (policy)<v:newlineChar/><tspan
+			<text x="64.93" y="1388.15" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Strategy (=policy)<v:newlineChar/><tspan
 						x="17.12" dy="1.2em" class="st3">Change the used strategy of an object, by </tspan><tspan x="14.81"
 						dy="1.2em" class="st3">defining a family of algorithms and making </tspan><tspan x="55.16" dy="1.2em"
 						class="st3">them interchangeable.</tspan></text>		</g>
@@ -142,8 +142,8 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="55.2756" cy="1438.58" width="40" height="17.6036"/>
 			<path d="M0 1438.58 L102.95 1438.58" class="st11"/>
-			<rect v:rectContext="textBkgnd" x="50.2579" y="1433.78" width="10.0352" height="9.59985" class="st13"/>
-			<text x="50.26" y="1440.98" class="st14" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+			<rect v:rectContext="textBkgnd" x="50.2579" y="1433.78" width="10.0352" height="9.59985" class="st9"/>
+			<text x="50.26" y="1440.98" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 		<g id="group229-27" transform="translate(7.79528,-737.793)" v:mID="229" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
@@ -161,16 +161,16 @@
 			<g id="shape229-28" v:mID="229" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="1356.65" width="179.3" height="178.032"/>
-				<path d="M0 1445.67 L171.37 1445.67 L179.29 1438.28 L179.29 1267.64 L0 1267.64 L0 1445.67 Z" class="st15"/>
-				<text x="4" y="1280.64" class="st16" v:langID="1033"><v:paragraph/><v:tabList/>The Strategy pattern entails both the <tspan
+				<path d="M0 1445.67 L171.37 1445.67 L179.29 1438.28 L179.29 1267.64 L0 1267.64 L0 1445.67 Z" class="st14"/>
+				<text x="4" y="1280.64" class="st15" v:langID="1033"><v:paragraph/><v:tabList/>The Strategy pattern entails both the <tspan
 							x="4" dy="1.2em" class="st6">negative and positive aspects of the Open </tspan><tspan x="4" dy="1.2em"
 							class="st6">Closed principle. All aspects are </tspan><tspan x="4" dy="1.2em" class="st6">compared against situating the Strategy </tspan><tspan
 							x="4" dy="1.2em" class="st6">logic within the Context. The abstraction </tspan><tspan x="4" dy="1.2em"
 							class="st6">between Context and Strategies </tspan><tspan x="4" dy="1.2em" class="st6">contribute to an additional form of </tspan><tspan
 							x="4" dy="1.2em" class="st6">indirection. The indirection makes the </tspan><tspan x="4" dy="1.2em"
-							class="st6">code more </tspan><tspan class="st17">complicated </tspan>because of <tspan x="4"
-							dy="1.2em" class="st6">decreasing </tspan><tspan class="st17">navigability </tspan>and <tspan x="4"
-							dy="1.2em" class="st17">debuggability</tspan>. The applicability of the <tspan x="4" dy="1.2em"
+							class="st6">code more </tspan><tspan class="st16">complicated </tspan>because of <tspan x="4"
+							dy="1.2em" class="st6">decreasing </tspan><tspan class="st16">navigability </tspan>and <tspan x="4"
+							dy="1.2em" class="st16">debuggability</tspan>. The applicability of the <tspan x="4" dy="1.2em"
 							class="st6">Strategy pattern should be chosen in case </tspan><tspan x="4" dy="1.2em" class="st6">the Context changes frequently or is likely </tspan><tspan
 							x="4" dy="1.2em" class="st6">to change frequently.   </tspan>   </text>			</g>
 			<g id="shape230-48" v:mID="230" v:groupContext="shape" transform="translate(171.373,0)">
@@ -187,7 +187,7 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.10260877564035):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#fec000)"/>
 				</v:userDefs>
-				<path d="M0 1445.67 L7.92 1438.28 L0.55 1437.77 L0 1445.67 Z" class="st18"/>
+				<path d="M0 1445.67 L7.92 1438.28 L0.55 1437.77 L0 1445.67 Z" class="st17"/>
 			</g>
 		</g>
 		<g id="shape232-52" v:mID="232" v:groupContext="shape" transform="translate(218.268,-809.801)">
@@ -198,7 +198,7 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="60.9449" cy="1428.66" width="121.89" height="34.0158"/>
-			<rect x="0" y="1411.65" width="121.89" height="34.0158" class="st19"/>
+			<rect x="0" y="1411.65" width="121.89" height="34.0158" class="st18"/>
 			<text x="16.09" y="1425.66" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Negative side of Open <tspan
 						x="47.42" dy="1.2em" class="st6">Closed</tspan></text>		</g>
 		<g id="shape234-56" v:mID="234" v:groupContext="shape" v:layerMember="0" transform="translate(218.268,-819.723)">
@@ -206,9 +206,9 @@
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-10.6016" cy="1438.58" width="40" height="17.6036"/>
-			<path d="M0 1438.58 L-23.58 1438.58" class="st20"/>
-			<rect v:rectContext="textBkgnd" x="-15.6192" y="1433.78" width="10.0352" height="9.59985" class="st13"/>
-			<text x="-15.62" y="1440.98" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+			<path d="M0 1438.58 L-23.58 1438.58" class="st19"/>
+			<rect v:rectContext="textBkgnd" x="-15.6192" y="1433.78" width="10.0352" height="9.59985" class="st9"/>
+			<text x="-15.62" y="1440.98" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 		<g id="group235-64" transform="translate(192.874,-6.23622)" v:mID="235" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
@@ -226,8 +226,8 @@
 			<g id="shape235-65" v:mID="235" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="101.28" cy="1110.24" width="202.56" height="670.852"/>
-				<path d="M0 1445.67 L179.9 1445.67 L202.56 1433.93 L202.56 774.82 L0 774.82 L0 1445.67 Z" class="st23"/>
-				<text x="4" y="787.82" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>The Strategy design pattern enables the clients <tspan
+				<path d="M0 1445.67 L179.9 1445.67 L202.56 1433.93 L202.56 774.82 L0 774.82 L0 1445.67 Z" class="st22"/>
+				<text x="4" y="787.82" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>The Strategy design pattern enables the clients <tspan
 							x="4" dy="1.2em" class="st6">to inject different algorithms (=Strategies) into </tspan><tspan x="4"
 							dy="1.2em" class="st6">the Context during runtime. Each Strategy </tspan><tspan x="4" dy="1.2em"
 							class="st6">contains its own algorithm. These Strategies </tspan><tspan x="4" dy="1.2em" class="st6">have some commonality, that is reflected via a </tspan><tspan
@@ -282,7 +282,7 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.1630492107313):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M0 1445.67 L22.66 1433.93 L13.07 1427.16 L0 1445.67 Z" class="st25"/>
+				<path d="M0 1445.67 L22.66 1433.93 L13.07 1427.16 L0 1445.67 Z" class="st24"/>
 			</g>
 		</g>
 		<g id="shape243-128" v:mID="243" v:groupContext="shape" transform="translate(685.984,-809.801)">
@@ -293,7 +293,7 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="60.9449" cy="1428.66" width="121.89" height="34.0158"/>
-			<rect x="0" y="1411.65" width="121.89" height="34.0158" class="st26"/>
+			<rect x="0" y="1411.65" width="121.89" height="34.0158" class="st25"/>
 			<text x="35.24" y="1431.66" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Open Closed</text>		</g>
 		<g id="group258-131" transform="translate(918.425,-730.563)" v:mID="258" v:groupContext="group">
 			<v:userDefs>
@@ -312,12 +312,12 @@
 			<g id="shape258-132" v:mID="258" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="101.28" cy="1349.42" width="202.56" height="192.491"/>
-				<path d="M0 1445.67 L195.39 1445.67 L202.56 1430.59 L202.56 1253.18 L0 1253.18 L0 1445.67 Z" class="st27"/>
-				<text x="4" y="1266.18" class="st28" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>The Strategy pattern compliments the Open <tspan
+				<path d="M0 1445.67 L195.39 1445.67 L202.56 1430.59 L202.56 1253.18 L0 1253.18 L0 1445.67 Z" class="st26"/>
+				<text x="4" y="1266.18" class="st27" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>The Strategy pattern compliments the Open <tspan
 							x="4" dy="1.2em" class="st6">Closed principle by enabling support of new </tspan><tspan x="4"
 							dy="1.2em" class="st6">Strategies without having to change the </tspan><tspan x="4" dy="1.2em"
-							class="st6">Context. This ensures </tspan><tspan class="st17">stability </tspan>of the <tspan x="4"
-							dy="1.2em" class="st6">production and test code. </tspan><tspan class="st17">Stability</tspan>, because an <tspan
+							class="st6">Context. This ensures </tspan><tspan class="st16">stability </tspan>of the <tspan x="4"
+							dy="1.2em" class="st6">production and test code. </tspan><tspan class="st16">Stability</tspan>, because an <tspan
 							x="4" dy="1.2em" class="st6">extension of the code base, by introducing a </tspan><tspan x="4"
 							dy="1.2em" class="st6">new Strategy, does not require the production </tspan><tspan x="4" dy="1.2em"
 							class="st6">nor test code (Context) to change. In contrast, </tspan><tspan x="4" dy="1.2em" class="st6">having the Strategies situated </tspan>within the <tspan
@@ -340,7 +340,7 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20940471463318):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#70ad47)"/>
 				</v:userDefs>
-				<path d="M4.52 1445.67 L11.69 1430.59 L0 1440.11 L4.52 1445.67 Z" class="st29"/>
+				<path d="M4.52 1445.67 L11.69 1430.59 L0 1440.11 L4.52 1445.67 Z" class="st28"/>
 			</g>
 		</g>
 		<g id="shape275-157" v:mID="275" v:groupContext="shape" transform="translate(685.984,-1167.87)">
@@ -351,33 +351,33 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="60.9449" cy="1428.66" width="121.89" height="34.0158"/>
-			<rect x="0" y="1411.65" width="121.89" height="34.0158" class="st26"/>
+			<rect x="0" y="1411.65" width="121.89" height="34.0158" class="st25"/>
 			<text x="19.59" y="1431.66" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Single Responsibility</text>		</g>
-		<g id="group276-160" transform="translate(918.425,-929.187)" v:mID="276" v:groupContext="group">
+		<g id="group276-160" transform="translate(918.425,-932.31)" v:mID="276" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
 				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.2614601387169):1"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.66993603542886):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.21053715867688):1"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.1667770243525):1"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.25950255719989):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.67592593918123):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.20739632987208):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.16632049953519):1"/>
 			</v:userDefs>
 			<title>Folded Corner.276</title>
 			<desc>The Strategy pattern compliments the Single Responsibility pr...</desc>
 			<g id="shape276-161" v:mID="276" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="101.28" cy="1189.97" width="202.56" height="511.39"/>
-				<path d="M0 1445.67 L187.4 1445.67 L202.56 1433.66 L202.56 934.28 L0 934.28 L0 1445.67 Z" class="st27"/>
-				<text x="4" y="947.28" class="st28" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>The Strategy pattern compliments the Single <tspan
+				<v:textRect cx="101.28" cy="1193.1" width="202.56" height="505.144"/>
+				<path d="M0 1445.67 L187.63 1445.67 L202.56 1433.69 L202.56 940.53 L0 940.53 L0 1445.67 Z" class="st26"/>
+				<text x="4" y="953.53" class="st27" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>The Strategy pattern compliments the Single <tspan
 							x="4" dy="1.2em" class="st6">Responsibility principle by extracting </tspan><tspan x="4" dy="1.2em"
 							class="st6">algorithmic logic into separate classes. This </tspan><tspan x="4" dy="1.2em" class="st6">ensures </tspan><tspan
-							class="st17">reusability</tspan>, <tspan class="st17">readability</tspan>, <tspan class="st17">stability </tspan>and <tspan
-							x="4" dy="1.2em" class="st17">testability</tspan>. All aspects are compared against <tspan x="4"
+							class="st16">reusability</tspan>, <tspan class="st16">readability</tspan>, <tspan class="st16">stability </tspan>and <tspan
+							x="4" dy="1.2em" class="st16">testability</tspan>. All aspects are compared against <tspan x="4"
 							dy="1.2em" class="st6">situating the Strategy logic within the Context. </tspan><tspan x="4" dy="1.2em"
-							class="st17">Reusability</tspan>, because the algorithmic logic <tspan x="4" dy="1.2em" class="st6">(Strategy) has been extracted from the Context. </tspan><tspan
+							class="st16">Reusability</tspan>, because the algorithmic logic <tspan x="4" dy="1.2em" class="st6">(Strategy) has been extracted from the Context. </tspan><tspan
 							x="4" dy="1.2em" class="st6">This means other Contexts can reuse the same </tspan><tspan x="4"
 							dy="1.2em" class="st6">strategies, without being dependent on a </tspan><tspan x="4" dy="1.2em"
 							class="st6">Context object directly. This enforces the </tspan><tspan x="4" dy="1.2em" class="st6">Interface Segregation Principle. The testability </tspan><tspan
@@ -385,27 +385,26 @@
 							dy="1.2em" class="st6">Strategy is more focused then </tspan>the Context. Also <tspan x="4" dy="1.2em"
 							class="st6">changes in the interface of Context X do not </tspan><tspan x="4" dy="1.2em" class="st6">reflect on Context Y. This reduces </tspan><tspan
 							x="4" dy="1.2em" class="st6">recompilation and improves </tspan>stability of the <tspan x="4"
-							dy="1.2em" class="st6">code base. </tspan><tspan class="st17">Readability</tspan>, the fine details of the <tspan
+							dy="1.2em" class="st6">code base. </tspan><tspan class="st16">Readability</tspan>, the fine details of the <tspan
 							x="4" dy="1.2em" class="st6">algorithms are extracted from the core logic of </tspan><tspan x="4"
 							dy="1.2em" class="st6">the Context. This ensures readability in the </tspan><tspan x="4" dy="1.2em"
 							class="st6">Context. Additionally, as stated in the </tspan>‘When? <tspan x="4" dy="1.2em" class="st6">(4)’ </tspan>section, the cyclomatic complexity of the <tspan
 							x="4" dy="1.2em" class="st6">Context shrinks. This is because conditional </tspan><tspan x="4"
 							dy="1.2em" class="st6">structures are or </tspan>‘moved’ to the client (in case <tspan x="4" dy="1.2em"
 							class="st6">of a single client) or are completely disposed (in </tspan><tspan x="4" dy="1.2em"
-							class="st6">case of multiple clients). </tspan><tspan class="st17">Stability</tspan>, the <tspan x="4"
+							class="st6">case of multiple clients). </tspan><tspan class="st16">Stability</tspan>, the <tspan x="4"
 							dy="1.2em" class="st6">separation of the Strategies from the Context </tspan><tspan x="4" dy="1.2em"
-							class="st6">localizes the impact of change. This means in </tspan><tspan x="4" dy="1.2em" class="st6">case change is required, in one of the </tspan><tspan
-							x="4" dy="1.2em" class="st6">Strategies, the change will not impact the </tspan><tspan x="4" dy="1.2em"
-							class="st6">context nor other Strategies. This has positive </tspan><tspan x="4" dy="1.2em" class="st6">impact on both the test and production code. </tspan><tspan
-							x="4" dy="1.2em" class="st6">Additionally, merge conflicts between </tspan><tspan x="4" dy="1.2em"
-							class="st6">developers will decrease, because Strategy and </tspan><tspan x="4" dy="1.2em" class="st6">Context logic are separated. </tspan><tspan
-							class="st17">Testability</tspan>, <tspan x="4" dy="1.2em" class="st6">because instead of having the Strategies </tspan><tspan
-							x="4" dy="1.2em" class="st6">encapsulated within the Context and called via </tspan><tspan x="4"
-							dy="1.2em" class="st6">a high cyclomatic function, they can </tspan>now be <tspan x="4" dy="1.2em"
-							class="st6">tested individually. This shrinks the problem </tspan><tspan x="4" dy="1.2em" class="st6">window enabling bringing the code faster </tspan><tspan
-							x="4" dy="1.2em" class="st6">under test and pinpointing out </tspan>failures more <tspan x="4"
-							dy="1.2em" class="st6">easily.</tspan></text>			</g>
-			<g id="shape277-212" v:mID="277" v:groupContext="shape" transform="translate(187.4,0)">
+							class="st6">localizes the impact of change. This means if </tspan><tspan x="4" dy="1.2em" class="st6">change is required in one of the </tspan>strategies, the <tspan
+							x="4" dy="1.2em" class="st6">change will not impact the context nor other </tspan><tspan x="4"
+							dy="1.2em" class="st6">Strategies. This has positive impact on both the </tspan><tspan x="4" dy="1.2em"
+							class="st6">test and production code. Additionally, merge </tspan><tspan x="4" dy="1.2em" class="st6">conflicts between developers will decrease, </tspan><tspan
+							x="4" dy="1.2em" class="st6">because Strategy and Context logic </tspan>are <tspan x="4" dy="1.2em"
+							class="st6">separated. </tspan><tspan class="st16">Testability</tspan>, because instead of <tspan x="4"
+							dy="1.2em" class="st6">having the Strategies encapsulated within the </tspan><tspan x="4" dy="1.2em"
+							class="st6">Context and called via a high cyclomatic </tspan><tspan x="4" dy="1.2em" class="st6">function, they can now be tested individually. </tspan><tspan
+							x="4" dy="1.2em" class="st6">This shrinks the problem window enabling </tspan><tspan x="4" dy="1.2em"
+							class="st6">bringing the code faster under test and </tspan><tspan x="4" dy="1.2em" class="st6">pinpointing out failures more easily.</tspan></text>			</g>
+			<g id="shape277-211" v:mID="277" v:groupContext="shape" transform="translate(187.627,0)">
 				<title>Sheet.277</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -414,27 +413,27 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.6509700497249):1"/>
-					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.20494850655619):1"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.21053715867688):1"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.1667770243525):1"/>
+					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.20244521084737):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.20739632987208):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.16632049953519):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#70ad47)"/>
 				</v:userDefs>
-				<path d="M0 1445.67 L15.16 1433.66 L3.47 1430.91 L0 1445.67 Z" class="st29"/>
+				<path d="M0 1445.67 L14.93 1433.69 L3.24 1431.09 L0 1445.67 Z" class="st28"/>
 			</g>
 		</g>
-		<g id="shape278-215" v:mID="278" v:groupContext="shape" v:layerMember="0" transform="translate(807.874,-1177.8)">
+		<g id="shape278-214" v:mID="278" v:groupContext="shape" v:layerMember="0" transform="translate(807.874,-1177.8)">
 			<title>Dynamic connector.278</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="55.2756" cy="1438.58" width="40" height="17.6036"/>
 			<path d="M0 1438.58 L102.95 1438.58" class="st11"/>
 			<rect v:rectContext="textBkgnd" x="50.2579" y="1433.78" width="10.0352" height="9.59985" class="st9"/>
-			<text x="50.26" y="1440.98" class="st14" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape279-222" v:mID="279" v:groupContext="shape" v:layerMember="0" transform="translate(587.421,-826.809)">
+			<text x="50.26" y="1440.98" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="shape279-221" v:mID="279" v:groupContext="shape" v:layerMember="0" transform="translate(587.421,-826.809)">
 			<title>Dynamic connector.279</title>
 			<path d="M0 1445.67 L41.87 1445.67 L41.87 1087.6 L90.96 1087.6" class="st11"/>
 		</g>
-		<g id="shape281-227" v:mID="281" v:groupContext="shape" transform="translate(405.03,-707.362)">
+		<g id="shape281-226" v:mID="281" v:groupContext="shape" transform="translate(405.03,-707.362)">
 			<title>Rectangle.281</title>
 			<desc>(2) The object must support an open-end of algorithms and cha...</desc>
 			<v:userDefs>
@@ -446,11 +445,11 @@
 			<text x="5.4" y="1413.34" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>(2) The object must support an open-<tspan
 						x="18.8" dy="1.2em" class="st6">end of algorithms and changes </tspan><tspan x="59.9" dy="1.2em"
 						class="st6">frequently</tspan></text>		</g>
-		<g id="shape282-232" v:mID="282" v:groupContext="shape" v:layerMember="0" transform="translate(493.228,-784.289)">
+		<g id="shape282-231" v:mID="282" v:groupContext="shape" v:layerMember="0" transform="translate(493.228,-784.289)">
 			<title>Dynamic connector.282</title>
 			<path d="M-7.09 1445.67 L-7.09 1464.25 L-7.09 1468.34" class="st7"/>
 		</g>
-		<g id="shape283-237" v:mID="283" v:groupContext="shape" transform="translate(576.85,-707.362)">
+		<g id="shape283-236" v:mID="283" v:groupContext="shape" transform="translate(576.85,-707.362)">
 			<title>Rectangle.283</title>
 			<desc>(3) Classes only differ in the algorithm they use</desc>
 			<v:userDefs>
@@ -461,11 +460,11 @@
 			<rect x="0" y="1399.02" width="162.224" height="46.6535" class="st4"/>
 			<text x="4.19" y="1419.34" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>(3) Classes only differ in the algorithm <tspan
 						x="63.86" dy="1.2em" class="st6">they use</tspan></text>		</g>
-		<g id="shape284-241" v:mID="284" v:groupContext="shape" v:layerMember="0" transform="translate(486.142,-784.289)">
+		<g id="shape284-240" v:mID="284" v:groupContext="shape" v:layerMember="0" transform="translate(486.142,-784.289)">
 			<title>Dynamic connector.284</title>
 			<path d="M0 1445.67 L0 1462.26 L171.82 1462.26 L171.82 1468.34" class="st7"/>
 		</g>
-		<g id="group285-246" transform="translate(405.03,-302.095)" v:mID="285" v:groupContext="group">
+		<g id="group285-245" transform="translate(405.03,-302.095)" v:mID="285" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -479,11 +478,11 @@
 			</v:userDefs>
 			<title>Folded Corner.285</title>
 			<desc>The Strategy design pattern enables the possibility to add ne...</desc>
-			<g id="shape285-247" v:mID="285" v:groupContext="groupContent">
+			<g id="shape285-246" v:mID="285" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="81.1122" cy="1258.17" width="162.23" height="374.993"/>
-				<path d="M0 1445.67 L151.42 1445.67 L162.22 1437.64 L162.22 1070.68 L0 1070.68 L0 1445.67 Z" class="st23"/>
-				<text x="4" y="1083.68" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>The Strategy design pattern enables <tspan
+				<path d="M0 1445.67 L151.42 1445.67 L162.22 1437.64 L162.22 1070.68 L0 1070.68 L0 1445.67 Z" class="st22"/>
+				<text x="4" y="1083.68" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>The Strategy design pattern enables <tspan
 							x="4" dy="1.2em" class="st6">the possibility to add new Strategies </tspan><tspan x="4" dy="1.2em"
 							class="st6">without modifying the given Context. </tspan><tspan x="4" dy="1.2em" class="st6">The pattern overcomes that a class </tspan><tspan
 							x="4" dy="1.2em" class="st6">(=Context) has </tspan>multiple algorithms <tspan x="4" dy="1.2em"
@@ -494,7 +493,7 @@
 							class="st6">(an indication based on experience). </tspan><tspan x="4" dy="1.2em" class="st6">The pattern might not be suitable in </tspan><tspan
 							x="4" dy="1.2em" class="st6">case the algorithms, that the object </tspan><tspan x="4" dy="1.2em"
 							class="st6">needs to support, do not frequently </tspan><tspan x="4" dy="1.2em" class="st6">or never change.</tspan></text>			</g>
-			<g id="shape286-266" v:mID="286" v:groupContext="shape" transform="translate(151.415,0)">
+			<g id="shape286-265" v:mID="286" v:groupContext="shape" transform="translate(151.415,0)">
 				<title>Sheet.286</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -508,18 +507,18 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.11144975525783):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M0 1445.67 L10.81 1437.64 L3.13 1435.32 L0 1445.67 Z" class="st25"/>
+				<path d="M0 1445.67 L10.81 1437.64 L3.13 1435.32 L0 1445.67 Z" class="st24"/>
 			</g>
 		</g>
-		<g id="shape289-269" v:mID="289" v:groupContext="shape" v:layerMember="0" transform="translate(479.055,-707.362)">
+		<g id="shape289-268" v:mID="289" v:groupContext="shape" v:layerMember="0" transform="translate(479.055,-707.362)">
 			<title>Dynamic connector.289</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1460.81" width="40" height="17.6036"/>
 			<path d="M7.09 1445.67 L7.09 1468.34" class="st7"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="1456.01" width="10.0352" height="9.59985" class="st13"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="1456.01" width="10.0352" height="9.59985" class="st29"/>
 			<text x="2.07" y="1463.21" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group292-276" transform="translate(576.85,-302.095)" v:mID="292" v:groupContext="group">
+		<g id="group292-275" transform="translate(576.85,-302.095)" v:mID="292" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -533,11 +532,11 @@
 			</v:userDefs>
 			<title>Folded Corner.292</title>
 			<desc>The Strategy design pattern is useful when multiple classes o...</desc>
-			<g id="shape292-277" v:mID="292" v:groupContext="groupContent">
+			<g id="shape292-276" v:mID="292" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="81.1122" cy="1258.17" width="162.23" height="374.993"/>
-				<path d="M0 1445.67 L151.42 1445.67 L162.22 1437.64 L162.22 1070.68 L0 1070.68 L0 1445.67 Z" class="st23"/>
-				<text x="4" y="1083.68" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>The Strategy design pattern is useful <tspan
+				<path d="M0 1445.67 L151.42 1445.67 L162.22 1437.64 L162.22 1070.68 L0 1070.68 L0 1445.67 Z" class="st22"/>
+				<text x="4" y="1083.68" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>The Strategy design pattern is useful <tspan
 							x="4" dy="1.2em" class="st6">when multiple classes only differ in </tspan><tspan x="4" dy="1.2em"
 							class="st6">the behavior or algorithmic logic they </tspan><tspan x="4" dy="1.2em" class="st6">perform. The algorithms can be </tspan><tspan
 							x="4" dy="1.2em" class="st6">extracted from the given classes and  </tspan><tspan x="4" dy="1.2em"
@@ -555,7 +554,7 @@
 							x="4" dy="1.2em" class="st6">and Strategy dimensions, ensures </tspan><tspan x="4" dy="1.2em"
 							class="st6">that possible other contexts </tspan>are not <tspan x="4" dy="1.2em" class="st6">dependent on functionality they </tspan><tspan
 							x="4" dy="1.2em" class="st6">don</tspan>’t use.</text>			</g>
-			<g id="shape293-307" v:mID="293" v:groupContext="shape" transform="translate(151.415,0)">
+			<g id="shape293-306" v:mID="293" v:groupContext="shape" transform="translate(151.415,0)">
 				<title>Sheet.293</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -569,18 +568,18 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.11144975525783):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M0 1445.67 L10.81 1437.64 L3.13 1435.32 L0 1445.67 Z" class="st25"/>
+				<path d="M0 1445.67 L10.81 1437.64 L3.13 1435.32 L0 1445.67 Z" class="st24"/>
 			</g>
 		</g>
-		<g id="shape294-310" v:mID="294" v:groupContext="shape" v:layerMember="0" transform="translate(650.876,-707.362)">
+		<g id="shape294-309" v:mID="294" v:groupContext="shape" v:layerMember="0" transform="translate(650.876,-707.362)">
 			<title>Dynamic connector.294</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1460.81" width="40" height="17.6036"/>
 			<path d="M7.09 1445.67 L7.09 1468.34" class="st7"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="1456.01" width="10.0352" height="9.59985" class="st13"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="1456.01" width="10.0352" height="9.59985" class="st9"/>
 			<text x="2.07" y="1463.21" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape296-317" v:mID="296" v:groupContext="shape" transform="translate(748.671,-707.362)">
+		<g id="shape296-316" v:mID="296" v:groupContext="shape" transform="translate(748.671,-707.362)">
 			<title>Rectangle.296</title>
 			<desc>(4) Decomposition of conditional structures</desc>
 			<v:userDefs>
@@ -591,25 +590,25 @@
 			<rect x="0" y="1399.02" width="162.224" height="46.6535" class="st4"/>
 			<text x="14.45" y="1419.34" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>(4) Decomposition of conditional <tspan
 						x="60.51" dy="1.2em" class="st6">structures </tspan> </text>		</g>
-		<g id="group297-321" transform="translate(748.671,-302.095)" v:mID="297" v:groupContext="group">
+		<g id="group297-320" transform="translate(748.671,-234.142)" v:mID="297" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
 				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.17897160603775):1"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.63861001700449):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.15012382267575):1"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.11144975525783):1"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.20048196317402):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.56110798929774):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.18837876989696):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.11839494743055):1"/>
 			</v:userDefs>
 			<title>Folded Corner.297</title>
 			<desc>The Strategy design pattern decomposes conditional structures...</desc>
-			<g id="shape297-322" v:mID="297" v:groupContext="groupContent">
+			<g id="shape297-321" v:mID="297" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="81.1122" cy="1258.17" width="162.23" height="374.993"/>
-				<path d="M0 1445.67 L151.42 1445.67 L162.22 1437.64 L162.22 1070.68 L0 1070.68 L0 1445.67 Z" class="st23"/>
-				<text x="4" y="1083.68" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>The Strategy design pattern <tspan
+				<v:textRect cx="81.1122" cy="1224.2" width="162.23" height="442.947"/>
+				<path d="M0 1445.67 L148.66 1445.67 L162.22 1437.14 L162.22 1002.72 L0 1002.72 L0 1445.67 Z" class="st22"/>
+				<text x="4" y="1015.72" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>The Strategy design pattern <tspan
 							x="4" dy="1.2em" class="st6">decomposes conditional structures in </tspan><tspan x="4" dy="1.2em"
 							class="st6">a given class (Context). A Context, </tspan><tspan x="4" dy="1.2em" class="st6">having multiple </tspan><tspan
 							class="st30">different</tspan> clients, <tspan x="4" dy="1.2em" class="st6">provides slightly modified versions of </tspan><tspan
@@ -629,8 +628,12 @@
 							class="st6">To note: applying the Strategy </tspan><tspan x="4" dy="1.2em" class="st6">pattern in case the </tspan><tspan
 							class="st30">same</tspan> client <tspan x="4" dy="1.2em" class="st6">requires multiple variants of the </tspan><tspan
 							x="4" dy="1.2em" class="st6">Context will result in shifting the </tspan><tspan x="4" dy="1.2em"
-							class="st6">conditional structure to the client. </tspan> </text>			</g>
-			<g id="shape298-356" v:mID="298" v:groupContext="shape" transform="translate(151.415,0)">
+							class="st6">conditional structure to the client. </tspan><tspan x="4" dy="1.2em" class="st6">However, moving the conditional </tspan><tspan
+							x="4" dy="1.2em" class="st6">structure from Context to client can </tspan><tspan x="4" dy="1.2em"
+							class="st6">be a tradeoff that </tspan>is desirable or not. <tspan x="4" dy="1.2em" class="st6">Additionally, encapsulating strategies </tspan><tspan
+							x="4" dy="1.2em" class="st6">in separate objects offers additional </tspan><tspan x="4" dy="1.2em"
+							class="st6">selection mechanisms (e.g. </tspan><tspan x="4" dy="1.2em" class="st6">hashmaps).</tspan></text>			</g>
+			<g id="shape298-362" v:mID="298" v:groupContext="shape" transform="translate(148.661,0)">
 				<title>Sheet.298</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -639,43 +642,43 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.1464352475091):1"/>
-					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.14370079007187):1"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.15012382267575):1"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.11144975525783):1"/>
+					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.169741270343):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.18837876989696):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.11839494743055):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M0 1445.67 L10.81 1437.64 L3.13 1435.32 L0 1445.67 Z" class="st25"/>
+				<path d="M0 1445.67 L13.56 1437.14 L5.88 1433.45 L0 1445.67 Z" class="st24"/>
 			</g>
 		</g>
-		<g id="shape299-359" v:mID="299" v:groupContext="shape" v:layerMember="0" transform="translate(822.697,-707.362)">
+		<g id="shape299-365" v:mID="299" v:groupContext="shape" v:layerMember="0" transform="translate(822.697,-707.362)">
 			<title>Dynamic connector.299</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1460.81" width="40" height="17.6036"/>
 			<path d="M7.09 1445.67 L7.09 1468.34" class="st7"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="1456.01" width="10.0352" height="9.59985" class="st13"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="1456.01" width="10.0352" height="9.59985" class="st29"/>
 			<text x="2.07" y="1463.21" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape300-366" v:mID="300" v:groupContext="shape" v:layerMember="0" transform="translate(486.142,-784.289)">
+		<g id="shape300-372" v:mID="300" v:groupContext="shape" v:layerMember="0" transform="translate(486.142,-784.289)">
 			<title>Dynamic connector.300</title>
 			<path d="M0 1445.67 L0 1462.26 L343.64 1462.26 L343.64 1468.34" class="st7"/>
 		</g>
-		<g id="shape48-371" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(486.142,-784.289)">
+		<g id="shape48-377" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(486.142,-784.289)">
 			<title>Dynamic connector</title>
 			<desc>When?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="1.57481" cy="1456.03" width="40" height="17.6036"/>
 			<path d="M0 1445.67 L0 1462.48 L-191.99 1462.48 L-191.99 1468.34" class="st7"/>
-			<rect v:rectContext="textBkgnd" x="-10.0305" y="1451.23" width="23.2108" height="9.59985" class="st13"/>
+			<rect v:rectContext="textBkgnd" x="-10.0305" y="1451.23" width="23.2108" height="9.59985" class="st29"/>
 			<text x="-10.03" y="1458.43" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>When?</text>		</g>
-		<g id="shape244-378" v:mID="244" v:groupContext="shape" v:layerMember="0" transform="translate(587.421,-819.723)">
+		<g id="shape244-384" v:mID="244" v:groupContext="shape" v:layerMember="0" transform="translate(587.421,-819.723)">
 			<title>Dynamic connector.244</title>
 			<desc>Why?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="21.8701" cy="1437.68" width="40" height="17.6036"/>
 			<path d="M0 1438.58 L90.96 1438.58" class="st11"/>
-			<rect v:rectContext="textBkgnd" x="12.5458" y="1432.88" width="18.6485" height="9.59985" class="st13"/>
-			<text x="12.55" y="1440.08" class="st14" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
-		<g id="shape307-385" v:mID="307" v:groupContext="shape" transform="translate(218.268,-1048.82)">
+			<rect v:rectContext="textBkgnd" x="12.5458" y="1432.88" width="18.6485" height="9.59985" class="st9"/>
+			<text x="12.55" y="1440.08" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
+		<g id="shape307-391" v:mID="307" v:groupContext="shape" transform="translate(218.268,-1048.82)">
 			<title>Rectangle.307</title>
 			<desc>Single Responsibility ‘Overdone’</desc>
 			<v:userDefs>
@@ -683,10 +686,10 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="60.9449" cy="1428.66" width="121.89" height="34.0158"/>
-			<rect x="0" y="1411.65" width="121.89" height="34.0158" class="st19"/>
+			<rect x="0" y="1411.65" width="121.89" height="34.0158" class="st18"/>
 			<text x="19.59" y="1425.66" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Single Responsibility <tspan
 						x="38.27" dy="1.2em" class="st6">‘</tspan>Overdone’</text>		</g>
-		<g id="group308-389" transform="translate(7.79528,-930.243)" v:mID="308" v:groupContext="group">
+		<g id="group308-395" transform="translate(7.79528,-930.243)" v:mID="308" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -700,27 +703,27 @@
 			</v:userDefs>
 			<title>Folded Corner.308</title>
 			<desc>The Strategy pattern entails both the negative and positive a...</desc>
-			<g id="shape308-390" v:mID="308" v:groupContext="groupContent">
+			<g id="shape308-396" v:mID="308" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="1310.09" width="179.3" height="271.167"/>
-				<path d="M0 1445.67 L165.78 1445.67 L179.29 1437.4 L179.29 1174.5 L0 1174.5 L0 1445.67 Z" class="st15"/>
-				<text x="4" y="1187.5" class="st16" v:langID="1033"><v:paragraph/><v:tabList/>The Strategy pattern entails both the <tspan
+				<path d="M0 1445.67 L165.78 1445.67 L179.29 1437.4 L179.29 1174.5 L0 1174.5 L0 1445.67 Z" class="st14"/>
+				<text x="4" y="1187.5" class="st15" v:langID="1033"><v:paragraph/><v:tabList/>The Strategy pattern entails both the <tspan
 							x="4" dy="1.2em" class="st6">negative and positive aspects of the </tspan><tspan x="4" dy="1.2em"
 							class="st6">Single Responsibility principle. All aspects </tspan><tspan x="4" dy="1.2em" class="st6">are compared against situating the </tspan><tspan
 							x="4" dy="1.2em" class="st6">Strategy logic within the Context. The </tspan><tspan x="4" dy="1.2em"
 							class="st6">introduction of a separate class for each </tspan><tspan x="4" dy="1.2em" class="st6">Strategy </tspan>adds to the <tspan
-							class="st17">indirection factor </tspan>of <tspan x="4" dy="1.2em" class="st6">the code. The logic is not situated in the </tspan><tspan
+							class="st16">indirection factor </tspan>of <tspan x="4" dy="1.2em" class="st6">the code. The logic is not situated in the </tspan><tspan
 							x="4" dy="1.2em" class="st6">Context anymore, but is now referenced </tspan><tspan x="4" dy="1.2em"
 							class="st6">by a separate object. This has negative </tspan><tspan x="4" dy="1.2em" class="st6">impact on the </tspan><tspan
-							class="st17">readability</tspan>/<tspan x="4" dy="1.2em" class="st17">understandability </tspan>of the code, because <tspan
+							class="st16">readability</tspan>/<tspan x="4" dy="1.2em" class="st16">understandability </tspan>of the code, because <tspan
 							x="4" dy="1.2em" class="st6">the logic is more scattered. It becomes </tspan><tspan x="4" dy="1.2em"
 							class="st6">harder to comprehend the Context and </tspan><tspan x="4" dy="1.2em" class="st6">Strategies as a </tspan>‘whole’. The <tspan
-							class="st17">Cyclomatic </tspan><tspan x="4" dy="1.2em" class="st17">complexity </tspan>that the Strategy reduces in <tspan
+							class="st16">Cyclomatic </tspan><tspan x="4" dy="1.2em" class="st16">complexity </tspan>that the Strategy reduces in <tspan
 							x="4" dy="1.2em" class="st6">the Context could move to the respective </tspan><tspan x="4" dy="1.2em"
 							class="st6">Client. This means the overall complexity </tspan><tspan x="4" dy="1.2em" class="st6">of the code base is not reduced, but </tspan><tspan
 							x="4" dy="1.2em" class="st6">moved! This statement is not correct in </tspan><tspan x="4" dy="1.2em"
 							class="st6">case multiple clients all dependent on a </tspan><tspan x="4" dy="1.2em" class="st6">different Strategy context combination.</tspan></text>			</g>
-			<g id="shape309-418" v:mID="309" v:groupContext="shape" transform="translate(165.784,0)">
+			<g id="shape309-424" v:mID="309" v:groupContext="shape" transform="translate(165.784,0)">
 				<title>Sheet.309</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -734,28 +737,28 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.11490766823206):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#fec000)"/>
 				</v:userDefs>
-				<path d="M0 1445.67 L13.51 1437.4 L6.14 1433.64 L0 1445.67 Z" class="st18"/>
+				<path d="M0 1445.67 L13.51 1437.4 L6.14 1433.64 L0 1445.67 Z" class="st17"/>
 			</g>
 		</g>
-		<g id="shape312-421" v:mID="312" v:groupContext="shape" v:layerMember="0" transform="translate(384.862,-826.809)">
+		<g id="shape312-427" v:mID="312" v:groupContext="shape" v:layerMember="0" transform="translate(384.862,-826.809)">
 			<title>Dynamic connector.312</title>
-			<path d="M0 1445.67 L-18.64 1445.67 L-18.64 1206.65 L-37.1 1206.65" class="st20"/>
+			<path d="M0 1445.67 L-18.64 1445.67 L-18.64 1206.65 L-37.1 1206.65" class="st19"/>
 		</g>
-		<g id="shape24-426" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(384.862,-819.723)">
+		<g id="shape24-432" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(384.862,-819.723)">
 			<title>Dynamic connector.24</title>
 			<desc>Why not?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-19.0871" cy="1437.5" width="41.38" height="17.6036"/>
-			<path d="M0 1438.58 L-37.1 1438.58" class="st20"/>
-			<rect v:rectContext="textBkgnd" x="-34.8662" y="1432.7" width="31.5585" height="9.59985" class="st13"/>
-			<text x="-34.87" y="1439.9" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
-		<g id="shape313-433" v:mID="313" v:groupContext="shape" v:layerMember="0" transform="translate(218.268,-1058.74)">
+			<path d="M0 1438.58 L-37.1 1438.58" class="st19"/>
+			<rect v:rectContext="textBkgnd" x="-34.8662" y="1432.7" width="31.5585" height="9.59985" class="st9"/>
+			<text x="-34.87" y="1439.9" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
+		<g id="shape313-439" v:mID="313" v:groupContext="shape" v:layerMember="0" transform="translate(218.268,-1058.74)">
 			<title>Dynamic connector.313</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-15.5906" cy="1438.58" width="40" height="17.6036"/>
-			<path d="M0 1438.58 L-23.58 1438.58" class="st20"/>
-			<rect v:rectContext="textBkgnd" x="-20.6082" y="1433.78" width="10.0352" height="9.59985" class="st13"/>
-			<text x="-20.61" y="1440.98" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+			<path d="M0 1438.58 L-23.58 1438.58" class="st19"/>
+			<rect v:rectContext="textBkgnd" x="-20.6082" y="1433.78" width="10.0352" height="9.59985" class="st9"/>
+			<text x="-20.61" y="1440.98" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 	</g>
 </svg>
