@@ -3,4 +3,4 @@
 <img src=StateUML.png width=40% height=40%>
 
 ## Why (not), when (not)?
-![State](https://raw.githubusercontent.com/NiekBeijloos/Design-Patterns/master/Behavioral/8.%20State/State.svg?raw=true)
+![State](https://raw.githubusercontent.com/NiekBeijloos/Design-Patterns/master/Behavioral/08.%20State/State.svg?raw=true)
