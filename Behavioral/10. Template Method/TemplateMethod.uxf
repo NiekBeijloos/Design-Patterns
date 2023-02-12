@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.0.0">
+  <zoom_level>11</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>583</x>
+      <y>143</y>
+      <w>253</w>
+      <h>297</h>
+    </coordinates>
+    <panel_attributes>/AbstractClass/
+--
++TemplateMethod(){
+   Hook()
+   Primitive()
+   Operation()
+}
+
+#Hook(){
+  //optional
+}
+
+-Primitive(){
+   //cannot be overriden
+}
+/#Operation():void/
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>583</x>
+      <y>484</y>
+      <w>253</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>ConcreteClass
+--
+#Operation(){
+  //algorithm variant dependent logic
+}</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>693</x>
+      <y>429</y>
+      <w>33</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+</diagram>
