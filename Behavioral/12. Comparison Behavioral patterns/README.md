@@ -1,7 +1,7 @@
 # Comparison Behavioral patterns
 
 ## Strategy and Visitor
-The Strategy pattern and Visitor pattern can be both applied to use different algorithms (Visitors or Strategies) on a given object, while perseving the object's interface (no modification). This means both patterns adhere to the Open Closed principle. Their difference can be identified in their details:
+The Strategy pattern and Visitor pattern can be both applied to use different algorithms (Visitors or Strategies) on a given object, while perseving the object's internal structure and interface (no modification). This means both patterns adhere to the Open Closed principle. Their difference can be identified in their details:
 1. Participant relations:
     - The Strategy pattern has an one to many relationship. A single Context is injected with multiple Strategies. Each Strategy has its own class.
     - The Visitor pattern is a many to many relationship. A hierarchy of Elements can have multiple Visitors, however a single Visitor can provide functionality for a complete class hierarchy. 
