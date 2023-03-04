@@ -3,4 +3,4 @@
 <img src=PrototypeUML.png width=30% height=30%>
 
 ## Why (not), when (not)?
-![Prototype](https://raw.githubusercontent.com/NiekBeijloos/Design-Patterns/master/Creational/5.%20Prototype/Prototype.svg?raw=true)
+![Prototype](https://raw.githubusercontent.com/NiekBeijloos/Design-Patterns/master/1.%20Creational/5.%20Prototype/Prototype.svg?raw=true)
