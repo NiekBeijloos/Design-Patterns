@@ -21,27 +21,27 @@
 		.st6 {font-size:1em}
 		.st7 {marker-end:url(#mrkr4-19);stroke:#ed7d31;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st8 {fill:#ed7d31;fill-opacity:1;stroke:#ed7d31;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st9 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st9 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
 		.st10 {fill:#d06d29;font-family:Calibri;font-size:0.666664em}
 		.st11 {marker-end:url(#mrkr4-27);stroke:#70ad47;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st12 {fill:#70ad47;fill-opacity:1;stroke:#70ad47;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st13 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
-		.st14 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
-		.st15 {fill:url(#grad0-34);stroke:#dfa800;stroke-width:0.75}
-		.st16 {fill:#dfa800;font-family:Calibri;font-size:0.833336em}
-		.st17 {fill:url(#grad0-52);stroke:#dfa800;stroke-width:0.75}
-		.st18 {fill:#dfa800;stroke:#ba8c00;stroke-width:0.75}
-		.st19 {marker-end:url(#mrkr4-61);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
-		.st20 {fill:#fec000;fill-opacity:1;stroke:#fec000;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st21 {fill:#dfa800;font-family:Calibri;font-size:0.666664em}
-		.st22 {fill:url(#grad0-68);stroke:#d06d29;stroke-width:0.75}
-		.st23 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
-		.st24 {fill:url(#grad0-108);stroke:#d06d29;stroke-width:0.75}
+		.st13 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
+		.st14 {fill:url(#grad0-34);stroke:#dfa800;stroke-width:0.75}
+		.st15 {fill:#dfa800;font-family:Calibri;font-size:0.833336em}
+		.st16 {fill:url(#grad0-52);stroke:#dfa800;stroke-width:0.75}
+		.st17 {fill:#dfa800;stroke:#ba8c00;stroke-width:0.75}
+		.st18 {marker-end:url(#mrkr4-61);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st19 {fill:#fec000;fill-opacity:1;stroke:#fec000;stroke-opacity:1;stroke-width:0.52631578947368}
+		.st20 {fill:#dfa800;font-family:Calibri;font-size:0.666664em}
+		.st21 {fill:url(#grad0-68);stroke:#d06d29;stroke-width:0.75}
+		.st22 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
+		.st23 {fill:url(#grad0-92);stroke:#d06d29;stroke-width:0.75}
+		.st24 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st25 {fill:#61973d;stroke:#507e31;stroke-width:0.75}
-		.st26 {fill:url(#grad0-137);stroke:#61973d;stroke-width:0.75}
+		.st26 {fill:url(#grad0-121);stroke:#61973d;stroke-width:0.75}
 		.st27 {fill:#61973d;font-family:Calibri;font-size:0.833336em}
 		.st28 {font-size:1em;font-weight:bold}
-		.st29 {fill:url(#grad0-180);stroke:#61973d;stroke-width:0.75}
+		.st29 {fill:url(#grad0-164);stroke:#61973d;stroke-width:0.75}
 		.st30 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
@@ -62,17 +62,17 @@
 			<stop offset="0.24" stop-color="#fdf5f3" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-108" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-92" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#f7c6b9" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#f4d1c8" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#d76213" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-137" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-121" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#ebf1e8" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#f5f8f4" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-180" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-164" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#cedcc9" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#d9e3d5" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#578837" stop-opacity="1"/>
@@ -90,7 +90,7 @@
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
-		<marker id="mrkr4-61" class="st20" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
+		<marker id="mrkr4-61" class="st19" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
@@ -142,8 +142,8 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="17.7165" cy="814.961" width="40" height="17.6036"/>
 			<path d="M0 814.96 L27.83 814.96" class="st11"/>
-			<rect v:rectContext="textBkgnd" x="12.6989" y="810.161" width="10.0352" height="9.59985" class="st13"/>
-			<text x="12.7" y="817.36" class="st14" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+			<rect v:rectContext="textBkgnd" x="12.6989" y="810.161" width="10.0352" height="9.59985" class="st9"/>
+			<text x="12.7" y="817.36" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 		<g id="group229-30" transform="translate(9.56693,-509.86)" v:mID="229" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
@@ -161,8 +161,8 @@
 			<g id="shape229-31" v:mID="229" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="731.869" width="179.3" height="180.356"/>
-				<path d="M0 822.05 L171.26 822.05 L179.29 814.65 L179.29 641.69 L0 641.69 L0 822.05 Z" class="st15"/>
-				<text x="4" y="654.69" class="st16" v:langID="1033"><v:paragraph/><v:tabList/>The Momento design pattern violates the <tspan
+				<path d="M0 822.05 L171.26 822.05 L179.29 814.65 L179.29 641.69 L0 641.69 L0 822.05 Z" class="st14"/>
+				<text x="4" y="654.69" class="st15" v:langID="1033"><v:paragraph/><v:tabList/>The Momento design pattern violates the <tspan
 							x="4" dy="1.2em" class="st6">DRY (don</tspan>’t repeat yourself) principle. The <tspan x="4" dy="1.2em"
 							class="st6">Momento contains a copy of the internals </tspan><tspan x="4" dy="1.2em" class="st6">of the Originator. This means changes in </tspan><tspan
 							x="4" dy="1.2em" class="st6">the internals of the Originator will most </tspan><tspan x="4" dy="1.2em"
@@ -186,7 +186,7 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.10270959156701):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#fec000)"/>
 				</v:userDefs>
-				<path d="M0 822.05 L8.03 814.65 L0.66 814.04 L0 822.05 Z" class="st17"/>
+				<path d="M0 822.05 L8.03 814.65 L0.66 814.04 L0 822.05 Z" class="st16"/>
 			</g>
 		</g>
 		<g id="shape232-53" v:mID="232" v:groupContext="shape" transform="translate(218.268,-583.03)">
@@ -197,35 +197,35 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="60.9449" cy="805.039" width="121.89" height="34.0158"/>
-			<rect x="0" y="788.031" width="121.89" height="34.0158" class="st18"/>
+			<rect x="0" y="788.031" width="121.89" height="34.0158" class="st17"/>
 			<text x="28.04" y="808.04" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Violation of DRY</text>		</g>
 		<g id="shape234-56" v:mID="234" v:groupContext="shape" v:layerMember="0" transform="translate(218.268,-592.951)">
 			<title>Dynamic connector.234</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-9.9992" cy="814.961" width="40" height="17.6036"/>
-			<path d="M0 814.96 L-21.81 814.96" class="st19"/>
+			<path d="M0 814.96 L-21.81 814.96" class="st18"/>
 			<rect v:rectContext="textBkgnd" x="-15.0169" y="810.161" width="10.0352" height="9.59985" class="st9"/>
-			<text x="-15.02" y="817.36" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group235-64" transform="translate(402.077,-14.1732)" v:mID="235" v:groupContext="group">
+			<text x="-15.02" y="817.36" class="st20" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="group235-64" transform="translate(402.077,-206.362)" v:mID="235" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
 				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.26390973563979):1"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.75595939072318):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.19235766592739):1"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.18135290610767):1"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.21075894970638):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(1.033282875467):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.12267914108243):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20581861548532):1"/>
 			</v:userDefs>
 			<title>Folded Corner.235</title>
 			<desc>The Momento design pattern enables capturing the internal sta...</desc>
 			<g id="shape235-65" v:mID="235" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="84.065" cy="602.676" width="168.13" height="438.742"/>
-				<path d="M0 822.05 L154.28 822.05 L168.13 808.99 L168.13 383.31 L0 383.31 L0 822.05 Z" class="st22"/>
-				<text x="4" y="396.31" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>The Momento design pattern enables <tspan
+				<v:textRect cx="84.065" cy="698.771" width="168.13" height="246.553"/>
+				<path d="M0 822.05 L159.3 822.05 L168.13 807.23 L168.13 575.49 L0 575.49 L0 822.05 Z" class="st21"/>
+				<text x="4" y="588.49" class="st22" v:langID="1033"><v:paragraph/><v:tabList/>The Momento design pattern enables <tspan
 							x="4" dy="1.2em" class="st6">capturing the internal state of an </tspan><tspan x="4" dy="1.2em"
 							class="st6">object (=Originator) while preserving </tspan><tspan x="4" dy="1.2em" class="st6">encapsulation. The Originator </tspan><tspan
 							x="4" dy="1.2em" class="st6">constructs the Momento (=Token) by </tspan><tspan x="4" dy="1.2em"
@@ -238,18 +238,8 @@
 							x="4" dy="1.2em" class="st6">Caretaker may only see </tspan>some meta <tspan x="4" dy="1.2em"
 							class="st6">data of the Momento. Applicability of </tspan><tspan x="4" dy="1.2em" class="st6">the Momento Design pattern are undo </tspan><tspan
 							x="4" dy="1.2em" class="st6">or rollback mechanisms (e.g. GIT </tspan><tspan x="4" dy="1.2em"
-							class="st6">stash). </tspan>The Prototype pattern can be <tspan x="4" dy="1.2em" class="st6">used to support the creation of the </tspan><tspan
-							x="4" dy="1.2em" class="st6">Momento. Creation is where the </tspan><tspan x="4" dy="1.2em" class="st6">Prototype pattern stops and the </tspan><tspan
-							x="4" dy="1.2em" class="st6">Momento pattern starts. The </tspan><tspan x="4" dy="1.2em" class="st6">Momento pattern adds a narrowed </tspan><tspan
-							x="4" dy="1.2em" class="st6">interface on top of this clone to ensure </tspan><tspan x="4" dy="1.2em"
-							class="st6">encapsulation. However, </tspan>in case we <tspan x="4" dy="1.2em" class="st6">need a partial snapshot of the </tspan><tspan
-							x="4" dy="1.2em" class="st6">Originator the </tspan>‘full’ Momento design <tspan x="4" dy="1.2em"
-							class="st6">pattern might be more suitable. The </tspan><tspan x="4" dy="1.2em" class="st6">Prototype pattern is intended to do a </tspan><tspan
-							x="4" dy="1.2em" class="st6">‘</tspan>full’ clone that includes the entire <tspan x="4" dy="1.2em"
-							class="st6">internal state of the Originator. The </tspan><tspan x="4" dy="1.2em" class="st6">Momento design pattern enables </tspan><tspan
-							x="4" dy="1.2em" class="st6">possibility to only snapshot some of </tspan><tspan x="4" dy="1.2em"
-							class="st6">the Originator</tspan>’s internal state.</text>			</g>
-			<g id="shape236-105" v:mID="236" v:groupContext="shape" transform="translate(154.28,0)">
+							class="st6">stash). </tspan> </text>			</g>
+			<g id="shape236-89" v:mID="236" v:groupContext="shape" transform="translate(155.095,0)">
 				<title>Sheet.236</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -258,31 +248,31 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.1540990339914):1"/>
-					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.19202435202255):1"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.19235766592739):1"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.18135290610767):1"/>
+					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.10790893422491):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.12267914108243):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.20581861548532):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M0 822.05 L13.85 808.99 L0.81 808.22 L0 822.05 Z" class="st24"/>
+				<path d="M4.2 822.05 L13.03 807.23 L0 814.28 L4.2 822.05 Z" class="st23"/>
 			</g>
 		</g>
-		<g id="shape24-109" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(384.862,-592.951)">
+		<g id="shape24-93" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(384.862,-592.951)">
 			<title>Dynamic connector.24</title>
 			<desc>Why not?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-19.0871" cy="813.875" width="41.38" height="17.6036"/>
-			<path d="M0 814.96 L-37.1 814.96" class="st19"/>
-			<rect v:rectContext="textBkgnd" x="-34.8662" y="809.076" width="31.5585" height="9.59985" class="st13"/>
-			<text x="-34.87" y="816.28" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
-		<g id="shape48-116" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(493.228,-557.518)">
+			<path d="M0 814.96 L-37.1 814.96" class="st18"/>
+			<rect v:rectContext="textBkgnd" x="-34.8662" y="809.076" width="31.5585" height="9.59985" class="st9"/>
+			<text x="-34.87" y="816.28" class="st20" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
+		<g id="shape48-100" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(493.228,-557.518)">
 			<title>Dynamic connector</title>
 			<desc>When?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-5.51181" cy="829.787" width="40" height="17.6036"/>
 			<path d="M-7.09 822.05 L-7.09 838.86 L-7.09 843.42" class="st7"/>
-			<rect v:rectContext="textBkgnd" x="-17.1172" y="824.987" width="23.2108" height="9.59985" class="st13"/>
+			<rect v:rectContext="textBkgnd" x="-17.1172" y="824.987" width="23.2108" height="9.59985" class="st24"/>
 			<text x="-17.12" y="832.19" class="st10" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>When?</text>		</g>
-		<g id="shape243-123" v:mID="243" v:groupContext="shape" transform="translate(619.37,-583.03)">
+		<g id="shape243-107" v:mID="243" v:groupContext="shape" transform="translate(619.37,-583.03)">
 			<title>Rectangle.243</title>
 			<desc>Single Responsibility</desc>
 			<v:userDefs>
@@ -292,15 +282,15 @@
 			<v:textRect cx="60.9449" cy="805.039" width="121.89" height="34.0158"/>
 			<rect x="0" y="788.031" width="121.89" height="34.0158" class="st25"/>
 			<text x="19.59" y="808.04" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Single Responsibility</text>		</g>
-		<g id="shape244-126" v:mID="244" v:groupContext="shape" v:layerMember="0" transform="translate(587.421,-592.951)">
+		<g id="shape244-110" v:mID="244" v:groupContext="shape" v:layerMember="0" transform="translate(587.421,-592.951)">
 			<title>Dynamic connector.244</title>
 			<desc>Why?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="15.9744" cy="814.961" width="40" height="17.6036"/>
 			<path d="M0 814.96 L24.35 814.96" class="st11"/>
-			<rect v:rectContext="textBkgnd" x="6.65011" y="810.161" width="18.6485" height="9.59985" class="st13"/>
-			<text x="6.65" y="817.36" class="st14" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
-		<g id="group258-133" transform="translate(776.693,-392.052)" v:mID="258" v:groupContext="group">
+			<rect v:rectContext="textBkgnd" x="6.65011" y="810.161" width="18.6485" height="9.59985" class="st24"/>
+			<text x="6.65" y="817.36" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
+		<g id="group258-117" transform="translate(776.693,-392.052)" v:mID="258" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -314,7 +304,7 @@
 			</v:userDefs>
 			<title>Folded Corner.258</title>
 			<desc>The Momento pattern compliments the Single Responsibility Pri...</desc>
-			<g id="shape258-134" v:mID="258" v:groupContext="groupContent">
+			<g id="shape258-118" v:mID="258" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="93.5433" cy="614.061" width="187.09" height="415.972"/>
 				<path d="M0 822.05 L175.02 822.05 L187.09 811.19 L187.09 406.08 L0 406.08 L0 822.05 Z" class="st26"/>
@@ -344,7 +334,7 @@
 							x="4" dy="1.2em" class="st6">Caretaker. The Originator could maintain </tspan><tspan x="4" dy="1.2em"
 							class="st6">snapshots of its internal state. However, </tspan><tspan x="4" dy="1.2em" class="st6">this would increase the complexity of the </tspan><tspan
 							x="4" dy="1.2em" class="st6">Originator.</tspan></text>			</g>
-			<g id="shape259-177" v:mID="259" v:groupContext="shape" transform="translate(175.016,0)">
+			<g id="shape259-161" v:mID="259" v:groupContext="shape" transform="translate(175.016,0)">
 				<title>Sheet.259</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>

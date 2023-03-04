@@ -65,7 +65,7 @@ Update(subject:ISubject)
 }
 +Notify(){
    for(auto observer: observes){
-      observer-&gt;notify()
+      observer-&gt;update(this)
    }
 }</panel_attributes>
     <additional_attributes/>
