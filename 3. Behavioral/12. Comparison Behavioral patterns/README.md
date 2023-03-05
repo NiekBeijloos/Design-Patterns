@@ -54,23 +54,62 @@ The Strategy and State pattern both enable an object to change behavior during r
 
 ## Command and Observer
 
-The Command and Observer pattern can be used to decouple a Sender from the Receiver. Both patterns provide a way to let Senders notify their Receivers when their internal structure changes. Their differences:
+The Command and Observer pattern both prescribe decoupling Sender from the Receiver to gain reusability and stability. Both patterns provide a way to let Senders notify their Receivers when their internal structure changes. Their differences:
 1. Participant relation: 
-    - The Observer pattern allows an open end of Receivers to subscribe to the same Sender during runtime.
-    - The Command pattern allows a single Receiver to subscribe to the same Sender during runtime.
+    - The Observer pattern allows an open end of Receivers to be notified by the same Sender during runtime.
+    - The Command pattern allows a single Receiver to be notified by the same Sender during runtime.
 2. Messaging mechanism:
     - The Command pattern has an 'indirect' messaging mechanism between Sender and Receiver. A message from the Sender, within the Command pattern, is embodied by a Command object. This Command object resolves the dependency constraints between Sender and Receiver. A seperate Command object, to transfer a message from Sender to Receiver, allows messages to be queued, to be undone or redone. 
-    - The Observer pattern has a 'direct' messaging mechanism between Sender And Receiver. The message from the Sender to Receiver is direct, because the Receiver resides in the Sender and gets called directly when the Sender changes. 
+    - The Observer pattern has a 'direct' messaging mechanism between Sender and Receiver. The message from the Sender to Receiver is direct, because the Receiver resides in the Sender and gets called directly when the Sender changes. 
 3. Sender-Receiver decoupling:
    - The Command pattern decouples the Sender and Receiver via a seperate Command object. This allows the Receiver to be unaware of the Sender. This contributes to the Interface Segregation principle. The Receiver is only dependent on the information it requires from the Sender. Adherence to the ISP contributes in this case to less recompilation and stable test code of the Receiver. Additionaly, the reusability of the Receiver 'grows', because it has less dependencies making it more Single Responsible. The gain in the Receiver, could result in a shift of the ISP and SRP violation to the Command object. This can be a design trade off. 
-   - The Observer pattern decouples the Sender and Receiver via an abstraction. The Receiver is aware of the Sender, in case the Sender injects itself as an argument. In this way the Receiver can request the required information from the Sender. The Sender becomes less reusable in case the Sender doesn't send itself, but the required information directly. This is because other Receivers might require different information from the Sender. The Interface Segregation principle is violated in case the Receiver depends on functionality from the Sender it does not use. The negativily impacts the test code stability and recompilation of the Receiver. Additionaly, there is less adherence to the Single Responsibility principle, that negativily impacts the Receivers reusability. 
+   - The Observer pattern decouples the Sender and Receiver via an abstraction. The Receiver is aware of the Sender, in case the Sender injects itself as an argument. In this way the Receiver can request the required information from the Sender. The Sender becomes less reusable in case the Sender doesn't send itself, but the required information directly. This is because other Receivers might require different information from the Sender. The Interface Segregation principle is violated in case the Receiver depends on functionality from the Sender it does not use. This negativily impacts the test code stability and recompilation of the Receiver. Additionaly, there is less adherence to the Single Responsibility principle, that negativily impacts the Receivers reusability. 
 
 **The Command pattern should be prefered over the Observer pattern when:**
 - The message from the Sender toward the Receiver requires queuing, undoing or redoing.
-- A Sender will have a single Receiver.
+- A Sender will have a single Receiver, which can be defined during compile time.
 - Sender and receiver decoupling has high importance.
 
 **The Observer pattern should be prefered over the Command pattern when:**
-- A Sender will have an open end of Receivers. 
+- A Sender will have an open end of Receivers, which will vary during runtime.
 
 The patterns can of course be combined to gain the applicability of both 'worlds'. A Sender, from the Observer pattern, could use a Command to notify its Receivers.
+
+## Observer and Mediator
+
+The Observer and Mediator both prescribe decoupling Sender from Receiver to gain reusability and stability. Their differences:
+1. Participant relation:
+   - The Mediator pattern requires change when a new Receiver is introduced that needs to be coupled to an existing Sender. The intermediate object (= mediator) would require change to support interaction between the new Receiver and the existing Sender. The relation between Sender and Receiver is determined during compile time, which means it should be statically defined.
+   - The Observer pattern does not require change when a new Receiver is introduced that needs to be coupled to an existing Sender. The Observer pattern allows an open-end of Receivers to be coupled to an existing Sender. This may vary during runtime, which means it can be dynamically defined.
+2. Messaging mechanism:
+   - The Mediator pattern uses 'indirect' communication between Sender and Receiver. The communication between Sender and Receiver is centralized into a seperate object, called the Mediator. This means the Sender notifies an intermediate object (= Mediator) and the intermediate object notifies the Receiver.  
+   - The Observer pattern uses 'direct' communication between Sender and Receiver. The Observer pattern distributes Sender and Receiver interaction. The Receiver hooks up with the Sender and the Sender notifies the Receiver when it has changed.
+3. Sender-receiver decoupling:
+   - The Mediator pattern decouples Sender and Receiver via an intermediate object. This enhances stability and reusability of the Senders and Receivers. The intermediate object can be replaced by a new interaction context, without modification or duplication of Senders and Receivers. The 'gain' in Senders and Receivers is a 'loss' in the intermediate object. Intermediate objects are hard to reuse and can be unstable, because of the amount of dependencies they require. The reusability and stability of interaction logic is degraded.
+   - The Observer pattern decouples Sender and Receiver via an abstraction. As stated in the comparison between 'Command and Observer': > "The Receiver is aware of the Sender, in case the Sender injects itself as an argument". This makes the Receiver less stable and reusable. The changes of the Sender reflect on the Receiver and the Receiver becomes less reusable for other Senders. However, the reusability and stability of interaction logic between Sender and Receiver is increased.
+
+**The Observer pattern should be prefered over the Mediator pattern when:**
+- The amount of new Senders and Receivers are unstable and can vary.
+- The hook-up of Senders and Receivers needs to vary during runtime.
+- The reusability and stability of interaction logic is more important than the reusability and stability of stand-alone Sender and Receiver logic.
+- There is 'Simple' interaction logic between Senders and Receivers.
+
+**The Mediator pattern should be prefered over the Observer pattern when:**
+- The amount of new Senders and Receivers are stable and don't vary often.
+- The hook-up of Senders and Receivers can be predefined during compile time.
+- The reusability and stability of stand-alone Sender and Receiver logic is more important than the reusability and stability of interaction logic.
+- There is 'Complex' interaction logic between Senders and Receivers. Centralizing this logic can simplify understanding.
+
+The patterns can of course be combined to gain the applicability of both 'worlds'. The intermediate object (=Mediator), of the Mediator pattern, can use the Observer pattern to hook-up Receivers with Senders.
+
+## Command and Mediator
+
+The Command and Mediator both prescribe decoupling Sender from Receiver to gain reusability and stability. Both patterns use an 'intermediate' from to transfer message from Sender to Receiver. The Command pattern uses a Command instance. The Mediator pattern uses a Mediator instance. Their differences:
+1. Participant interaction:
+   - The Mediator pattern uses an intermediate object (=Mediator) to facilitate bidirectional messaging between multiple objects. The Mediator is familiar with both the Receiver and Sender.
+   - The Command pattern uses an intermediate object (=Command) to faciliate unidirectional messaging between two objects. The Command is familiar with only the Receiver.
+
+The same Mediator can estabilish 
+
+
+
