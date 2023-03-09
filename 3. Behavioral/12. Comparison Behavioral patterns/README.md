@@ -54,7 +54,7 @@ The Strategy and State pattern both enable an object to change behavior during r
 
 ## Command and Observer
 
-The Command and Observer pattern both prescribe decoupling Sender from the Receiver to gain reusability and stability. Both patterns provide a way to let Senders notify their Receivers when their internal structure changes. Their differences:
+The Command and Observer pattern both prescribe decoupling Sender from the Receiver to gain reusability and stability of the code base. Both patterns provide a way to let Senders notify their Receivers when their internal structure changes. Their differences:
 1. Participant relation: 
     - The Observer pattern allows an open end of Receivers to be notified by the same Sender during runtime.
     - The Command pattern allows a single Receiver to be notified by the same Sender during runtime.
@@ -85,7 +85,7 @@ The Observer and Mediator both prescribe decoupling Sender from Receiver to gain
    - The Mediator pattern uses 'indirect' communication between Sender and Receiver. The communication between Sender and Receiver is centralized into a seperate object, called the Mediator. This means the Sender notifies an intermediate object (= Mediator) and the intermediate object notifies the Receiver.  
    - The Observer pattern uses 'direct' communication between Sender and Receiver. The Observer pattern distributes Sender and Receiver interaction. The Receiver hooks up with the Sender and the Sender notifies the Receiver when it has changed.
 3. Sender-receiver decoupling:
-   - The Mediator pattern decouples Sender and Receiver via an intermediate object. This enhances stability and reusability of the Senders and Receivers. The intermediate object can be replaced by a new interaction context, without modification or duplication of Senders and Receivers. The 'gain' in Senders and Receivers is a 'loss' in the intermediate object. Intermediate objects are hard to reuse and can be unstable, because of the amount of dependencies they require. The reusability and stability of interaction logic is degraded.
+   - The Mediator pattern decouples Sender and Receiver via an intermediate object. This enhances stability and reusability of the Senders and Receivers. The intermediate object can be replaced by a new interaction context, without modification or duplication of Senders and Receivers. The 'gain' in Senders and Receivers is a 'loss' in the intermediate object. Intermediate objects are hard to reuse and can be unstable, because of the amount of dependencies they require. The reusability and stability of the interaction logic is degraded.
    - The Observer pattern decouples Sender and Receiver via an abstraction. As stated in the comparison between 'Command and Observer': > "The Receiver is aware of the Sender, in case the Sender injects itself as an argument". This makes the Receiver less stable and reusable. The changes of the Sender reflect on the Receiver and the Receiver becomes less reusable for other Senders. However, the reusability and stability of interaction logic between Sender and Receiver is increased.
 
 **The Observer pattern should be prefered over the Mediator pattern when:**
@@ -106,10 +106,22 @@ The patterns can of course be combined to gain the applicability of both 'worlds
 
 The Command and Mediator both prescribe decoupling Sender from Receiver to gain reusability and stability. Both patterns use an 'intermediate' from to transfer message from Sender to Receiver. The Command pattern uses a Command instance. The Mediator pattern uses a Mediator instance. Their differences:
 1. Participant interaction:
-   - The Mediator pattern uses an intermediate object (=Mediator) to facilitate bidirectional messaging between multiple objects. The Mediator is familiar with both the Receiver and Sender.
-   - The Command pattern uses an intermediate object (=Command) to faciliate unidirectional messaging between two objects. The Command is familiar with only the Receiver.
+   - The Mediator pattern uses an intermediate object (=Mediator) to facilitate bidirectional messaging between multiple objects. This means object 1 can send a message to object 2 via the same Mediator and visa versa.
+   - The Command pattern uses an intermediate object (=Command) to faciliate unidirectional messaging between two objects. This means object 1 can send a message to object 2 via a Command object, but not visa versa. A new Command class would be needed to send a message from object 2 to object 1.
+2. Applicability:
+   - The Command pattern complies to the Single Responsibility principle. Each command contains a single transaction, which has positive affect on the testability, readability and stability of the code. Testability and readability, because the problem window is small. Stability, because the impact of changing a Command is relativily small. The Single Responsibility of a command, realized by a single transaction, contributes to the possibility to queue, undo and redo the transaction easily.
+   - The Mediator pattern complies to the Single Responsibility principle. A Mediator contains multiple transactions in a centralized place, that simplifies understanding and extendibility. Understanding, because complex interaction logic between multiple objects can be seen at a glance. extendibility, because interaction logic can be changed in a single place, by inherting from the Mediator base.
 
-The same Mediator can estabilish 
+**The Command pattern should be prefered over the Mediator pattern when:**
+- Queuing, undoing and redoing of transactions is a requirement
 
+**The Mediator pattern should be prefered over the Command pattern when:**
+- The transaction logic of multiple objects should be centralized to gain extendibility and understandability
 
+It might be possible to queue or undo/redo interactions using the Mediator pattern, but this would require us to externally keep track of 'Colleagues' & Momentos and use the Mediator to perform these actions. The Command pattern enables us to only keep track of Command objects externally and perform these actions on them directly. As stated before the Command's flexibility and ease of use comes from its adherence to Single Responsibility principle.
 
+## Chain of Responsibility and Observer
+The Chain of Resonsibility and the Observer both decouple sender and receiver enabling runtime flexibility to hook-up an open-end of senders and receivers. Their differences:
+1. Participant interaction:
+   - The Observer pattern allows an open-end of Receivers to hook-up with the same Sender (during runtime).
+   - The Chain of Responsbility allows a single Receiver to hook-up with a single Sender sequently (during runtime). This means in the middle of the chain Senders are also Receivers and Receivers are also Senders. 

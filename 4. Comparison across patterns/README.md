@@ -28,3 +28,10 @@ The Prototype pattern is a Creational pattern and the Momento is a behavioral pa
 3. Copying behavior:
    - The Prototype pattern prescribes making a full internal copy of an existing object.
    - The Momento pattern enables making a full or partial copy of an existing object.
+
+## Decorator and Chain Of Responsibility
+
+The Decorator and Chain Of Responsibility can be both used to execute a sequence of operations. Their difference:
+1. Intent:
+   - The Chain Of Responsibility is intended to handle a request and if it can't handle it pass it on to the next handler in the chain. In case the Handler is able to handle the request the sequence (=Chain) can be interrupted.
+   - The Decorator is intended to add additional behavior on top of existing behavior. Interrupting the sequence of calls would violate the intend of the Design pattern, because (existing) behavior would be discarded.
