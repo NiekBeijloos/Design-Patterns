@@ -27,22 +27,22 @@
 		.st12 {fill:url(#grad0-28);stroke:#61973d;stroke-width:0.75}
 		.st13 {fill:#61973d;font-family:Calibri;font-size:0.833336em}
 		.st14 {font-size:1em;font-weight:bold}
-		.st15 {fill:url(#grad0-50);stroke:#61973d;stroke-width:0.75}
-		.st16 {marker-end:url(#mrkr4-56);stroke:#70ad47;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st15 {fill:url(#grad0-51);stroke:#61973d;stroke-width:0.75}
+		.st16 {marker-end:url(#mrkr4-57);stroke:#70ad47;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st17 {fill:#70ad47;fill-opacity:1;stroke:#70ad47;stroke-opacity:1;stroke-width:0.52631578947368}
 		.st18 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
-		.st19 {fill:url(#grad0-67);stroke:#d06d29;stroke-width:0.75}
+		.st19 {fill:url(#grad0-68);stroke:#d06d29;stroke-width:0.75}
 		.st20 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
-		.st21 {fill:url(#grad0-83);stroke:#d06d29;stroke-width:0.75}
-		.st22 {fill:url(#grad0-95);stroke:#dfa800;stroke-width:0.75}
+		.st21 {fill:url(#grad0-84);stroke:#d06d29;stroke-width:0.75}
+		.st22 {fill:url(#grad0-96);stroke:#dfa800;stroke-width:0.75}
 		.st23 {fill:#dfa800;font-family:Calibri;font-size:0.833336em}
-		.st24 {fill:url(#grad0-109);stroke:#dfa800;stroke-width:0.75}
+		.st24 {fill:url(#grad0-110);stroke:#dfa800;stroke-width:0.75}
 		.st25 {fill:#dfa800;stroke:#ba8c00;stroke-width:0.75}
-		.st26 {marker-end:url(#mrkr4-119);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st26 {marker-end:url(#mrkr4-120);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st27 {fill:#fec000;fill-opacity:1;stroke:#fec000;stroke-opacity:1;stroke-width:0.52631578947368}
 		.st28 {fill:#dfa800;font-family:Calibri;font-size:0.666664em}
 		.st29 {font-size:1em;font-style:italic}
-		.st30 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st30 {font-size:1em;text-decoration:underline}
 		.st31 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
@@ -53,27 +53,27 @@
 			<stop offset="0.24" stop-color="#f5f8f4" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-50" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-51" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#cedcc9" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#d9e3d5" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#578837" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-67" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-68" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#fbece7" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#fdf5f3" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-83" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-84" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#f7c6b9" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#f4d1c8" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#d76213" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-95" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-96" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#fef4e7" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#fef9f3" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-109" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-110" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#ffddb3" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#ffe3bd" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#ca9800" stop-opacity="1"/>
@@ -87,11 +87,11 @@
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
-		<marker id="mrkr4-56" class="st17" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
+		<marker id="mrkr4-57" class="st17" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
-		<marker id="mrkr4-119" class="st27" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
+		<marker id="mrkr4-120" class="st27" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
@@ -168,16 +168,16 @@
 							x="4" dy="1.2em" class="st7">Open Closed Principle by enabling </tspan><tspan x="4" dy="1.2em"
 							class="st7">introduction of a new Command, </tspan><tspan x="4" dy="1.2em" class="st7">referencing the same Receiver, without </tspan><tspan
 							x="4" dy="1.2em" class="st7">changing the Receiver. In contrast, if the </tspan><tspan x="4" dy="1.2em"
-							class="st7">Receiver follows the Command interface </tspan><tspan x="4" dy="1.2em" class="st7">then the Receiver can offer only one of its </tspan><tspan
-							x="4" dy="1.2em" class="st7">functionalities via this interface. Exposure </tspan><tspan x="4"
-							dy="1.2em" class="st7">of multiple functionalities would require a </tspan><tspan x="4" dy="1.2em"
-							class="st7">behavior switch of the Receiver and </tspan>thus <tspan x="4" dy="1.2em" class="st7">most likely change. Via the Command </tspan><tspan
-							x="4" dy="1.2em" class="st7">pattern we can introduce another </tspan><tspan x="4" dy="1.2em"
-							class="st7">Command and reference a different </tspan><tspan x="4" dy="1.2em" class="st7">function of the same Receiver. The </tspan><tspan
-							x="4" dy="1.2em" class="st7">system can be extended </tspan>without change <tspan x="4" dy="1.2em"
-							class="st7">ensuring </tspan><tspan class="st14">stability </tspan>in test and production <tspan x="4"
-							dy="1.2em" class="st7">code.</tspan></text>			</g>
-			<g id="shape206-47" v:mID="206" v:groupContext="shape" transform="translate(167.402,0)">
+							class="st7">Receiver inherits the Command interface </tspan><tspan x="4" dy="1.2em" class="st7">(to gain Invoker reusability) then the </tspan><tspan
+							x="4" dy="1.2em" class="st7">Receiver can offer only one of its </tspan><tspan x="4" dy="1.2em"
+							class="st7">functionalities via this interface. Exposure </tspan><tspan x="4" dy="1.2em" class="st7">of multiple functionalities would require a </tspan><tspan
+							x="4" dy="1.2em" class="st7">behavior switch of the Receiver and </tspan>thus <tspan x="4" dy="1.2em"
+							class="st7">most likely change. Via the Command </tspan><tspan x="4" dy="1.2em" class="st7">pattern we can introduce another </tspan><tspan
+							x="4" dy="1.2em" class="st7">Command and reference a different </tspan><tspan x="4" dy="1.2em"
+							class="st7">function of the same Receiver. The </tspan><tspan x="4" dy="1.2em" class="st7">system can be extended </tspan>without change <tspan
+							x="4" dy="1.2em" class="st7">ensuring </tspan><tspan class="st14">stability </tspan>in test and production <tspan
+							x="4" dy="1.2em" class="st7">code.</tspan></text>			</g>
+			<g id="shape206-48" v:mID="206" v:groupContext="shape" transform="translate(167.402,0)">
 				<title>Sheet.206</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -194,7 +194,7 @@
 				<path d="M0 1305.35 L11.89 1298.16 L5.51 1294.82 L0 1305.35 Z" class="st15"/>
 			</g>
 		</g>
-		<g id="shape207-51" v:mID="207" v:groupContext="shape" v:layerMember="0" transform="translate(746.929,-543.345)">
+		<g id="shape207-52" v:mID="207" v:groupContext="shape" v:layerMember="0" transform="translate(746.929,-543.345)">
 			<title>Dynamic connector.207</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -202,7 +202,7 @@
 			<path d="M0 1298.27 L30.67 1298.27" class="st16"/>
 			<rect v:rectContext="textBkgnd" x="14.1162" y="1293.47" width="10.0352" height="9.59985" class="st10"/>
 			<text x="14.12" y="1300.67" class="st18" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape210-59" v:mID="210" v:groupContext="shape" transform="translate(334.843,-399.803)">
+		<g id="shape210-60" v:mID="210" v:groupContext="shape" transform="translate(334.843,-399.803)">
 			<title>Rectangle.210</title>
 			<desc>(2) Queue and schedule execution of requests</desc>
 			<v:userDefs>
@@ -213,7 +213,7 @@
 			<rect x="0" y="1258.7" width="149.528" height="46.6535" class="st6"/>
 			<text x="5.39" y="1279.03" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>(2) Queue and schedule execution <tspan
 						x="51.91" dy="1.2em" class="st7">of requests</tspan></text>		</g>
-		<g id="group216-63" transform="translate(334.843,-177.165)" v:mID="216" v:groupContext="group">
+		<g id="group216-64" transform="translate(334.843,-177.165)" v:mID="216" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -227,7 +227,7 @@
 			</v:userDefs>
 			<title>Folded Corner.216</title>
 			<desc>As expressed in point (1), the Command implementation is the ...</desc>
-			<g id="shape216-64" v:mID="216" v:groupContext="groupContent">
+			<g id="shape216-65" v:mID="216" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="74.7638" cy="1206.13" width="149.53" height="198.449"/>
 				<path d="M0 1305.35 L142.28 1305.35 L149.53 1295.99 L149.53 1106.91 L0 1106.91 L0 1305.35 Z" class="st19"/>
@@ -239,7 +239,7 @@
 							x="4" dy="1.2em" class="st7">later moment in time. E.g. a </tspan><tspan x="4" dy="1.2em" class="st7">Thread Pool that needs to queue </tspan><tspan
 							x="4" dy="1.2em" class="st7">certain requests until a Thread </tspan><tspan x="4" dy="1.2em"
 							class="st7">becomes available to execute it.  </tspan>  </text>			</g>
-			<g id="shape217-80" v:mID="217" v:groupContext="shape" transform="translate(140.465,0)">
+			<g id="shape217-81" v:mID="217" v:groupContext="shape" transform="translate(140.465,0)">
 				<title>Sheet.217</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -256,7 +256,7 @@
 				<path d="M1.82 1305.35 L9.06 1295.99 L0 1298.34 L1.82 1305.35 Z" class="st21"/>
 			</g>
 		</g>
-		<g id="shape218-84" v:mID="218" v:groupContext="shape" v:layerMember="0" transform="translate(402.52,-399.803)">
+		<g id="shape218-85" v:mID="218" v:groupContext="shape" v:layerMember="0" transform="translate(402.52,-399.803)">
 			<title>Dynamic connector.218</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -264,7 +264,7 @@
 			<path d="M7.09 1305.35 L7.09 1321.94" class="st8"/>
 			<rect v:rectContext="textBkgnd" x="2.06894" y="1310.59" width="10.0352" height="9.59985" class="st10"/>
 			<text x="2.07" y="1317.79" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group229-91" transform="translate(15.2362,-491.825)" v:mID="229" v:groupContext="group">
+		<g id="group229-92" transform="translate(15.2362,-491.825)" v:mID="229" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -278,7 +278,7 @@
 			</v:userDefs>
 			<title>Folded Corner.196</title>
 			<desc>The Command Pattern entails both the negative and positive si...</desc>
-			<g id="shape229-92" v:mID="229" v:groupContext="groupContent">
+			<g id="shape229-93" v:mID="229" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="1246.75" width="179.3" height="117.213"/>
 				<path d="M0 1305.35 L170.62 1305.35 L179.29 1287 L179.29 1188.14 L0 1188.14 L0 1305.35 Z" class="st22"/>
@@ -289,7 +289,7 @@
 							class="st7">Receiver, namely the Command object. </tspan><tspan x="4" dy="1.2em" class="st7">This indirection has negative impact on </tspan><tspan
 							x="4" dy="1.2em" class="st14">debuggability</tspan> and <tspan class="st14">navigability </tspan>of the <tspan
 							x="4" dy="1.2em" class="st7">code.</tspan></text>			</g>
-			<g id="shape230-106" v:mID="230" v:groupContext="shape" transform="translate(165.118,0)">
+			<g id="shape230-107" v:mID="230" v:groupContext="shape" transform="translate(165.118,0)">
 				<title>Sheet.230</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -306,7 +306,7 @@
 				<path d="M5.51 1305.35 L14.17 1287 L0 1298.66 L5.51 1305.35 Z" class="st24"/>
 			</g>
 		</g>
-		<g id="shape232-110" v:mID="232" v:groupContext="shape" transform="translate(223.937,-533.423)">
+		<g id="shape232-111" v:mID="232" v:groupContext="shape" transform="translate(223.937,-533.423)">
 			<title>Rectangle.232</title>
 			<desc>Negative side of Open Closed</desc>
 			<v:userDefs>
@@ -317,7 +317,7 @@
 			<rect x="0" y="1271.34" width="121.89" height="34.0158" class="st25"/>
 			<text x="16.09" y="1285.35" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Negative side of Open <tspan
 						x="47.42" dy="1.2em" class="st7">Closed</tspan></text>		</g>
-		<g id="shape234-114" v:mID="234" v:groupContext="shape" v:layerMember="0" transform="translate(223.937,-543.345)">
+		<g id="shape234-115" v:mID="234" v:groupContext="shape" v:layerMember="0" transform="translate(223.937,-543.345)">
 			<title>Dynamic connector.234</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -325,7 +325,7 @@
 			<path d="M0 1298.27 L-21.81 1298.27" class="st26"/>
 			<rect v:rectContext="textBkgnd" x="-15.0169" y="1293.47" width="10.0352" height="9.59985" class="st10"/>
 			<text x="-15.02" y="1300.67" class="st28" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group235-122" transform="translate(167.953,-7.08661)" v:mID="235" v:groupContext="group">
+		<g id="group235-123" transform="translate(167.953,-7.08661)" v:mID="235" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -339,7 +339,7 @@
 			</v:userDefs>
 			<title>Folded Corner.235</title>
 			<desc>The Command pattern decouples Invoker from Receiver by introd...</desc>
-			<g id="shape235-123" v:mID="235" v:groupContext="groupContent">
+			<g id="shape235-124" v:mID="235" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="74.7638" cy="1121.09" width="149.53" height="368.528"/>
 				<path d="M0 1305.35 L135.64 1305.35 L149.53 1295.69 L149.53 936.83 L0 936.83 L0 1305.35 Z" class="st19"/>
@@ -361,7 +361,7 @@
 							x="4" dy="1.2em" class="st7">this brings implementation </tspan><tspan x="4" dy="1.2em" class="st7">‘</tspan>difficulties’ in case we need to <tspan
 							x="4" dy="1.2em" class="st7">connect multiple functions of the </tspan><tspan x="4" dy="1.2em"
 							class="st7">same receiver to different </tspan><tspan x="4" dy="1.2em" class="st7">Invokers.</tspan></text>			</g>
-			<g id="shape236-156" v:mID="236" v:groupContext="shape" transform="translate(135.644,0)">
+			<g id="shape236-157" v:mID="236" v:groupContext="shape" transform="translate(135.644,0)">
 				<title>Sheet.236</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -378,7 +378,7 @@
 				<path d="M0 1305.35 L13.88 1295.69 L4.82 1292.33 L0 1305.35 Z" class="st21"/>
 			</g>
 		</g>
-		<g id="shape242-159" v:mID="242" v:groupContext="shape" transform="translate(501.024,-399.803)">
+		<g id="shape242-160" v:mID="242" v:groupContext="shape" transform="translate(501.024,-399.803)">
 			<title>Rectangle.242</title>
 			<desc>(3) Support undo and redo of requests</desc>
 			<v:userDefs>
@@ -389,7 +389,7 @@
 			<rect x="0" y="1258.7" width="149.528" height="46.6535" class="st6"/>
 			<text x="15.49" y="1279.03" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>(3) Support undo and redo of <tspan
 						x="57.2" dy="1.2em" class="st7">requests</tspan></text>		</g>
-		<g id="group244-163" transform="translate(501.024,-177.165)" v:mID="244" v:groupContext="group">
+		<g id="group244-164" transform="translate(501.024,-177.165)" v:mID="244" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -403,7 +403,7 @@
 			</v:userDefs>
 			<title>Folded Corner.244</title>
 			<desc>As expressed in point (2), the Command implementation can be ...</desc>
-			<g id="shape244-164" v:mID="244" v:groupContext="groupContent">
+			<g id="shape244-165" v:mID="244" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="74.7638" cy="1208.04" width="149.53" height="194.622"/>
 				<path d="M0 1305.35 L142.39 1305.35 L149.53 1295.94 L149.53 1110.73 L0 1110.73 L0 1305.35 Z" class="st19"/>
@@ -420,7 +420,7 @@
 							class="st29">pattern</tspan><tspan class="st29">-</tspan><tspan class="st29">for</tspan><tspan
 							class="st29">-</tspan><tspan x="4" dy="1.2em" class="st29">undo</tspan><tspan class="st29">-</tspan><tspan
 							class="st29">functionality/)</tspan><v:newlineChar/></text>			</g>
-			<g id="shape245-194" v:mID="245" v:groupContext="shape" transform="translate(140.465,0)">
+			<g id="shape245-195" v:mID="245" v:groupContext="shape" transform="translate(140.465,0)">
 				<title>Sheet.245</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -437,7 +437,7 @@
 				<path d="M1.92 1305.35 L9.06 1295.94 L0 1298.48 L1.92 1305.35 Z" class="st21"/>
 			</g>
 		</g>
-		<g id="shape246-197" v:mID="246" v:groupContext="shape" v:layerMember="0" transform="translate(568.701,-399.803)">
+		<g id="shape246-198" v:mID="246" v:groupContext="shape" v:layerMember="0" transform="translate(568.701,-399.803)">
 			<title>Dynamic connector.246</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -445,7 +445,7 @@
 			<path d="M7.09 1305.35 L7.09 1325.77" class="st8"/>
 			<rect v:rectContext="textBkgnd" x="2.06894" y="1310.59" width="10.0352" height="9.59985" class="st10"/>
 			<text x="2.07" y="1317.79" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape247-204" v:mID="247" v:groupContext="shape" transform="translate(668.622,-399.803)">
+		<g id="shape247-205" v:mID="247" v:groupContext="shape" transform="translate(668.622,-399.803)">
 			<title>Rectangle.247</title>
 			<desc>(4) Support logging of requests to recover from a crash</desc>
 			<v:userDefs>
@@ -456,7 +456,7 @@
 			<rect x="0" y="1258.7" width="149.528" height="46.6535" class="st6"/>
 			<text x="6.66" y="1279.03" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>(4) Support logging of requests to <tspan
 						x="32.77" dy="1.2em" class="st7">recover from a crash</tspan></text>		</g>
-		<g id="shape249-208" v:mID="249" v:groupContext="shape" transform="translate(625.039,-1109.76)">
+		<g id="shape249-209" v:mID="249" v:groupContext="shape" transform="translate(625.039,-1109.76)">
 			<title>Rectangle.249</title>
 			<desc>Single Responsibility</desc>
 			<v:userDefs>
@@ -466,7 +466,7 @@
 			<v:textRect cx="60.9449" cy="1288.35" width="121.89" height="34.0158"/>
 			<rect x="0" y="1271.34" width="121.89" height="34.0158" class="st4"/>
 			<text x="19.59" y="1291.35" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Single Responsibility</text>		</g>
-		<g id="shape250-211" v:mID="250" v:groupContext="shape" transform="translate(223.937,-672.52)">
+		<g id="shape250-212" v:mID="250" v:groupContext="shape" transform="translate(223.937,-672.52)">
 			<title>Rectangle.250</title>
 			<desc>Negative side of Single Responsibility</desc>
 			<v:userDefs>
@@ -477,7 +477,7 @@
 			<rect x="0" y="1271.34" width="121.89" height="34.0158" class="st25"/>
 			<text x="15.08" y="1285.35" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Negative side of Single <tspan
 						x="32.79" dy="1.2em" class="st7">Responsibility</tspan></text>		</g>
-		<g id="group251-215" transform="translate(15.2362,-616.535)" v:mID="251" v:groupContext="group">
+		<g id="group251-216" transform="translate(15.2362,-616.535)" v:mID="251" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -491,7 +491,7 @@
 			</v:userDefs>
 			<title>Folded Corner.251</title>
 			<desc>The Command Pattern entails both the negative and positive si...</desc>
-			<g id="shape251-216" v:mID="251" v:groupContext="groupContent">
+			<g id="shape251-217" v:mID="251" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="1232.36" width="179.3" height="145.984"/>
 				<path d="M0 1305.35 L169.75 1305.35 L179.29 1289.14 L179.29 1159.37 L0 1159.37 L0 1305.35 Z" class="st22"/>
@@ -504,7 +504,7 @@
 							x="4" dy="1.2em" class="st7">an implementation where the Receiver </tspan><tspan x="4" dy="1.2em"
 							class="st7">directly fulfills this responsibility. As a </tspan><tspan x="4" dy="1.2em" class="st7">result, the code becomes harder to </tspan><tspan
 							x="4" dy="1.2em" class="st14">comprehend</tspan>.  </text>			</g>
-			<g id="shape252-232" v:mID="252" v:groupContext="shape" transform="translate(165.118,0)">
+			<g id="shape252-233" v:mID="252" v:groupContext="shape" transform="translate(165.118,0)">
 				<title>Sheet.252</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -521,7 +521,7 @@
 				<path d="M4.64 1305.35 L14.17 1289.14 L0 1297.02 L4.64 1305.35 Z" class="st24"/>
 			</g>
 		</g>
-		<g id="shape253-235" v:mID="253" v:groupContext="shape" v:layerMember="0" transform="translate(223.937,-682.441)">
+		<g id="shape253-236" v:mID="253" v:groupContext="shape" v:layerMember="0" transform="translate(223.937,-682.441)">
 			<title>Dynamic connector.253</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -529,7 +529,7 @@
 			<path d="M0 1298.27 L-21.81 1298.27" class="st26"/>
 			<rect v:rectContext="textBkgnd" x="-16.6848" y="1293.47" width="10.0352" height="9.59985" class="st10"/>
 			<text x="-16.68" y="1300.67" class="st28" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group254-242" transform="translate(785.197,-956.693)" v:mID="254" v:groupContext="group">
+		<g id="group254-243" transform="translate(785.197,-956.693)" v:mID="254" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -543,31 +543,32 @@
 			</v:userDefs>
 			<title>Folded Corner.254</title>
 			<desc>The Command Pattern compliments the Single Responsibility pri...</desc>
-			<g id="shape254-243" v:mID="254" v:groupContext="groupContent">
+			<g id="shape254-244" v:mID="254" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="1135.28" width="179.3" height="340.157"/>
 				<path d="M0 1305.35 L168.13 1305.35 L179.29 1293.27 L179.29 965.2 L0 965.2 L0 1305.35 Z" class="st12"/>
 				<text x="4" y="978.2" class="st13" v:langID="1033"><v:paragraph/><v:tabList/>The Command Pattern compliments the <tspan
 							x="4" dy="1.2em" class="st7">Single Responsibility principle by </tspan><tspan x="4" dy="1.2em"
 							class="st7">decoupling sender from receiver. This </tspan><tspan x="4" dy="1.2em" class="st7">enhances </tspan><tspan
-							class="st14">testability </tspan>and <tspan class="st14">reusability</tspan>. All <tspan x="4"
-							dy="1.2em" class="st7">aspects are compared against an </tspan><tspan x="4" dy="1.2em" class="st7">implementation where Invoker and </tspan><tspan
-							x="4" dy="1.2em" class="st7">Receiver are decoupled by an interface </tspan><tspan x="4" dy="1.2em"
-							class="st7">only. </tspan><tspan class="st14">Testability</tspan>, because the <tspan x="4" dy="1.2em"
-							class="st7">dependency constraints (e.g. to resolve a </tspan><tspan x="4" dy="1.2em" class="st7">request) that would normally reside </tspan><tspan
-							x="4" dy="1.2em" class="st7">inside the Receiver are now resolved by </tspan><tspan x="4" dy="1.2em"
-							class="st7">the Command object. The Command </tspan><tspan x="4" dy="1.2em" class="st7">object uses the required dependencies to </tspan><tspan
-							x="4" dy="1.2em" class="st7">parametrize </tspan>the Receiver. The Receiver <tspan x="4" dy="1.2em"
-							class="st7">will become easier to test, because of the </tspan><tspan x="4" dy="1.2em" class="st7">smaller dependency model (less to mock) </tspan><tspan
-							x="4" dy="1.2em" class="st7">and a smaller problem window.  </tspan><tspan x="4" dy="1.2em"
-							class="st14">Reusability</tspan>, because Invoker is bounded <tspan x="4" dy="1.2em" class="st7">to a generic Command interface and </tspan><tspan
-							x="4" dy="1.2em" class="st7">Receiver doesn</tspan>’t have any familiarity of <tspan x="4" dy="1.2em"
-							class="st7">the request. This generic Command </tspan><tspan x="4" dy="1.2em" class="st7">interface enables the Invoker to be </tspan><tspan
-							x="4" dy="1.2em" class="st7">reused across different Receivers of the </tspan><tspan x="4" dy="1.2em"
-							class="st7">system (e.g. a button class of a UI). The </tspan><tspan x="4" dy="1.2em" class="st7">smaller dependency model of the </tspan><tspan
-							x="4" dy="1.2em" class="st7">Receiver, </tspan>resolved by the Command <tspan x="4" dy="1.2em"
-							class="st7">object, contributes to Receiver </tspan><tspan x="4" dy="1.2em" class="st7">reusability.</tspan></text>			</g>
-			<g id="shape255-277" v:mID="255" v:groupContext="shape" transform="translate(167.244,0)">
+							class="st14">testability </tspan>and <tspan class="st14">reusability</tspan>. <tspan class="st30">All </tspan><tspan
+							x="4" dy="1.2em" class="st30">aspects are compared against an </tspan><tspan x="4" dy="1.2em"
+							class="st30">implementation where Invoker and </tspan><tspan x="4" dy="1.2em" class="st30">Receiver are decoupled by an interface </tspan><tspan
+							x="4" dy="1.2em" class="st30">only.</tspan> <tspan class="st14">Testability</tspan>, because the <tspan
+							x="4" dy="1.2em" class="st7">dependency constraints (e.g. to resolve a </tspan><tspan x="4" dy="1.2em"
+							class="st7">request) that would normally reside </tspan><tspan x="4" dy="1.2em" class="st7">inside the Receiver are now resolved by </tspan><tspan
+							x="4" dy="1.2em" class="st7">the Command object. The Command </tspan><tspan x="4" dy="1.2em"
+							class="st7">object uses the required dependencies to </tspan><tspan x="4" dy="1.2em" class="st7">parametrize </tspan>the Receiver. The Receiver <tspan
+							x="4" dy="1.2em" class="st7">will become easier to test, because of the </tspan><tspan x="4" dy="1.2em"
+							class="st7">smaller dependency model (less to mock) </tspan><tspan x="4" dy="1.2em" class="st7">and a smaller problem window.  </tspan><tspan
+							x="4" dy="1.2em" class="st14">Reusability</tspan>, because Invoker is bounded <tspan x="4" dy="1.2em"
+							class="st7">to a generic Command interface and </tspan><tspan x="4" dy="1.2em" class="st7">Receiver doesn</tspan>’t have any familiarity of <tspan
+							x="4" dy="1.2em" class="st7">the request. This generic Command </tspan><tspan x="4" dy="1.2em"
+							class="st7">interface enables the Invoker to be </tspan><tspan x="4" dy="1.2em" class="st7">reused across different Receivers of the </tspan><tspan
+							x="4" dy="1.2em" class="st7">system (e.g. a button class of a UI). The </tspan><tspan x="4" dy="1.2em"
+							class="st7">smaller dependency model of the </tspan><tspan x="4" dy="1.2em" class="st7">Receiver, </tspan>resolved by the Command <tspan
+							x="4" dy="1.2em" class="st7">object, contributes to Receiver </tspan><tspan x="4" dy="1.2em"
+							class="st7">reusability.</tspan></text>			</g>
+			<g id="shape255-279" v:mID="255" v:groupContext="shape" transform="translate(167.244,0)">
 				<title>Sheet.255</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -584,15 +585,15 @@
 				<path d="M0.89 1305.35 L12.05 1293.27 L0 1294.23 L0.89 1305.35 Z" class="st15"/>
 			</g>
 		</g>
-		<g id="shape258-280" v:mID="258" v:groupContext="shape" v:layerMember="0" transform="translate(593.091,-550.431)">
+		<g id="shape258-282" v:mID="258" v:groupContext="shape" v:layerMember="0" transform="translate(593.091,-550.431)">
 			<title>Dynamic connector.258</title>
 			<path d="M0 1305.35 L13.68 1305.35 L13.68 729.01 L24.35 729.01" class="st16"/>
 		</g>
-		<g id="shape260-285" v:mID="260" v:groupContext="shape" v:layerMember="0" transform="translate(390.531,-550.431)">
+		<g id="shape260-287" v:mID="260" v:groupContext="shape" v:layerMember="0" transform="translate(390.531,-550.431)">
 			<title>Dynamic connector.260</title>
 			<path d="M0 1305.35 L-13.68 1305.35 L-13.68 1166.26 L-37.1 1166.26" class="st26"/>
 		</g>
-		<g id="shape24-290" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(390.531,-543.345)">
+		<g id="shape24-292" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(390.531,-543.345)">
 			<title>Dynamic connector.24</title>
 			<desc>Why not?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -600,7 +601,7 @@
 			<path d="M0 1298.27 L-37.1 1298.27" class="st26"/>
 			<rect v:rectContext="textBkgnd" x="-34.8662" y="1292.38" width="31.5585" height="9.59985" class="st10"/>
 			<text x="-34.87" y="1299.58" class="st28" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
-		<g id="shape261-297" v:mID="261" v:groupContext="shape" v:layerMember="0" transform="translate(746.929,-1119.69)">
+		<g id="shape261-299" v:mID="261" v:groupContext="shape" v:layerMember="0" transform="translate(746.929,-1119.69)">
 			<title>Dynamic connector.261</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -608,7 +609,7 @@
 			<path d="M0 1298.27 L30.67 1298.27" class="st16"/>
 			<rect v:rectContext="textBkgnd" x="14.1162" y="1293.47" width="10.0352" height="9.59985" class="st10"/>
 			<text x="14.12" y="1300.67" class="st18" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group263-304" transform="translate(668.622,-177.165)" v:mID="263" v:groupContext="group">
+		<g id="group263-306" transform="translate(668.622,-177.165)" v:mID="263" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -622,7 +623,7 @@
 			</v:userDefs>
 			<title>Folded Corner.263</title>
 			<desc>The Command pattern can be used to log executed commands to d...</desc>
-			<g id="shape263-305" v:mID="263" v:groupContext="groupContent">
+			<g id="shape263-307" v:mID="263" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="74.7638" cy="1208.04" width="149.53" height="194.622"/>
 				<path d="M0 1305.35 L142.39 1305.35 L149.53 1295.94 L149.53 1110.73 L0 1110.73 L0 1305.35 Z" class="st19"/>
@@ -631,7 +632,7 @@
 							x="4" dy="1.2em" class="st7">based on the Commands that are </tspan><tspan x="4" dy="1.2em" class="st7">performed. Recovering from a </tspan><tspan
 							x="4" dy="1.2em" class="st7">crash involves reading the log file </tspan><tspan x="4" dy="1.2em"
 							class="st7">and re</tspan>-executing the commands.    </text>			</g>
-			<g id="shape264-315" v:mID="264" v:groupContext="shape" transform="translate(140.465,0)">
+			<g id="shape264-317" v:mID="264" v:groupContext="shape" transform="translate(140.465,0)">
 				<title>Sheet.264</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -648,7 +649,7 @@
 				<path d="M1.92 1305.35 L9.06 1295.94 L0 1298.48 L1.92 1305.35 Z" class="st21"/>
 			</g>
 		</g>
-		<g id="shape265-318" v:mID="265" v:groupContext="shape" v:layerMember="0" transform="translate(736.299,-399.803)">
+		<g id="shape265-320" v:mID="265" v:groupContext="shape" v:layerMember="0" transform="translate(736.299,-399.803)">
 			<title>Dynamic connector.265</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -656,7 +657,7 @@
 			<path d="M7.09 1305.35 L7.09 1325.77" class="st8"/>
 			<rect v:rectContext="textBkgnd" x="2.06894" y="1310.59" width="10.0352" height="9.59985" class="st10"/>
 			<text x="2.07" y="1317.79" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape266-325" v:mID="266" v:groupContext="shape" transform="translate(625.039,-787.699)">
+		<g id="shape266-327" v:mID="266" v:groupContext="shape" transform="translate(625.039,-787.699)">
 			<title>Rectangle.266</title>
 			<desc>Interface Segregation</desc>
 			<v:userDefs>
@@ -666,7 +667,7 @@
 			<v:textRect cx="60.9449" cy="1288.35" width="121.89" height="34.0158"/>
 			<rect x="0" y="1271.34" width="121.89" height="34.0158" class="st4"/>
 			<text x="17.29" y="1291.35" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Interface Segregation</text>		</g>
-		<g id="group269-328" transform="translate(785.197,-659.055)" v:mID="269" v:groupContext="group">
+		<g id="group269-330" transform="translate(785.197,-659.055)" v:mID="269" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -680,7 +681,7 @@
 			</v:userDefs>
 			<title>Folded Corner.269</title>
 			<desc>The Command Pattern compliments the Interface Segregation Pri...</desc>
-			<g id="shape269-329" v:mID="269" v:groupContext="groupContent">
+			<g id="shape269-331" v:mID="269" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="1159.7" width="179.3" height="291.304"/>
 				<path d="M0 1305.35 L169.45 1305.35 L179.29 1292.99 L179.29 1014.05 L0 1014.05 L0 1305.35 Z" class="st12"/>
@@ -690,18 +691,19 @@
 							x="4" dy="1.2em" class="st7">dependency on a possible </tspan>‘extensive’ <tspan x="4" dy="1.2em"
 							class="st7">interface of the Receiver. The </tspan><tspan x="4" dy="1.2em" class="st7">dependency on a </tspan>‘focused’ Command <tspan
 							x="4" dy="1.2em" class="st7">interface enhances </tspan><tspan class="st14">testability</tspan>, <tspan
-							class="st14">reusability </tspan><tspan x="4" dy="1.2em" class="st7">and </tspan><tspan class="st14">maintainability</tspan>. All aspects are <tspan
-							x="4" dy="1.2em" class="st7">compared against an implementation </tspan><tspan x="4" dy="1.2em"
-							class="st7">where Invoker and Receiver are </tspan><tspan x="4" dy="1.2em" class="st7">decoupled by an interface only. </tspan><tspan
-							x="4" dy="1.2em" class="st14">Testability</tspan>, because the mock effort will <tspan x="4" dy="1.2em"
-							class="st7">be lower and interface changes in unused </tspan><tspan x="4" dy="1.2em" class="st7">functionality will not reflect on the </tspan><tspan
-							x="4" dy="1.2em" class="st7">Receiver mock used by the Invoker. </tspan><tspan x="4" dy="1.2em"
-							class="st14">Reusability</tspan>, because Invoker doesn’t <tspan x="4" dy="1.2em" class="st7">reference an </tspan>‘extensive’ Receiver <tspan
-							x="4" dy="1.2em" class="st7">interface directly, making the Invoker </tspan><tspan x="4" dy="1.2em"
-							class="st7">better reusable for other Receivers. </tspan><tspan x="4" dy="1.2em" class="st14">Maintainability</tspan>, because less re-<tspan
-							x="4" dy="1.2em" class="st7">compilation is required. A change in the </tspan><tspan x="4" dy="1.2em"
-							class="st7">Receiver interface will not reflect on the </tspan><tspan x="4" dy="1.2em" class="st7">Invoker. </tspan> <v:tabChar/></text>			</g>
-			<g id="shape270-359" v:mID="270" v:groupContext="shape" transform="translate(167.244,0)">
+							class="st14">reusability </tspan><tspan x="4" dy="1.2em" class="st7">and </tspan><tspan class="st14">maintainability</tspan>. <tspan
+							class="st30">All aspects are </tspan><tspan x="4" dy="1.2em" class="st30">compared against an implementation </tspan><tspan
+							x="4" dy="1.2em" class="st30">where Invoker and Receiver are </tspan><tspan x="4" dy="1.2em"
+							class="st30">decoupled by an interface only.</tspan> <tspan x="4" dy="1.2em" class="st14">Testability</tspan>, because the mock effort will <tspan
+							x="4" dy="1.2em" class="st7">be lower and interface changes in unused </tspan><tspan x="4" dy="1.2em"
+							class="st7">functionality will not reflect on the </tspan><tspan x="4" dy="1.2em" class="st7">Receiver mock used by the Invoker. </tspan><tspan
+							x="4" dy="1.2em" class="st14">Reusability</tspan>, because Invoker doesn’t <tspan x="4" dy="1.2em"
+							class="st7">reference an </tspan>‘extensive’ Receiver <tspan x="4" dy="1.2em" class="st7">interface directly, making the Invoker </tspan><tspan
+							x="4" dy="1.2em" class="st7">better reusable for other Receivers. </tspan><tspan x="4" dy="1.2em"
+							class="st14">Maintainability</tspan>, because less re-<tspan x="4" dy="1.2em" class="st7">compilation is required. A change in the </tspan><tspan
+							x="4" dy="1.2em" class="st7">Receiver interface will not reflect on the </tspan><tspan x="4" dy="1.2em"
+							class="st7">Invoker. </tspan> <v:tabChar/></text>			</g>
+			<g id="shape270-362" v:mID="270" v:groupContext="shape" transform="translate(167.244,0)">
 				<title>Sheet.270</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -718,19 +720,19 @@
 				<path d="M2.21 1305.35 L12.05 1292.99 L0 1295.77 L2.21 1305.35 Z" class="st15"/>
 			</g>
 		</g>
-		<g id="shape271-362" v:mID="271" v:groupContext="shape" v:layerMember="0" transform="translate(746.929,-797.62)">
+		<g id="shape271-365" v:mID="271" v:groupContext="shape" v:layerMember="0" transform="translate(746.929,-797.62)">
 			<title>Dynamic connector.271</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="19.1339" cy="1298.27" width="40" height="17.6036"/>
 			<path d="M0 1298.27 L30.67 1298.27" class="st16"/>
-			<rect v:rectContext="textBkgnd" x="14.1162" y="1293.47" width="10.0352" height="9.59985" class="st30"/>
+			<rect v:rectContext="textBkgnd" x="14.1162" y="1293.47" width="10.0352" height="9.59985" class="st10"/>
 			<text x="14.12" y="1300.67" class="st18" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape272-369" v:mID="272" v:groupContext="shape" v:layerMember="0" transform="translate(593.091,-550.431)">
+		<g id="shape272-372" v:mID="272" v:groupContext="shape" v:layerMember="0" transform="translate(593.091,-550.431)">
 			<title>Dynamic connector.272</title>
 			<path d="M0 1305.35 L13.68 1305.35 L13.68 1051.08 L24.35 1051.08" class="st16"/>
 		</g>
-		<g id="shape68-374" v:mID="68" v:groupContext="shape" v:layerMember="0" transform="translate(593.091,-543.345)">
+		<g id="shape68-377" v:mID="68" v:groupContext="shape" v:layerMember="0" transform="translate(593.091,-543.345)">
 			<title>Dynamic connector.68</title>
 			<desc>Why?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -738,19 +740,19 @@
 			<path d="M0 1298.27 L24.35 1298.27" class="st16"/>
 			<rect v:rectContext="textBkgnd" x="4.3568" y="1293.47" width="18.6485" height="9.59985" class="st10"/>
 			<text x="4.36" y="1300.67" class="st18" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
-		<g id="shape277-381" v:mID="277" v:groupContext="shape" v:layerMember="0" transform="translate(491.811,-507.912)">
+		<g id="shape277-384" v:mID="277" v:groupContext="shape" v:layerMember="0" transform="translate(491.811,-507.912)">
 			<title>Dynamic connector.277</title>
 			<path d="M0 1305.35 L0 1332.29 L-82.2 1332.29 L-82.2 1359.21" class="st8"/>
 		</g>
-		<g id="shape278-386" v:mID="278" v:groupContext="shape" v:layerMember="0" transform="translate(491.811,-507.912)">
+		<g id="shape278-389" v:mID="278" v:groupContext="shape" v:layerMember="0" transform="translate(491.811,-507.912)">
 			<title>Dynamic connector.278</title>
 			<path d="M0 1305.35 L0 1332.2 L83.98 1332.2 L83.98 1359.21" class="st8"/>
 		</g>
-		<g id="shape279-391" v:mID="279" v:groupContext="shape" v:layerMember="0" transform="translate(491.811,-507.912)">
+		<g id="shape279-394" v:mID="279" v:groupContext="shape" v:layerMember="0" transform="translate(491.811,-507.912)">
 			<title>Dynamic connector.279</title>
 			<path d="M0 1305.35 L0 1332.2 L251.57 1332.2 L251.57 1359.21" class="st8"/>
 		</g>
-		<g id="shape48-396" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(491.811,-507.912)">
+		<g id="shape48-399" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(491.811,-507.912)">
 			<title>Dynamic connector</title>
 			<desc>When?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>

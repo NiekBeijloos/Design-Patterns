@@ -27,21 +27,21 @@
 		.st12 {fill:url(#grad0-33);stroke:#61973d;stroke-width:0.75}
 		.st13 {fill:#61973d;font-family:Calibri;font-size:0.833336em}
 		.st14 {font-size:1em;font-weight:bold}
-		.st15 {fill:url(#grad0-58);stroke:#61973d;stroke-width:0.75}
-		.st16 {marker-end:url(#mrkr4-64);stroke:#70ad47;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
-		.st17 {fill:#70ad47;fill-opacity:1;stroke:#70ad47;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st18 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
-		.st19 {fill:url(#grad0-82);stroke:#d06d29;stroke-width:0.75}
-		.st20 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
-		.st21 {fill:url(#grad0-102);stroke:#d06d29;stroke-width:0.75}
-		.st22 {fill:url(#grad0-114);stroke:#dfa800;stroke-width:0.75}
-		.st23 {fill:#dfa800;font-family:Calibri;font-size:0.833336em}
-		.st24 {fill:url(#grad0-128);stroke:#dfa800;stroke-width:0.75}
-		.st25 {fill:#dfa800;stroke:#ba8c00;stroke-width:0.75}
-		.st26 {marker-end:url(#mrkr4-138);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
-		.st27 {fill:#fec000;fill-opacity:1;stroke:#fec000;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st28 {fill:#dfa800;font-family:Calibri;font-size:0.666664em}
-		.st29 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st15 {font-size:1em;text-decoration:underline}
+		.st16 {fill:url(#grad0-63);stroke:#61973d;stroke-width:0.75}
+		.st17 {marker-end:url(#mrkr4-69);stroke:#70ad47;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st18 {fill:#70ad47;fill-opacity:1;stroke:#70ad47;stroke-opacity:1;stroke-width:0.52631578947368}
+		.st19 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
+		.st20 {fill:url(#grad0-87);stroke:#d06d29;stroke-width:0.75}
+		.st21 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
+		.st22 {fill:url(#grad0-107);stroke:#d06d29;stroke-width:0.75}
+		.st23 {fill:url(#grad0-119);stroke:#dfa800;stroke-width:0.75}
+		.st24 {fill:#dfa800;font-family:Calibri;font-size:0.833336em}
+		.st25 {fill:url(#grad0-133);stroke:#dfa800;stroke-width:0.75}
+		.st26 {fill:#dfa800;stroke:#ba8c00;stroke-width:0.75}
+		.st27 {marker-end:url(#mrkr4-143);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st28 {fill:#fec000;fill-opacity:1;stroke:#fec000;stroke-opacity:1;stroke-width:0.52631578947368}
+		.st29 {fill:#dfa800;font-family:Calibri;font-size:0.666664em}
 		.st30 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
@@ -52,27 +52,27 @@
 			<stop offset="0.24" stop-color="#f5f8f4" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-58" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-63" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#cedcc9" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#d9e3d5" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#578837" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-82" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-87" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#fbece7" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#fdf5f3" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-102" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-107" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#f7c6b9" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#f4d1c8" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#d76213" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-114" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-119" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#fef4e7" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#fef9f3" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-128" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-133" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#ffddb3" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#ffe3bd" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#ca9800" stop-opacity="1"/>
@@ -86,11 +86,11 @@
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
-		<marker id="mrkr4-64" class="st17" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
+		<marker id="mrkr4-69" class="st18" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
-		<marker id="mrkr4-138" class="st27" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
+		<marker id="mrkr4-143" class="st28" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
@@ -168,18 +168,20 @@
 				<text x="4" y="786.83" class="st13" v:langID="1033"><v:paragraph/><v:tabList/>The Chain Of Responsibility pattern <tspan
 							x="4" dy="1.2em" class="st3">compliments the Open Closed Principle </tspan><tspan x="4" dy="1.2em"
 							class="st3">by decoupling sender from its receivers. </tspan><tspan x="4" dy="1.2em" class="st3">This enhances </tspan><tspan
-							class="st14">stability</tspan>. All aspects are <tspan x="4" dy="1.2em" class="st3">compared against an implementation </tspan><tspan
-							x="4" dy="1.2em" class="st3">where the sender </tspan>‘knows’ all its receivers <tspan x="4" dy="1.2em"
-							class="st3">and decides who handles the request. </tspan><tspan x="4" dy="1.2em" class="st14">Stability</tspan>, because the Chain of <tspan
-							x="4" dy="1.2em" class="st3">Responsibility (COR) pattern allows </tspan><tspan x="4" dy="1.2em"
-							class="st3">adding new Handlers to the </tspan>‘chain’ <tspan x="4" dy="1.2em" class="st3">without modifying the other Handlers </tspan><tspan
-							x="4" dy="1.2em" class="st3">directly. This has positive impact on test </tspan><tspan x="4" dy="1.2em"
-							class="st3">and production code of the Handlers. The </tspan><tspan x="4" dy="1.2em" class="st3">COR </tspan>realizes this stability via an <tspan
-							x="4" dy="1.2em" class="st3">abstraction between Handlers and the </tspan><tspan x="4" dy="1.2em"
-							class="st3">use of dependency injection. For </tspan><tspan x="4" dy="1.2em" class="st3">comparison; localizing the Handler logic </tspan><tspan
-							x="4" dy="1.2em" class="st3">inside the original sender would require </tspan><tspan x="4" dy="1.2em"
-							class="st3">the sender to change when a new </tspan><tspan x="4" dy="1.2em" class="st3">receiver(=Handler) must be added.</tspan></text>			</g>
-			<g id="shape206-55" v:mID="206" v:groupContext="shape" transform="translate(165.118,1.13687E-13)">
+							class="st14">stability</tspan>. <tspan class="st15">All aspects are </tspan><tspan x="4" dy="1.2em"
+							class="st15">compared against an implementation </tspan><tspan x="4" dy="1.2em" class="st15">where the sender </tspan><tspan
+							class="st15">‘</tspan><tspan class="st15">knows</tspan><tspan class="st15">’ </tspan><tspan
+							class="st15">all its receivers </tspan><tspan x="4" dy="1.2em" class="st15">and decides who handles the request.</tspan> <tspan
+							x="4" dy="1.2em" class="st14">Stability</tspan>, because the Chain of <tspan x="4" dy="1.2em"
+							class="st3">Responsibility (COR) pattern allows </tspan><tspan x="4" dy="1.2em" class="st3">adding new Handlers to the </tspan>‘chain’ <tspan
+							x="4" dy="1.2em" class="st3">without modifying the other Handlers </tspan><tspan x="4" dy="1.2em"
+							class="st3">directly. This has positive impact on test </tspan><tspan x="4" dy="1.2em" class="st3">and production code of the Handlers. The </tspan><tspan
+							x="4" dy="1.2em" class="st3">COR </tspan>realizes this stability via an <tspan x="4" dy="1.2em"
+							class="st3">abstraction between Handlers and the </tspan><tspan x="4" dy="1.2em" class="st3">use of dependency injection. For </tspan><tspan
+							x="4" dy="1.2em" class="st3">comparison; localizing the Handler logic </tspan><tspan x="4" dy="1.2em"
+							class="st3">inside the original sender would require </tspan><tspan x="4" dy="1.2em" class="st3">the sender to change when a new </tspan><tspan
+							x="4" dy="1.2em" class="st3">receiver(=Handler) must be added.</tspan></text>			</g>
+			<g id="shape206-60" v:mID="206" v:groupContext="shape" transform="translate(165.118,1.13687E-13)">
 				<title>Sheet.206</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -193,18 +195,18 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.19688192057279):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#70ad47)"/>
 				</v:userDefs>
-				<path d="M0.25 1017.64 L14.17 1003.46 L0 1003.72 L0.25 1017.64 Z" class="st15"/>
+				<path d="M0.25 1017.64 L14.17 1003.46 L0 1003.72 L0.25 1017.64 Z" class="st16"/>
 			</g>
 		</g>
-		<g id="shape207-59" v:mID="207" v:groupContext="shape" v:layerMember="0" transform="translate(749.764,-550.431)">
+		<g id="shape207-64" v:mID="207" v:groupContext="shape" v:layerMember="0" transform="translate(749.764,-550.431)">
 			<title>Dynamic connector.207</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="11.7225" cy="1010.55" width="40" height="17.6036"/>
-			<path d="M0 1010.55 L15.84 1010.55" class="st16"/>
+			<path d="M0 1010.55 L15.84 1010.55" class="st17"/>
 			<rect v:rectContext="textBkgnd" x="6.70478" y="1005.75" width="10.0352" height="9.59985" class="st10"/>
-			<text x="6.7" y="1012.95" class="st18" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape210-67" v:mID="210" v:groupContext="shape" transform="translate(409.961,-430.217)">
+			<text x="6.7" y="1012.95" class="st19" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="shape210-72" v:mID="210" v:groupContext="shape" transform="translate(409.961,-430.217)">
 			<title>Rectangle.210</title>
 			<desc>The order, type and number of objects, to handle a request se...</desc>
 			<v:userDefs>
@@ -216,11 +218,11 @@
 			<text x="13.52" y="979.31" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>The order, type and number of <tspan
 						x="19.5" dy="1.2em" class="st3">objects, to handle a request </tspan><tspan x="6.48" dy="1.2em" class="st3">sequentially, should be modifiable </tspan><tspan
 						x="45.62" dy="1.2em" class="st3">during runtime</tspan></text>		</g>
-		<g id="shape211-73" v:mID="211" v:groupContext="shape" v:layerMember="0" transform="translate(479.055,-514.998)">
+		<g id="shape211-78" v:mID="211" v:groupContext="shape" v:layerMember="0" transform="translate(479.055,-514.998)">
 			<title>Dynamic connector.211</title>
 			<path d="M7.09 1017.64 L7.09 1048.17" class="st8"/>
 		</g>
-		<g id="group216-78" transform="translate(415.984,-192.756)" v:mID="216" v:groupContext="group">
+		<g id="group216-83" transform="translate(415.984,-192.756)" v:mID="216" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -234,11 +236,11 @@
 			</v:userDefs>
 			<title>Folded Corner.216</title>
 			<desc>The Chain of Responsibility pattern prescribes unfamiliarity ...</desc>
-			<g id="shape216-79" v:mID="216" v:groupContext="groupContent">
+			<g id="shape216-84" v:mID="216" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="70.1575" cy="914.173" width="140.32" height="206.929"/>
-				<path d="M0 1017.64 L132.92 1017.64 L140.31 1009.04 L140.31 810.71 L0 810.71 L0 1017.64 Z" class="st19"/>
-				<text x="4" y="823.71" class="st20" v:langID="1033"><v:paragraph/><v:tabList/>The Chain of Responsibility <tspan
+				<path d="M0 1017.64 L132.92 1017.64 L140.31 1009.04 L140.31 810.71 L0 810.71 L0 1017.64 Z" class="st20"/>
+				<text x="4" y="823.71" class="st21" v:langID="1033"><v:paragraph/><v:tabList/>The Chain of Responsibility <tspan
 							x="4" dy="1.2em" class="st3">pattern prescribes unfamiliarity </tspan><tspan x="4" dy="1.2em"
 							class="st3">between sender and receiver. </tspan><tspan x="4" dy="1.2em" class="st3">The receiver is not statically </tspan><tspan
 							x="4" dy="1.2em" class="st3">bounded to the sender, but can </tspan><tspan x="4" dy="1.2em" class="st3">be dynamically assigned during </tspan><tspan
@@ -247,7 +249,7 @@
 							x="4" dy="1.2em" class="st3">single sender, directly </tspan><tspan x="4" dy="1.2em" class="st3">associated with multiple </tspan><tspan
 							x="4" dy="1.2em" class="st3">receivers and coordinating the </tspan><tspan x="4" dy="1.2em" class="st3">request across those receivers, </tspan><tspan
 							x="4" dy="1.2em" class="st3">would not be </tspan>modifiable during <tspan x="4" dy="1.2em" class="st3">runtime. </tspan> </text>			</g>
-			<g id="shape217-99" v:mID="217" v:groupContext="shape" transform="translate(131.811,1.13687E-13)">
+			<g id="shape217-104" v:mID="217" v:groupContext="shape" transform="translate(131.811,1.13687E-13)">
 				<title>Sheet.217</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -261,10 +263,10 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.1194627594641):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M1.11 1017.64 L8.5 1009.04 L0 1010.33 L1.11 1017.64 Z" class="st21"/>
+				<path d="M1.11 1017.64 L8.5 1009.04 L0 1010.33 L1.11 1017.64 Z" class="st22"/>
 			</g>
 		</g>
-		<g id="shape218-103" v:mID="218" v:groupContext="shape" v:layerMember="0" transform="translate(479.055,-430.217)">
+		<g id="shape218-108" v:mID="218" v:groupContext="shape" v:layerMember="0" transform="translate(479.055,-430.217)">
 			<title>Dynamic connector.218</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -272,7 +274,7 @@
 			<path d="M7.09 1017.64 L7.09 1040.57" class="st8"/>
 			<rect v:rectContext="textBkgnd" x="2.06894" y="1028.1" width="10.0352" height="9.59985" class="st10"/>
 			<text x="2.07" y="1035.3" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group229-110" transform="translate(5.66929,-500.57)" v:mID="229" v:groupContext="group">
+		<g id="group229-115" transform="translate(5.66929,-500.57)" v:mID="229" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -286,18 +288,18 @@
 			</v:userDefs>
 			<title>Folded Corner.196</title>
 			<desc>The Chain of Responsibility entails both the negative and pos...</desc>
-			<g id="shape229-111" v:mID="229" v:groupContext="groupContent">
+			<g id="shape229-116" v:mID="229" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="960.69" width="179.3" height="113.896"/>
-				<path d="M0 1017.64 L170.71 1017.64 L179.29 998.94 L179.29 903.74 L0 903.74 L0 1017.64 Z" class="st22"/>
-				<text x="4" y="916.74" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>The Chain of Responsibility entails both <tspan
+				<path d="M0 1017.64 L170.71 1017.64 L179.29 998.94 L179.29 903.74 L0 903.74 L0 1017.64 Z" class="st23"/>
+				<text x="4" y="916.74" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>The Chain of Responsibility entails both <tspan
 							x="4" dy="1.2em" class="st3">the negative and positive aspects of the </tspan><tspan x="4" dy="1.2em"
 							class="st3">Single Responsibility principle. The </tspan><tspan x="4" dy="1.2em" class="st3">pattern distributes the request</tspan>-handle <tspan
 							x="4" dy="1.2em" class="st3">logic across multiple Handlers. This makes </tspan><tspan x="4" dy="1.2em"
 							class="st3">comprehending the whole chain (who </tspan><tspan x="4" dy="1.2em" class="st3">handles what?) more difficult, because </tspan><tspan
 							x="4" dy="1.2em" class="st3">logic is scattered.  As a result </tspan><tspan class="st14">readability </tspan><tspan
 							x="4" dy="1.2em" class="st3">is degraded. </tspan> <v:newlineChar/></text>			</g>
-			<g id="shape230-125" v:mID="230" v:groupContext="shape" transform="translate(165.118,1.13687E-13)">
+			<g id="shape230-130" v:mID="230" v:groupContext="shape" transform="translate(165.118,1.13687E-13)">
 				<title>Sheet.230</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -311,10 +313,10 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.25966547348558):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#fec000)"/>
 				</v:userDefs>
-				<path d="M5.59 1017.64 L14.17 998.94 L0 1011.13 L5.59 1017.64 Z" class="st24"/>
+				<path d="M5.59 1017.64 L14.17 998.94 L0 1011.13 L5.59 1017.64 Z" class="st25"/>
 			</g>
 		</g>
-		<g id="shape232-129" v:mID="232" v:groupContext="shape" transform="translate(216.85,-540.51)">
+		<g id="shape232-134" v:mID="232" v:groupContext="shape" transform="translate(216.85,-540.51)">
 			<title>Rectangle.232</title>
 			<desc>Negative side of Single Responsibility</desc>
 			<v:userDefs>
@@ -322,18 +324,18 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="60.9449" cy="1000.63" width="121.89" height="34.0158"/>
-			<rect x="0" y="983.622" width="121.89" height="34.0158" class="st25"/>
+			<rect x="0" y="983.622" width="121.89" height="34.0158" class="st26"/>
 			<text x="15.08" y="997.63" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Negative side of Single <tspan
 						x="32.79" dy="1.2em" class="st3">Responsibility</tspan></text>		</g>
-		<g id="shape234-133" v:mID="234" v:groupContext="shape" v:layerMember="0" transform="translate(216.85,-550.431)">
+		<g id="shape234-138" v:mID="234" v:groupContext="shape" v:layerMember="0" transform="translate(216.85,-550.431)">
 			<title>Dynamic connector.234</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-10.8425" cy="1010.55" width="40" height="17.6036"/>
-			<path d="M0 1010.55 L-24.29 1010.55" class="st26"/>
+			<path d="M0 1010.55 L-24.29 1010.55" class="st27"/>
 			<rect v:rectContext="textBkgnd" x="-15.8602" y="1005.75" width="10.0352" height="9.59985" class="st10"/>
-			<text x="-15.86" y="1012.95" class="st28" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group235-141" transform="translate(249.803,-2.83465)" v:mID="235" v:groupContext="group">
+			<text x="-15.86" y="1012.95" class="st29" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="group235-146" transform="translate(249.803,-2.83465)" v:mID="235" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -347,11 +349,11 @@
 			</v:userDefs>
 			<title>Folded Corner.235</title>
 			<desc>The Chain of Responsibility pattern shifts the responsibility...</desc>
-			<g id="shape235-142" v:mID="235" v:groupContext="groupContent">
+			<g id="shape235-147" v:mID="235" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="76.1811" cy="819.213" width="152.37" height="396.85"/>
-				<path d="M0 1017.64 L137.1 1017.64 L152.36 1007.59 L152.36 620.79 L0 620.79 L0 1017.64 Z" class="st19"/>
-				<text x="4" y="633.79" class="st20" v:langID="1033"><v:paragraph/><v:tabList/>The Chain of Responsibility pattern <tspan
+				<path d="M0 1017.64 L137.1 1017.64 L152.36 1007.59 L152.36 620.79 L0 620.79 L0 1017.64 Z" class="st20"/>
+				<text x="4" y="633.79" class="st21" v:langID="1033"><v:paragraph/><v:tabList/>The Chain of Responsibility pattern <tspan
 							x="4" dy="1.2em" class="st3">shifts the responsibility, of knowing </tspan><tspan x="4" dy="1.2em"
 							class="st3">which receiving objects should </tspan><tspan x="4" dy="1.2em" class="st3">handle a request, from a single </tspan><tspan
 							x="4" dy="1.2em" class="st3">sender to each respective receiver. </tspan><tspan x="4" dy="1.2em"
@@ -373,7 +375,7 @@
 							class="st3">this help </tspan>‘behavior’ it passes the <tspan x="4" dy="1.2em" class="st3">request to its parent: Dialog. If the </tspan><tspan
 							x="4" dy="1.2em" class="st3">Dialog cannot handle it, then it will </tspan><tspan x="4" dy="1.2em"
 							class="st3">be passed to the Application. </tspan> </text>			</g>
-			<g id="shape236-177" v:mID="236" v:groupContext="shape" transform="translate(137.102,1.13687E-13)">
+			<g id="shape236-182" v:mID="236" v:groupContext="shape" transform="translate(137.102,1.13687E-13)">
 				<title>Sheet.236</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -387,10 +389,10 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.13959716622468):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M0 1017.64 L15.26 1007.59 L6.03 1003.62 L0 1017.64 Z" class="st21"/>
+				<path d="M0 1017.64 L15.26 1007.59 L6.03 1003.62 L0 1017.64 Z" class="st22"/>
 			</g>
 		</g>
-		<g id="shape237-180" v:mID="237" v:groupContext="shape" transform="translate(627.874,-837.992)">
+		<g id="shape237-185" v:mID="237" v:groupContext="shape" transform="translate(627.874,-837.992)">
 			<title>Rectangle.237</title>
 			<desc>Single Responsibility</desc>
 			<v:userDefs>
@@ -400,19 +402,19 @@
 			<v:textRect cx="60.9449" cy="1000.63" width="121.89" height="34.0158"/>
 			<rect x="0" y="983.622" width="121.89" height="34.0158" class="st5"/>
 			<text x="19.59" y="1003.63" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Single Responsibility</text>		</g>
-		<g id="shape238-183" v:mID="238" v:groupContext="shape" v:layerMember="0" transform="translate(587.421,-557.518)">
+		<g id="shape238-188" v:mID="238" v:groupContext="shape" v:layerMember="0" transform="translate(587.421,-557.518)">
 			<title>Dynamic connector.238</title>
-			<path d="M0 1017.64 L13.68 1017.64 L13.68 720.16 L32.85 720.16" class="st16"/>
+			<path d="M0 1017.64 L13.68 1017.64 L13.68 720.16 L32.85 720.16" class="st17"/>
 		</g>
-		<g id="shape68-188" v:mID="68" v:groupContext="shape" v:layerMember="0" transform="translate(587.421,-550.431)">
+		<g id="shape68-193" v:mID="68" v:groupContext="shape" v:layerMember="0" transform="translate(587.421,-550.431)">
 			<title>Dynamic connector.68</title>
 			<desc>Why?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="17.3227" cy="1010.55" width="40" height="17.6036"/>
-			<path d="M0 1010.55 L32.85 1010.55" class="st16"/>
-			<rect v:rectContext="textBkgnd" x="7.99835" y="1005.75" width="18.6485" height="9.59985" class="st29"/>
-			<text x="8" y="1012.95" class="st18" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
-		<g id="group239-195" transform="translate(773.209,-694.842)" v:mID="239" v:groupContext="group">
+			<path d="M0 1010.55 L32.85 1010.55" class="st17"/>
+			<rect v:rectContext="textBkgnd" x="7.99835" y="1005.75" width="18.6485" height="9.59985" class="st10"/>
+			<text x="8" y="1012.95" class="st19" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
+		<g id="group239-200" transform="translate(773.209,-694.842)" v:mID="239" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -426,7 +428,7 @@
 			</v:userDefs>
 			<title>Folded Corner.239</title>
 			<desc>The Chain Of Responsibility compliments the Single Responsibi...</desc>
-			<g id="shape239-196" v:mID="239" v:groupContext="groupContent">
+			<g id="shape239-201" v:mID="239" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="857.48" width="179.3" height="320.315"/>
 				<path d="M0 1017.64 L167.77 1017.64 L179.29 1006.24 L179.29 697.32 L0 697.32 L0 1017.64 Z" class="st12"/>
@@ -434,13 +436,14 @@
 							x="4" dy="1.2em" class="st3">the Single Responsibility pattern by </tspan><tspan x="4" dy="1.2em"
 							class="st3">distributing request</tspan>-handle logic. This <tspan x="4" dy="1.2em" class="st3">enhances </tspan><tspan
 							class="st14">testability</tspan>, <tspan class="st14">reusability </tspan>and <tspan x="4" dy="1.2em"
-							class="st14">stability</tspan>. All aspects are compared <tspan x="4" dy="1.2em" class="st3">against an implementation where the </tspan><tspan
-							x="4" dy="1.2em" class="st3">sender knows all its receivers and decides </tspan><tspan x="4" dy="1.2em"
-							class="st3">who handles the request. This </tspan><tspan x="4" dy="1.2em" class="st3">implementation often results in high </tspan><tspan
-							x="4" dy="1.2em" class="st3">cyclomatic complexity. </tspan><tspan class="st14">Testability</tspan>, <tspan
-							x="4" dy="1.2em" class="st3">because each branch of the original </tspan><tspan x="4" dy="1.2em"
-							class="st3">sender</tspan>’s request-handle logic is <tspan x="4" dy="1.2em" class="st3">distributed and can now be tested in a </tspan><tspan
-							x="4" dy="1.2em" class="st3">relative small problem window </tspan><tspan x="4" dy="1.2em" class="st3">(=Handler). Also, the original sender has </tspan><tspan
+							class="st14">stability</tspan>. <tspan class="st15">All aspects are compared </tspan><tspan x="4"
+							dy="1.2em" class="st15">against an implementation where the </tspan><tspan x="4" dy="1.2em"
+							class="st15">sender knows all its receivers and decides </tspan><tspan x="4" dy="1.2em" class="st15">who handles the request.</tspan> This <tspan
+							x="4" dy="1.2em" class="st3">implementation often results in high </tspan><tspan x="4" dy="1.2em"
+							class="st3">cyclomatic complexity. </tspan><tspan class="st14">Testability</tspan>, <tspan x="4"
+							dy="1.2em" class="st3">because each branch of the original </tspan><tspan x="4" dy="1.2em" class="st3">sender</tspan>’s request-handle logic is <tspan
+							x="4" dy="1.2em" class="st3">distributed and can now be tested in a </tspan><tspan x="4" dy="1.2em"
+							class="st3">relative small problem window </tspan><tspan x="4" dy="1.2em" class="st3">(=Handler). Also, the original sender has </tspan><tspan
 							x="4" dy="1.2em" class="st3">less dependencies making the sender </tspan><tspan x="4" dy="1.2em"
 							class="st3">easier to test. </tspan><tspan class="st14">Stability</tspan>, because the logic <tspan
 							x="4" dy="1.2em" class="st3">is distributed along a chain of Handlers. </tspan><tspan x="4" dy="1.2em"
@@ -449,7 +452,7 @@
 							class="st3">contains less dependencies making it </tspan><tspan x="4" dy="1.2em" class="st3">more reusable to other clients </tspan><tspan
 							x="4" dy="1.2em" class="st3">(=Handlers). The original sender, that has </tspan><tspan x="4" dy="1.2em"
 							class="st3">now become a Handler, can be re</tspan>-used in <tspan x="4" dy="1.2em" class="st3">other chains as well. </tspan> </text>			</g>
-			<g id="shape240-229" v:mID="240" v:groupContext="shape" transform="translate(167.771,1.13687E-13)">
+			<g id="shape240-235" v:mID="240" v:groupContext="shape" transform="translate(167.771,1.13687E-13)">
 				<title>Sheet.240</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -463,18 +466,18 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.15830924230133):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#70ad47)"/>
 				</v:userDefs>
-				<path d="M0 1017.64 L11.52 1006.24 L0.12 1006.12 L0 1017.64 Z" class="st15"/>
+				<path d="M0 1017.64 L11.52 1006.24 L0.12 1006.12 L0 1017.64 Z" class="st16"/>
 			</g>
 		</g>
-		<g id="shape241-232" v:mID="241" v:groupContext="shape" v:layerMember="0" transform="translate(749.764,-847.913)">
+		<g id="shape241-238" v:mID="241" v:groupContext="shape" v:layerMember="0" transform="translate(749.764,-847.913)">
 			<title>Dynamic connector.241</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="11.7225" cy="1010.55" width="40" height="17.6036"/>
-			<path d="M0 1010.55 L15.84 1010.55" class="st16"/>
+			<path d="M0 1010.55 L15.84 1010.55" class="st17"/>
 			<rect v:rectContext="textBkgnd" x="6.70478" y="1005.75" width="10.0352" height="9.59985" class="st10"/>
-			<text x="6.7" y="1012.95" class="st18" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape242-239" v:mID="242" v:groupContext="shape" transform="translate(570.118,-430.217)">
+			<text x="6.7" y="1012.95" class="st19" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="shape242-245" v:mID="242" v:groupContext="shape" transform="translate(570.118,-430.217)">
 			<title>Rectangle.242</title>
 			<desc>Decomposition of conditional structures (e.g. if-else, switch...</desc>
 			<v:userDefs>
@@ -485,11 +488,11 @@
 			<rect x="0" y="970.984" width="152.362" height="46.6535" class="st7"/>
 			<text x="16.21" y="991.31" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Decomposition of conditional <tspan
 						x="4.68" dy="1.2em" class="st3">structures (e.g. if</tspan>-else, switch-case)</text>		</g>
-		<g id="shape243-243" v:mID="243" v:groupContext="shape" v:layerMember="0" transform="translate(486.142,-514.998)">
+		<g id="shape243-249" v:mID="243" v:groupContext="shape" v:layerMember="0" transform="translate(486.142,-514.998)">
 			<title>Dynamic connector.243</title>
 			<path d="M0 1017.64 L0 1034.95 L160.16 1034.95 L160.16 1048.17" class="st8"/>
 		</g>
-		<g id="shape48-248" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(486.142,-514.998)">
+		<g id="shape48-254" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(486.142,-514.998)">
 			<title>Dynamic connector</title>
 			<desc>When?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -497,7 +500,7 @@
 			<path d="M0 1017.64 L-0 1034.45 L-160.16 1034.45 L-160.16 1048.17" class="st8"/>
 			<rect v:rectContext="textBkgnd" x="-10.0305" y="1022.97" width="23.2108" height="9.59985" class="st10"/>
 			<text x="-10.03" y="1030.17" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>When?</text>		</g>
-		<g id="group244-255" transform="translate(576.142,-192.756)" v:mID="244" v:groupContext="group">
+		<g id="group244-261" transform="translate(576.142,-192.756)" v:mID="244" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -511,11 +514,11 @@
 			</v:userDefs>
 			<title>Folded Corner.244</title>
 			<desc>The Chain of Responsibility pattern allows decomposition of c...</desc>
-			<g id="shape244-256" v:mID="244" v:groupContext="groupContent">
+			<g id="shape244-262" v:mID="244" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="70.1575" cy="914.173" width="140.32" height="206.929"/>
-				<path d="M0 1017.64 L132.92 1017.64 L140.31 1009.04 L140.31 810.71 L0 810.71 L0 1017.64 Z" class="st19"/>
-				<text x="4" y="823.71" class="st20" v:langID="1033"><v:paragraph/><v:tabList/>The Chain of Responsibility <tspan
+				<path d="M0 1017.64 L132.92 1017.64 L140.31 1009.04 L140.31 810.71 L0 810.71 L0 1017.64 Z" class="st20"/>
+				<text x="4" y="823.71" class="st21" v:langID="1033"><v:paragraph/><v:tabList/>The Chain of Responsibility <tspan
 							x="4" dy="1.2em" class="st3">pattern allows decomposition of </tspan><tspan x="4" dy="1.2em"
 							class="st3">conditional structures. </tspan><tspan x="4" dy="1.2em" class="st3">Conditional structures (e.g.: </tspan><tspan
 							x="4" dy="1.2em" class="st3">switch</tspan>-case or if-else) are a <tspan x="4" dy="1.2em" class="st3">representation of the Chain of </tspan><tspan
@@ -525,7 +528,7 @@
 							class="st3">object may handle a request </tspan><tspan x="4" dy="1.2em" class="st3">and/or pass the request along </tspan><tspan
 							x="4" dy="1.2em" class="st3">the chain. This object oriented </tspan><tspan x="4" dy="1.2em"
 							class="st3">approach enhances reusability, </tspan><tspan x="4" dy="1.2em" class="st3">testability and flexibility. </tspan> </text>			</g>
-			<g id="shape245-275" v:mID="245" v:groupContext="shape" transform="translate(131.811,1.13687E-13)">
+			<g id="shape245-281" v:mID="245" v:groupContext="shape" transform="translate(131.811,1.13687E-13)">
 				<title>Sheet.245</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -539,18 +542,18 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.1194627594641):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M1.11 1017.64 L8.5 1009.04 L0 1010.33 L1.11 1017.64 Z" class="st21"/>
+				<path d="M1.11 1017.64 L8.5 1009.04 L0 1010.33 L1.11 1017.64 Z" class="st22"/>
 			</g>
 		</g>
-		<g id="shape246-278" v:mID="246" v:groupContext="shape" v:layerMember="0" transform="translate(639.213,-430.217)">
+		<g id="shape246-284" v:mID="246" v:groupContext="shape" v:layerMember="0" transform="translate(639.213,-430.217)">
 			<title>Dynamic connector.246</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1032.9" width="40" height="17.6036"/>
 			<path d="M7.09 1017.64 L7.09 1040.57" class="st8"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="1028.1" width="10.0352" height="9.59985" class="st29"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="1028.1" width="10.0352" height="9.59985" class="st10"/>
 			<text x="2.07" y="1035.3" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape253-285" v:mID="253" v:groupContext="shape" transform="translate(216.85,-657.684)">
+		<g id="shape253-291" v:mID="253" v:groupContext="shape" transform="translate(216.85,-657.684)">
 			<title>Rectangle.253</title>
 			<desc>Negative side of Open Closed</desc>
 			<v:userDefs>
@@ -558,22 +561,22 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="60.9449" cy="1000.63" width="121.89" height="34.0158"/>
-			<rect x="0" y="983.622" width="121.89" height="34.0158" class="st25"/>
+			<rect x="0" y="983.622" width="121.89" height="34.0158" class="st26"/>
 			<text x="16.09" y="997.63" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Negative side of Open <tspan
 						x="47.42" dy="1.2em" class="st3">Closed</tspan></text>		</g>
-		<g id="shape254-289" v:mID="254" v:groupContext="shape" v:layerMember="0" transform="translate(384.862,-557.518)">
+		<g id="shape254-295" v:mID="254" v:groupContext="shape" v:layerMember="0" transform="translate(384.862,-557.518)">
 			<title>Dynamic connector.254</title>
-			<path d="M0 1017.64 L-16.82 1017.64 L-16.82 900.46 L-38.52 900.46" class="st26"/>
+			<path d="M0 1017.64 L-16.82 1017.64 L-16.82 900.46 L-38.52 900.46" class="st27"/>
 		</g>
-		<g id="shape24-294" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(384.862,-550.431)">
+		<g id="shape24-300" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(384.862,-550.431)">
 			<title>Dynamic connector.24</title>
 			<desc>Why not?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-19.6922" cy="1009.47" width="41.38" height="17.6036"/>
-			<path d="M0 1010.55 L-38.52 1010.55" class="st26"/>
-			<rect v:rectContext="textBkgnd" x="-35.4713" y="1004.67" width="31.5585" height="9.59985" class="st29"/>
-			<text x="-35.47" y="1011.87" class="st28" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
-		<g id="group255-301" transform="translate(5.66929,-629.337)" v:mID="255" v:groupContext="group">
+			<path d="M0 1010.55 L-38.52 1010.55" class="st27"/>
+			<rect v:rectContext="textBkgnd" x="-35.4713" y="1004.67" width="31.5585" height="9.59985" class="st10"/>
+			<text x="-35.47" y="1011.87" class="st29" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
+		<g id="group255-307" transform="translate(5.66929,-629.337)" v:mID="255" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -587,17 +590,17 @@
 			</v:userDefs>
 			<title>Folded Corner.255</title>
 			<desc>The Chain of Responsibility entails both the negative and pos...</desc>
-			<g id="shape255-302" v:mID="255" v:groupContext="groupContent">
+			<g id="shape255-308" v:mID="255" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="972.283" width="179.3" height="90.7087"/>
-				<path d="M0 1017.64 L171.26 1017.64 L179.29 995.66 L179.29 926.93 L0 926.93 L0 1017.64 Z" class="st22"/>
-				<text x="4" y="939.93" class="st23" v:langID="1033"><v:paragraph/><v:tabList/>The Chain of Responsibility entails both <tspan
+				<path d="M0 1017.64 L171.26 1017.64 L179.29 995.66 L179.29 926.93 L0 926.93 L0 1017.64 Z" class="st23"/>
+				<text x="4" y="939.93" class="st24" v:langID="1033"><v:paragraph/><v:tabList/>The Chain of Responsibility entails both <tspan
 							x="4" dy="1.2em" class="st3">the negative and positive aspect of the </tspan><tspan x="4" dy="1.2em"
 							class="st3">Open Closed Principle. The distribution of </tspan><tspan x="4" dy="1.2em" class="st3">request</tspan>-handle logic in combination with <tspan
 							x="4" dy="1.2em" class="st3">an abstraction negatively impacts the </tspan><tspan x="4" dy="1.2em"
 							class="st14">navigability </tspan>and <tspan class="st14">debuggability </tspan>of the <tspan x="4"
 							dy="1.2em" class="st3">code. </tspan> <v:newlineChar/></text>			</g>
-			<g id="shape256-313" v:mID="256" v:groupContext="shape" transform="translate(165.118,1.13687E-13)">
+			<g id="shape256-319" v:mID="256" v:groupContext="shape" transform="translate(165.118,1.13687E-13)">
 				<title>Sheet.256</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -611,16 +614,16 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.30530291221527):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#fec000)"/>
 				</v:userDefs>
-				<path d="M6.14 1017.64 L14.17 995.66 L0 1012.46 L6.14 1017.64 Z" class="st24"/>
+				<path d="M6.14 1017.64 L14.17 995.66 L0 1012.46 L6.14 1017.64 Z" class="st25"/>
 			</g>
 		</g>
-		<g id="shape257-316" v:mID="257" v:groupContext="shape" v:layerMember="0" transform="translate(216.85,-667.605)">
+		<g id="shape257-322" v:mID="257" v:groupContext="shape" v:layerMember="0" transform="translate(216.85,-667.605)">
 			<title>Dynamic connector.257</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-12.5984" cy="1011.32" width="40" height="17.6036"/>
-			<path d="M0 1010.55 L-24.29 1010.55" class="st26"/>
+			<path d="M0 1010.55 L-24.29 1010.55" class="st27"/>
 			<rect v:rectContext="textBkgnd" x="-17.6161" y="1006.52" width="10.0352" height="9.59985" class="st10"/>
-			<text x="-17.62" y="1013.72" class="st28" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+			<text x="-17.62" y="1013.72" class="st29" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 	</g>
 </svg>
