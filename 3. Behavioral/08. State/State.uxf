@@ -40,7 +40,7 @@ context:Context
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>451</x>
+      <x>429</x>
       <y>495</y>
       <w>242</w>
       <h>110</h>
@@ -56,18 +56,18 @@ context:Context
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>572</x>
+      <x>550</x>
       <y>418</y>
-      <w>165</w>
+      <w>187</w>
       <h>99</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>130.0;10.0;130.0;50.0;10.0;50.0;10.0;70.0</additional_attributes>
+    <additional_attributes>150.0;10.0;150.0;50.0;10.0;50.0;10.0;70.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>715</x>
+      <x>737</x>
       <y>495</y>
       <w>242</w>
       <h>110</h>
@@ -85,11 +85,11 @@ context:Context
     <coordinates>
       <x>704</x>
       <y>418</y>
-      <w>143</w>
+      <w>165</w>
       <h>99</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;50.0;110.0;50.0;110.0;70.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0;130.0;50.0;130.0;70.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -101,5 +101,27 @@ context:Context
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>660</x>
+      <y>572</y>
+      <w>99</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;70.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>660</x>
+      <y>517</y>
+      <w>99</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
   </element>
 </diagram>
