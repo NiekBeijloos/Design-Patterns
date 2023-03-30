@@ -1,36 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="15.0.0">
-  <zoom_level>10</zoom_level>
+  <zoom_level>13</zoom_level>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>380</x>
-      <y>180</y>
-      <w>130</w>
-      <h>30</h>
+      <x>195</x>
+      <y>52</y>
+      <w>182</w>
+      <h>130</h>
     </coordinates>
     <panel_attributes>/Abstraction/
+--
+-impl:Implementor
+--
+Operation(){
+  impl-&gt;Operation()
+}
 </panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>380</x>
-      <y>250</y>
-      <w>130</w>
-      <h>30</h>
+      <x>195</x>
+      <y>234</y>
+      <w>182</w>
+      <h>39</h>
     </coordinates>
-    <panel_attributes>ConcreteAbstraction</panel_attributes>
+    <panel_attributes>RefinedAbstraction</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>430</x>
-      <y>200</y>
-      <w>30</w>
-      <h>70</h>
+      <x>273</x>
+      <y>169</y>
+      <w>39</w>
+      <h>91</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
@@ -38,33 +44,36 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>580</x>
-      <y>180</y>
-      <w>160</w>
-      <h>30</h>
+      <x>442</x>
+      <y>52</y>
+      <w>182</w>
+      <h>130</h>
     </coordinates>
-    <panel_attributes>/Implementation/
+    <panel_attributes>/Implementor/
+--
++OperationImpl:void
++OtherImpl:void
 </panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>580</x>
-      <y>250</y>
-      <w>160</w>
-      <h>30</h>
+      <x>442</x>
+      <y>234</y>
+      <w>182</w>
+      <h>39</h>
     </coordinates>
-    <panel_attributes>ConcreteImplementation</panel_attributes>
+    <panel_attributes>ConcreteImplementor</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>640</x>
-      <y>200</y>
-      <w>30</w>
-      <h>70</h>
+      <x>520</x>
+      <y>169</y>
+      <w>39</w>
+      <h>91</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
@@ -72,12 +81,12 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>500</x>
-      <y>180</y>
-      <w>100</w>
-      <h>30</h>
+      <x>364</x>
+      <y>104</y>
+      <w>104</w>
+      <h>39</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;80.0;10.0</additional_attributes>
+    <additional_attributes>10.0;10.0;60.0;10.0</additional_attributes>
   </element>
 </diagram>
