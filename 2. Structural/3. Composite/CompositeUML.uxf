@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="15.0.0">
-  <zoom_level>10</zoom_level>
+  <zoom_level>13</zoom_level>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>420</x>
-      <y>230</y>
-      <w>180</w>
-      <h>50</h>
+      <x>312</x>
+      <y>169</y>
+      <w>234</w>
+      <h>65</h>
     </coordinates>
     <panel_attributes>Component
 --
@@ -17,25 +17,31 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>510</x>
-      <y>340</y>
-      <w>180</w>
-      <h>80</h>
+      <x>429</x>
+      <y>312</y>
+      <w>234</w>
+      <h>208</h>
     </coordinates>
     <panel_attributes>Composite
 --
+-leafs:Leaf[]
+--
 +Add(Component):void
 +Remove(Component):void
-+Operation():void</panel_attributes>
++Operation(){
+  for(auto leaf: leafs){
+     leaf-&gt;Operation()
+  }
+}</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>310</x>
-      <y>340</y>
-      <w>180</w>
-      <h>80</h>
+      <x>169</x>
+      <y>312</y>
+      <w>234</w>
+      <h>78</h>
     </coordinates>
     <panel_attributes>Leaf
 --
@@ -45,10 +51,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>490</x>
-      <y>270</y>
-      <w>130</w>
-      <h>90</h>
+      <x>403</x>
+      <y>221</y>
+      <w>169</w>
+      <h>117</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;40.0;110.0;40.0;110.0;70.0</additional_attributes>
@@ -56,10 +62,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>390</x>
-      <y>270</y>
-      <w>130</w>
-      <h>90</h>
+      <x>273</x>
+      <y>221</y>
+      <w>169</w>
+      <h>117</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
     <additional_attributes>110.0;10.0;110.0;40.0;10.0;40.0;10.0;70.0</additional_attributes>
@@ -67,10 +73,10 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>590</x>
-      <y>250</y>
-      <w>170</w>
-      <h>130</h>
+      <x>533</x>
+      <y>195</y>
+      <w>221</w>
+      <h>169</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
     <additional_attributes>100.0;110.0;150.0;110.0;150.0;10.0;10.0;10.0</additional_attributes>
