@@ -4,9 +4,9 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>312</x>
+      <x>325</x>
       <y>169</y>
-      <w>234</w>
+      <w>299</w>
       <h>65</h>
     </coordinates>
     <panel_attributes>Component
@@ -17,20 +17,20 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>429</x>
+      <x>468</x>
       <y>312</y>
-      <w>234</w>
+      <w>299</w>
       <h>208</h>
     </coordinates>
     <panel_attributes>Composite
 --
--leafs:Leaf[]
+-components:Component[]
 --
 +Add(Component):void
 +Remove(Component):void
 +Operation(){
-  for(auto leaf: leafs){
-     leaf-&gt;Operation()
+  for(auto component: components){
+     component-&gt;Operation()
   }
 }</panel_attributes>
     <additional_attributes/>
@@ -38,9 +38,9 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>169</x>
+      <x>156</x>
       <y>312</y>
-      <w>234</w>
+      <w>299</w>
       <h>78</h>
     </coordinates>
     <panel_attributes>Leaf
@@ -51,34 +51,34 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>403</x>
+      <x>442</x>
       <y>221</y>
-      <w>169</w>
+      <w>195</w>
       <h>117</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;40.0;110.0;40.0;110.0;70.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;40.0;130.0;40.0;130.0;70.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>273</x>
+      <x>286</x>
       <y>221</y>
-      <w>169</w>
+      <w>195</w>
       <h>117</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>110.0;10.0;110.0;40.0;10.0;40.0;10.0;70.0</additional_attributes>
+    <additional_attributes>130.0;10.0;130.0;40.0;10.0;40.0;10.0;70.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>533</x>
+      <x>611</x>
       <y>195</y>
-      <w>221</w>
-      <h>169</h>
+      <w>234</w>
+      <h>247</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>100.0;110.0;150.0;110.0;150.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>120.0;170.0;160.0;170.0;160.0;10.0;10.0;10.0</additional_attributes>
   </element>
 </diagram>
