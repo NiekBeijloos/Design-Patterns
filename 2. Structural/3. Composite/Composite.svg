@@ -22,7 +22,7 @@
 		.st7 {fill:#d06d29;stroke:#ae5a21;stroke-width:0.75}
 		.st8 {marker-end:url(#mrkr4-21);stroke:#ed7d31;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st9 {fill:#ed7d31;fill-opacity:1;stroke:#ed7d31;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st10 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st10 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st11 {fill:#d06d29;font-family:Calibri;font-size:0.666664em}
 		.st12 {fill:#61973d;stroke:#507e31;stroke-width:0.75}
 		.st13 {fill:url(#grad0-31);stroke:#61973d;stroke-width:0.75}
@@ -32,7 +32,7 @@
 		.st17 {fill:url(#grad0-77);stroke:#61973d;stroke-width:0.75}
 		.st18 {marker-end:url(#mrkr4-83);stroke:#70ad47;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st19 {fill:#70ad47;fill-opacity:1;stroke:#70ad47;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st20 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st20 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
 		.st21 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
 		.st22 {fill:url(#grad0-90);stroke:#d06d29;stroke-width:0.75}
 		.st23 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
@@ -284,7 +284,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1035.94" width="40" height="17.6036"/>
 			<path d="M7.09 1020.47 L7.09 1045.59" class="st8"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="1031.15" width="10.0352" height="9.59985" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="1031.15" width="10.0352" height="9.59985" class="st20"/>
 			<text x="2.07" y="1038.35" class="st11" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 		<g id="group116-130" transform="translate(18,-252.137)" v:mID="116" v:groupContext="group">
 			<v:userDefs>
@@ -356,9 +356,9 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-14.1732" cy="1013.39" width="40" height="17.6036"/>
 			<path d="M0 1013.39 L-27.55 1013.39" class="st28"/>
-			<rect v:rectContext="textBkgnd" x="-19.1909" y="1008.59" width="10.0352" height="9.59985" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="-19.1909" y="1008.59" width="10.0352" height="9.59985" class="st20"/>
 			<text x="-19.19" y="1015.79" class="st30" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape119-190" v:mID="119" v:groupContext="shape" transform="translate(632.126,-854.646)">
+		<g id="shape119-190" v:mID="119" v:groupContext="shape" transform="translate(646.299,-854.646)">
 			<title>Rectangle.119</title>
 			<desc>Open Closed</desc>
 			<v:userDefs>
@@ -388,23 +388,22 @@
 				<path d="M0 1020.47 L170.27 1020.47 L179.29 1012.85 L179.29 727.09 L0 727.09 L0 1020.47 Z" class="st13"/>
 				<text x="4" y="740.09" class="st14" v:langID="1033"><v:paragraph/><v:tabList/>The Composite pattern compliments the <tspan
 							x="4" dy="1.2em" class="st6">Open Closed principle by substituting </tspan><tspan x="4" dy="1.2em"
-							class="st6">single objects (=Leafs) for object </tspan><tspan x="4" dy="1.2em" class="st6">collections (=Composites) without change </tspan><tspan
-							x="4" dy="1.2em" class="st6">of the client code. This ensures </tspan><tspan class="st15">stability </tspan><tspan
-							x="4" dy="1.2em" class="st6">and </tspan><tspan class="st15">reusability </tspan>of the code base. <tspan
-							class="st16">All </tspan><tspan x="4" dy="1.2em" class="st16">aspects are compared against an </tspan><tspan
-							x="4" dy="1.2em" class="st16">implementation where a client requires </tspan><tspan x="4" dy="1.2em"
-							class="st16">change when single objects are </tspan><tspan x="4" dy="1.2em" class="st16">substituted for object </tspan><tspan
-							class="st16">collections</tspan>. <tspan x="4" dy="1.2em" class="st15">Stability</tspan>, because object collections <tspan
-							x="4" dy="1.2em" class="st6">(=Composite) can be used in code where </tspan><tspan x="4" dy="1.2em"
-							class="st6">single objects (=Leaf) are used. This is </tspan><tspan x="4" dy="1.2em" class="st6">possible due to </tspan>both Composite and Leaf <tspan
-							x="4" dy="1.2em" class="st6">following the same interface. Preventing </tspan><tspan x="4" dy="1.2em"
-							class="st6">change in the client results in stable </tspan><tspan x="4" dy="1.2em" class="st6">production and test code. Client code will </tspan><tspan
-							x="4" dy="1.2em" class="st6">not break in unexpected ways (=bugs) </tspan><tspan x="4" dy="1.2em"
-							class="st6">and test code will not require change </tspan><tspan x="4" dy="1.2em" class="st6">because production code has changed. </tspan><tspan
-							x="4" dy="1.2em" class="st15">Reusability, </tspan>because the client code, <tspan x="4" dy="1.2em"
-							class="st6">dependent on a single object (Leaf), can </tspan><tspan x="4" dy="1.2em" class="st6">be reused with object collections </tspan><tspan
-							x="4" dy="1.2em" class="st6">(Composite).  </tspan>  </text>			</g>
-			<g id="shape121-225" v:mID="121" v:groupContext="shape" transform="translate(170.274,1.13687E-13)">
+							class="st6">single objects (=Leafs) for object </tspan><tspan x="4" dy="1.2em" class="st6">collections (=Composites) without </tspan><tspan
+							x="4" dy="1.2em" class="st6">changing the client code. This ensures </tspan><tspan x="4" dy="1.2em"
+							class="st15">stability </tspan>and <tspan class="st15">reusability </tspan>of the code base. <tspan
+							x="4" dy="1.2em" class="st16">All aspects are compared against an </tspan><tspan x="4" dy="1.2em"
+							class="st16">implementation where a client requires </tspan><tspan x="4" dy="1.2em" class="st16">change when single objects are </tspan><tspan
+							x="4" dy="1.2em" class="st16">substituted for object collections</tspan>. <tspan x="4" dy="1.2em"
+							class="st15">Stability</tspan>, because object collections <tspan x="4" dy="1.2em" class="st6">(=Composite) can be used in code where </tspan><tspan
+							x="4" dy="1.2em" class="st6">single objects (=Leaf) are used. This is </tspan><tspan x="4" dy="1.2em"
+							class="st6">possible due to </tspan>both Composite and Leaf <tspan x="4" dy="1.2em" class="st6">following the same interface. Preventing </tspan><tspan
+							x="4" dy="1.2em" class="st6">change in the client results in stable </tspan><tspan x="4" dy="1.2em"
+							class="st6">production and test code. Client code will </tspan><tspan x="4" dy="1.2em" class="st6">not break in unexpected ways (=bugs) </tspan><tspan
+							x="4" dy="1.2em" class="st6">and test code will not require change </tspan><tspan x="4" dy="1.2em"
+							class="st6">because production code has changed. </tspan><tspan x="4" dy="1.2em" class="st15">Reusability, </tspan>because the client code, <tspan
+							x="4" dy="1.2em" class="st6">dependent on a single object (Leaf), can </tspan><tspan x="4" dy="1.2em"
+							class="st6">be reused with object collections </tspan><tspan x="4" dy="1.2em" class="st6">(Composite).  </tspan>  </text>			</g>
+			<g id="shape121-222" v:mID="121" v:groupContext="shape" transform="translate(170.274,1.13687E-13)">
 				<title>Sheet.121</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -421,33 +420,33 @@
 				<path d="M0 1020.47 L9.02 1012.85 L1.51 1011.58 L0 1020.47 Z" class="st17"/>
 			</g>
 		</g>
-		<g id="shape122-228" v:mID="122" v:groupContext="shape" v:layerMember="0" transform="translate(754.016,-864.567)">
+		<g id="shape122-225" v:mID="122" v:groupContext="shape" v:layerMember="0" transform="translate(768.189,-864.567)">
 			<title>Dynamic connector.122</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="24.0945" cy="1013.39" width="40" height="17.6036"/>
-			<path d="M0 1013.39 L40.59 1013.39" class="st18"/>
-			<rect v:rectContext="textBkgnd" x="19.0768" y="1008.59" width="10.0352" height="9.59985" class="st10"/>
-			<text x="19.08" y="1015.79" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape123-235" v:mID="123" v:groupContext="shape" v:layerMember="0" transform="translate(601.594,-496.063)">
+			<v:textRect cx="17.0079" cy="1013.39" width="40" height="17.6036"/>
+			<path d="M0 1013.39 L26.42 1013.39" class="st18"/>
+			<rect v:rectContext="textBkgnd" x="11.9902" y="1008.59" width="10.0352" height="9.59985" class="st20"/>
+			<text x="11.99" y="1015.79" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="shape123-232" v:mID="123" v:groupContext="shape" v:layerMember="0" transform="translate(601.594,-496.063)">
 			<title>Dynamic connector.123</title>
-			<path d="M0 1020.47 L13.68 1020.47 L13.68 644.88 L22.93 644.88" class="st18"/>
+			<path d="M0 1020.47 L13.68 1020.47 L13.68 644.88 L37.1 644.88" class="st18"/>
 		</g>
-		<g id="shape68-240" v:mID="68" v:groupContext="shape" v:layerMember="0" transform="translate(601.594,-488.976)">
+		<g id="shape68-237" v:mID="68" v:groupContext="shape" v:layerMember="0" transform="translate(601.594,-488.976)">
 			<title>Dynamic connector.68</title>
 			<desc>Why?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="19.1434" cy="1013.39" width="40" height="17.6036"/>
 			<path d="M0 1013.39 L37.1 1013.39" class="st18"/>
-			<rect v:rectContext="textBkgnd" x="9.81911" y="1008.59" width="18.6485" height="9.59985" class="st10"/>
+			<rect v:rectContext="textBkgnd" x="9.81911" y="1008.59" width="18.6485" height="9.59985" class="st20"/>
 			<text x="9.82" y="1015.79" class="st21" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
-		<g id="shape24-247" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(399.035,-488.976)">
+		<g id="shape24-244" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(399.035,-488.976)">
 			<title>Dynamic connector.24</title>
 			<desc>Why not?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="-15.6859" cy="1013.39" width="41.38" height="17.6036"/>
+			<v:textRect cx="-16.3583" cy="1013.39" width="41.38" height="17.6036"/>
 			<path d="M0 1013.39 L-37.1 1013.39" class="st28"/>
-			<rect v:rectContext="textBkgnd" x="-31.465" y="1008.59" width="31.5585" height="9.59985" class="st10"/>
-			<text x="-31.47" y="1015.79" class="st30" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
+			<rect v:rectContext="textBkgnd" x="-32.1374" y="1008.59" width="31.5585" height="9.59985" class="st10"/>
+			<text x="-32.14" y="1015.79" class="st30" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
 	</g>
 </svg>

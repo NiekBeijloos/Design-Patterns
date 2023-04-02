@@ -20,11 +20,17 @@
       <x>510</x>
       <y>340</y>
       <w>180</w>
-      <h>80</h>
+      <h>130</h>
     </coordinates>
     <panel_attributes>Decorator
 --
-+Operation():void</panel_attributes>
+-component:Component
+--
+-Decorate():void
++Operation(){
+  Decorate()
+  component-&gt;Operation()
+}</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -33,7 +39,7 @@
       <x>310</x>
       <y>340</y>
       <w>180</w>
-      <h>80</h>
+      <h>70</h>
     </coordinates>
     <panel_attributes>ConcreteComponent
 --
@@ -68,9 +74,9 @@
       <x>590</x>
       <y>250</y>
       <w>170</w>
-      <h>130</h>
+      <h>190</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>100.0;110.0;150.0;110.0;150.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>100.0;170.0;150.0;170.0;150.0;10.0;10.0;10.0</additional_attributes>
   </element>
 </diagram>
