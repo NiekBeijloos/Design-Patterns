@@ -35,11 +35,11 @@
 		.st20 {fill:#d06d29;stroke:#ae5a21;stroke-width:0.75}
 		.st21 {marker-end:url(#mrkr4-85);stroke:#ed7d31;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st22 {fill:#ed7d31;fill-opacity:1;stroke:#ed7d31;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st23 {fill:#ffffff;stroke:none;stroke-linecap:butt}
-		.st24 {fill:#d06d29;font-family:Calibri;font-size:0.666664em}
-		.st25 {fill:url(#grad0-97);stroke:#d06d29;stroke-width:0.75}
-		.st26 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
-		.st27 {fill:url(#grad0-122);stroke:#d06d29;stroke-width:0.75}
+		.st23 {fill:#d06d29;font-family:Calibri;font-size:0.666664em}
+		.st24 {fill:url(#grad0-97);stroke:#d06d29;stroke-width:0.75}
+		.st25 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
+		.st26 {fill:url(#grad0-122);stroke:#d06d29;stroke-width:0.75}
+		.st27 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st28 {fill:url(#grad0-134);stroke:#dfa800;stroke-width:0.75}
 		.st29 {fill:#dfa800;font-family:Calibri;font-size:0.833336em}
 		.st30 {fill:url(#grad0-149);stroke:#dfa800;stroke-width:0.75}
@@ -244,8 +244,8 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="1.57481" cy="1085.75" width="40" height="17.6036"/>
 			<path d="M0 1077.17 L0 1096.6 L-80.08 1096.6 L-80.08 1102.28" class="st21"/>
-			<rect v:rectContext="textBkgnd" x="-10.0305" y="1080.95" width="23.2108" height="9.59985" class="st23"/>
-			<text x="-10.03" y="1088.15" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>When?</text>		</g>
+			<rect v:rectContext="textBkgnd" x="-10.0305" y="1080.95" width="23.2108" height="9.59985" class="st14"/>
+			<text x="-10.03" y="1088.15" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>When?</text>		</g>
 		<g id="group54-93" transform="translate(501.732,-99.2126)" v:mID="54" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
@@ -263,8 +263,8 @@
 			<g id="shape54-94" v:mID="54" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="74.4094" cy="942.638" width="148.82" height="269.055"/>
-				<path d="M0 1077.17 L138.76 1077.17 L148.82 1069.4 L148.82 808.11 L0 808.11 L0 1077.17 Z" class="st25"/>
-				<text x="4" y="821.11" class="st26" v:langID="1033"><v:paragraph/><v:tabList/>The Adapter pattern might be <tspan
+				<path d="M0 1077.17 L138.76 1077.17 L148.82 1069.4 L148.82 808.11 L0 808.11 L0 1077.17 Z" class="st24"/>
+				<text x="4" y="821.11" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>The Adapter pattern might be <tspan
 							x="4" dy="1.2em" class="st8">used to extend the interface of an </tspan><tspan x="4" dy="1.2em"
 							class="st8">existing class. A use case might be </tspan><tspan x="4" dy="1.2em" class="st8">that several subclasses require an </tspan><tspan
 							x="4" dy="1.2em" class="st8">extension of their </tspan>interface, but <tspan x="4" dy="1.2em"
@@ -292,7 +292,7 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.10790135328205):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M0 1077.17 L10.06 1069.4 L2.55 1067.43 L0 1077.17 Z" class="st27"/>
+				<path d="M0 1077.17 L10.06 1069.4 L2.55 1067.43 L0 1077.17 Z" class="st26"/>
 			</g>
 		</g>
 		<g id="shape56-123" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(569.055,-400.984)">
@@ -301,8 +301,8 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1090.1" width="40" height="17.6036"/>
 			<path d="M7.09 1077.17 L7.09 1102.28" class="st21"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="1085.3" width="10.0352" height="9.59985" class="st23"/>
-			<text x="2.07" y="1092.5" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="1085.3" width="10.0352" height="9.59985" class="st27"/>
+			<text x="2.07" y="1092.5" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 		<g id="group57-130" transform="translate(3.82677,-446.395)" v:mID="57" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
@@ -404,11 +404,12 @@
 							class="st8">contrast, when the Adapter logic resides </tspan><tspan x="4" dy="1.2em" class="st8">inside the client and change is required in </tspan><tspan
 							x="4" dy="1.2em" class="st8">the Adapter or client, then the chance of </tspan><tspan x="4" dy="1.2em"
 							class="st8">breaking code unrelated to the change is </tspan><tspan x="4" dy="1.2em" class="st8">higher. </tspan><tspan
-							class="st9">Reusability</tspan>, because extracting <tspan x="4" dy="1.2em" class="st8">Adapter logic from client code increases </tspan><tspan
-							x="4" dy="1.2em" class="st8">the reusability of this logic across other </tspan><tspan x="4" dy="1.2em"
-							class="st8">clients. As stated in </tspan><tspan class="st31">point 2</tspan> of the <tspan
-							class="st31">When?</tspan> <tspan x="4" dy="1.2em" class="st8">section, multiple subclasses can reuse the </tspan><tspan
-							x="4" dy="1.2em" class="st8">same Adapter logic (=Pluggable </tspan><tspan x="4" dy="1.2em" class="st8">Adapters).</tspan></text>			</g>
+							class="st9">Reusability</tspan>, because extracting <tspan x="4" dy="1.2em" class="st8">Adapter logic from the client increases </tspan><tspan
+							x="4" dy="1.2em" class="st8">the reusability of both client and Adapter </tspan><tspan x="4" dy="1.2em"
+							class="st8">across the code base. As stated in </tspan><tspan class="st31">point 2</tspan> <tspan x="4"
+							dy="1.2em" class="st8">of the </tspan><tspan class="st31">When?</tspan> section, multiple subclasses <tspan
+							x="4" dy="1.2em" class="st8">can reuse the same Adapter logic </tspan><tspan x="4" dy="1.2em"
+							class="st8">(=Pluggable Adapters).</tspan></text>			</g>
 			<g id="shape65-207" v:mID="65" v:groupContext="shape" transform="translate(163.427,0)">
 				<title>Sheet.65</title>
 				<v:userDefs>
@@ -459,8 +460,8 @@
 			<g id="shape73-225" v:mID="73" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="74.4094" cy="895.299" width="148.82" height="363.732"/>
-				<path d="M0 1077.17 L139.17 1077.17 L148.82 1069.82 L148.82 713.43 L0 713.43 L0 1077.17 Z" class="st25"/>
-				<text x="4" y="726.43" class="st26" v:langID="1033"><v:paragraph/><v:tabList/>The Adapter pattern can be used <tspan
+				<path d="M0 1077.17 L139.17 1077.17 L148.82 1069.82 L148.82 713.43 L0 713.43 L0 1077.17 Z" class="st24"/>
+				<text x="4" y="726.43" class="st25" v:langID="1033"><v:paragraph/><v:tabList/>The Adapter pattern can be used <tspan
 							x="4" dy="1.2em" class="st8">to connect classes with </tspan><tspan x="4" dy="1.2em" class="st8">incompatible interfaces. A </tspan><tspan
 							x="4" dy="1.2em" class="st8">common scenario is that our </tspan><tspan x="4" dy="1.2em" class="st8">system is dependent on an </tspan><tspan
 							x="4" dy="1.2em" class="st8">existing interface and the </tspan><tspan x="4" dy="1.2em" class="st8">implementation behind that </tspan><tspan
@@ -493,7 +494,7 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.10208592665365):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M0 1077.17 L9.65 1069.82 L2.56 1067.86 L0 1077.17 Z" class="st27"/>
+				<path d="M0 1077.17 L9.65 1069.82 L2.56 1067.86 L0 1077.17 Z" class="st26"/>
 			</g>
 		</g>
 		<g id="shape80-262" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(398.976,-400.984)">
@@ -502,7 +503,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1090.1" width="40" height="17.6036"/>
 			<path d="M7.09 1077.17 L7.09 1102.28" class="st21"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="1085.3" width="10.0352" height="9.59985" class="st23"/>
-			<text x="2.07" y="1092.5" class="st24" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="1085.3" width="10.0352" height="9.59985" class="st14"/>
+			<text x="2.07" y="1092.5" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 	</g>
 </svg>
