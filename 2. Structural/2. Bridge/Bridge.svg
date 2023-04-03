@@ -309,23 +309,23 @@
 							x="4" dy="1.2em" class="st6">might arise across branches of this </tspan><tspan x="4" dy="1.2em"
 							class="st6">hierarchy. Also other clients, </tspan><tspan x="4" dy="1.2em" class="st6">(=Abstractions) </tspan>that would like to reuse <tspan
 							x="4" dy="1.2em" class="st6">one of the responsibilities/dimensions, </tspan><tspan x="4" dy="1.2em"
-							class="st6">would be dependent on the complete </tspan><tspan x="4" dy="1.2em" class="st6">intertwined  inheritance </tspan>hierarchy. In <tspan
-							x="4" dy="1.2em" class="st6">case the hierarchy is too deeply </tspan><tspan x="4" dy="1.2em"
-							class="st6">intertwined, the client might be forced to </tspan><tspan x="4" dy="1.2em" class="st6">duplicate code. Besides duplication, a </tspan><tspan
-							x="4" dy="1.2em" class="st6">class </tspan>‘explosion’ might arise. This will in <tspan x="4"
-							dy="1.2em" class="st6">turn have negative impact on the </tspan><tspan x="4" dy="1.2em" class="st6">navigability and readability of the code. </tspan><tspan
-							x="4" dy="1.2em" class="st6">The Bridge design pattern overcomes </tspan><tspan x="4" dy="1.2em"
-							class="st6">these negative side affects. </tspan><tspan class="st18">Testability</tspan>, <tspan x="4"
-							dy="1.2em" class="st6">because we can test the Abstraction and </tspan><tspan x="4" dy="1.2em"
-							class="st6">Implementor in isolation. This results </tspan><tspan x="4" dy="1.2em" class="st6">shrinkage of the </tspan>‘problem’ window, which <tspan
-							x="4" dy="1.2em" class="st6">allows finding issues quicker and bringing </tspan><tspan x="4" dy="1.2em"
-							class="st6">code faster under test. </tspan><tspan class="st18">Stability</tspan>, changing <tspan
-							x="4" dy="1.2em" class="st6">the Abstraction cannot directly impact </tspan><tspan x="4" dy="1.2em"
-							class="st6">the Implementor and vice versa. This </tspan><tspan x="4" dy="1.2em" class="st6">reduces the chance of breaking logic </tspan><tspan
-							x="4" dy="1.2em" class="st6">unrelated to the change. As an addition </tspan><tspan x="4" dy="1.2em"
-							class="st6">to the stability aspect, the clients of the </tspan><tspan x="4" dy="1.2em" class="st6">Abstraction have less knowledge on the </tspan><tspan
-							x="4" dy="1.2em" class="st6">implementation details. This might result </tspan><tspan x="4" dy="1.2em"
-							class="st6">in less re</tspan>-compilation and redeploying of <tspan x="4" dy="1.2em" class="st6">client code.</tspan></text>			</g>
+							class="st6">would be </tspan>‘forced’ to dependent on the <tspan x="4" dy="1.2em" class="st6">complete intertwined inheritance </tspan><tspan
+							x="4" dy="1.2em" class="st6">hierarchy. In case the hierarchy is too </tspan><tspan x="4" dy="1.2em"
+							class="st6">deeply intertwined, the client might be </tspan><tspan x="4" dy="1.2em" class="st6">‘</tspan>tended’ to duplicate code. Besides <tspan
+							x="4" dy="1.2em" class="st6">duplication, a class </tspan>‘explosion’ might <tspan x="4" dy="1.2em"
+							class="st6">arise. This will in turn have negative </tspan><tspan x="4" dy="1.2em" class="st6">impact on the navigability and readability </tspan><tspan
+							x="4" dy="1.2em" class="st6">of the code. The Bridge design pattern </tspan><tspan x="4" dy="1.2em"
+							class="st6">overcomes these negative side affects. </tspan><tspan x="4" dy="1.2em" class="st18">Testability</tspan>, because we can test the <tspan
+							x="4" dy="1.2em" class="st6">Abstraction and Implementor in isolation. </tspan><tspan x="4" dy="1.2em"
+							class="st6">This results shrinkage of the </tspan>‘problem’ <tspan x="4" dy="1.2em" class="st6">window, which allows finding issues </tspan><tspan
+							x="4" dy="1.2em" class="st6">quicker and bringing code faster under </tspan><tspan x="4" dy="1.2em"
+							class="st6">test. </tspan><tspan class="st18">Stability</tspan>, changing the Abstraction <tspan x="4"
+							dy="1.2em" class="st6">cannot directly impact the Implementor </tspan><tspan x="4" dy="1.2em"
+							class="st6">and vice versa. This reduces the chance of </tspan><tspan x="4" dy="1.2em" class="st6">breaking logic unrelated to the change. As </tspan><tspan
+							x="4" dy="1.2em" class="st6">an addition to the stability aspect, the </tspan><tspan x="4" dy="1.2em"
+							class="st6">clients of the Abstraction have less </tspan><tspan x="4" dy="1.2em" class="st6">knowledge on the implementation </tspan><tspan
+							x="4" dy="1.2em" class="st6">details. This might result in less re</tspan>-<tspan x="4" dy="1.2em"
+							class="st6">compilation and redeploying of client </tspan><tspan x="4" dy="1.2em" class="st6">code.</tspan></text>			</g>
 			<g id="shape70-148" v:mID="70" v:groupContext="shape" transform="translate(164.456,0)">
 				<title>Sheet.70</title>
 				<v:userDefs>
@@ -564,7 +564,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="17.571" cy="905.669" width="40" height="17.6036"/>
 			<path d="M0 905.67 L27.09 905.67 L27.09 905.67 L37.1 905.67" class="st27"/>
-			<rect v:rectContext="textBkgnd" x="8.24667" y="900.87" width="18.6485" height="9.59985" class="st30"/>
+			<rect v:rectContext="textBkgnd" x="8.24667" y="900.87" width="18.6485" height="9.59985" class="st13"/>
 			<text x="8.25" y="908.07" class="st29" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
 		<g id="shape24-311" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(370.689,-593.858)">
 			<title>Dynamic connector.24</title>
@@ -572,7 +572,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-16.3583" cy="905.669" width="41.38" height="17.6036"/>
 			<path d="M0 905.67 L-37.1 905.67" class="st20"/>
-			<rect v:rectContext="textBkgnd" x="-32.1374" y="900.87" width="31.5585" height="9.59985" class="st13"/>
+			<rect v:rectContext="textBkgnd" x="-32.1374" y="900.87" width="31.5585" height="9.59985" class="st30"/>
 			<text x="-32.14" y="908.07" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
 		<g id="group115-318" transform="translate(651.26,-119.055)" v:mID="115" v:groupContext="group">
 			<v:userDefs>
