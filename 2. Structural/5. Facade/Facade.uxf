@@ -1,39 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="15.0.0">
-  <zoom_level>10</zoom_level>
+  <zoom_level>13</zoom_level>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>420</x>
-      <y>220</y>
-      <w>180</w>
-      <h>50</h>
+      <x>390</x>
+      <y>429</y>
+      <w>312</w>
+      <h>169</h>
     </coordinates>
     <panel_attributes>Facade
 --
-FuncAB():void</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLClass</id>
-    <coordinates>
-      <x>510</x>
-      <y>330</y>
-      <w>180</w>
-      <h>50</h>
-    </coordinates>
-    <panel_attributes>OtherSubsystemClass
+-component: SubsystemClass
+-component2: OtherSubsystemClass
 --
-FuncB():void</panel_attributes>
++FuncAB(){
+  component-&gt;FuncA()
+  component2-&gt;FuncB()
+}</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>310</x>
-      <y>330</y>
-      <w>180</w>
-      <h>50</h>
+      <x>819</x>
+      <y>429</y>
+      <w>299</w>
+      <h>65</h>
     </coordinates>
     <panel_attributes>SubsystemClass
 --
@@ -41,25 +34,38 @@ FuncA():void</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
-    <id>Relation</id>
+    <id>UMLClass</id>
     <coordinates>
-      <x>380</x>
-      <y>260</y>
-      <w>150</w>
-      <h>90</h>
+      <x>819</x>
+      <y>533</y>
+      <w>299</w>
+      <h>65</h>
     </coordinates>
-    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>130.0;10.0;130.0;40.0;10.0;40.0;10.0;70.0</additional_attributes>
+    <panel_attributes>OtherSubsystemClass
+--
+FuncB():void</panel_attributes>
+    <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>500</x>
-      <y>260</y>
-      <w>130</w>
-      <h>90</h>
+      <x>689</x>
+      <y>494</y>
+      <w>156</w>
+      <h>91</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;40.0;110.0;40.0;110.0;70.0</additional_attributes>
+    <additional_attributes>10.0;10.0;50.0;10.0;50.0;50.0;100.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>689</x>
+      <y>442</y>
+      <w>156</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;50.0;50.0;50.0;50.0;10.0;100.0;10.0</additional_attributes>
   </element>
 </diagram>
