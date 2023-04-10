@@ -26,7 +26,7 @@
 		.st11 {fill:url(#grad0-69);stroke:#d06d29;stroke-width:0.75}
 		.st12 {marker-end:url(#mrkr4-75);stroke:#ed7d31;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st13 {fill:#ed7d31;fill-opacity:1;stroke:#ed7d31;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st14 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st14 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st15 {fill:#d06d29;font-family:Calibri;font-size:0.666664em}
 		.st16 {marker-end:url(#mrkr4-83);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st17 {fill:#fec000;fill-opacity:1;stroke:#fec000;stroke-opacity:1;stroke-width:0.52631578947368}
@@ -38,7 +38,7 @@
 		.st23 {fill:url(#grad0-125);stroke:#61973d;stroke-width:0.75}
 		.st24 {marker-end:url(#mrkr4-131);stroke:#70ad47;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st25 {fill:#70ad47;fill-opacity:1;stroke:#70ad47;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st26 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st26 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
 		.st27 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
 		.st28 {fill:url(#grad0-318);stroke:#dfa800;stroke-width:0.75}
 		.st29 {fill:#dfa800;font-family:Calibri;font-size:0.833336em}
@@ -551,7 +551,7 @@
 			<path d="M0 1384.72 L22.93 1384.72" class="st24"/>
 			<rect v:rectContext="textBkgnd" x="10.2481" y="1379.92" width="10.0352" height="9.59985" class="st26"/>
 			<text x="10.25" y="1387.12" class="st27" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group229-314" transform="translate(10.063,-912.047)" v:mID="229" v:groupContext="group">
+		<g id="group229-314" transform="translate(10.063,-895.748)" v:mID="229" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -600,7 +600,7 @@
 				<path d="M1.54 1391.81 L14.17 1377.53 L0 1379.27 L1.54 1391.81 Z" class="st30"/>
 			</g>
 		</g>
-		<g id="shape232-344" v:mID="232" v:groupContext="shape" transform="translate(218.268,-1004.88)">
+		<g id="shape232-344" v:mID="232" v:groupContext="shape" transform="translate(218.268,-988.583)">
 			<title>Rectangle.232</title>
 			<desc>Possible violation of interface seggregation</desc>
 			<v:userDefs>
@@ -613,7 +613,7 @@
 						x="15.4" dy="1.2em" class="st8">interface seggregation</tspan></text>		</g>
 		<g id="shape233-348" v:mID="233" v:groupContext="shape" v:layerMember="0" transform="translate(384.862,-721.927)">
 			<title>Dynamic connector.233</title>
-			<path d="M0 1391.81 L-22.03 1391.81 L-22.03 1091.85 L-37.1 1091.85" class="st16"/>
+			<path d="M0 1391.81 L-22.03 1391.81 L-22.03 1108.15 L-37.1 1108.15" class="st16"/>
 		</g>
 		<g id="shape24-353" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(384.862,-714.841)">
 			<title>Dynamic connector.24</title>
@@ -621,15 +621,15 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-16.9327" cy="1384.11" width="41.38" height="17.6036"/>
 			<path d="M0 1384.72 L-37.1 1384.72" class="st16"/>
-			<rect v:rectContext="textBkgnd" x="-32.7119" y="1379.32" width="31.5585" height="9.59985" class="st26"/>
+			<rect v:rectContext="textBkgnd" x="-32.7119" y="1379.32" width="31.5585" height="9.59985" class="st14"/>
 			<text x="-32.71" y="1386.52" class="st18" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
-		<g id="shape234-360" v:mID="234" v:groupContext="shape" v:layerMember="0" transform="translate(218.268,-1014.8)">
+		<g id="shape234-360" v:mID="234" v:groupContext="shape" v:layerMember="0" transform="translate(218.268,-998.504)">
 			<title>Dynamic connector.234</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-9.83054" cy="1384.72" width="40" height="17.6036"/>
 			<path d="M0 1384.72 L-21.31 1384.72" class="st16"/>
-			<rect v:rectContext="textBkgnd" x="-14.8482" y="1379.92" width="10.0352" height="9.59985" class="st26"/>
+			<rect v:rectContext="textBkgnd" x="-14.8482" y="1379.92" width="10.0352" height="9.59985" class="st14"/>
 			<text x="-14.85" y="1387.12" class="st18" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 		<g id="group235-367" transform="translate(48.189,-8.90552)" v:mID="235" v:groupContext="group">
 			<v:userDefs>
@@ -757,7 +757,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1401.94" width="40" height="17.6036"/>
 			<path d="M7.09 1391.81 L7.09 1422.34" class="st12"/>
-			<rect v:rectContext="textBkgnd" x="-4.51873" y="1397.14" width="23.2108" height="9.59985" class="st14"/>
+			<rect v:rectContext="textBkgnd" x="-4.51873" y="1397.14" width="23.2108" height="9.59985" class="st26"/>
 			<text x="-4.52" y="1404.34" class="st15" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>When?</text>		</g>
 	</g>
 </svg>
