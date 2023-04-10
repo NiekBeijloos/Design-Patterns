@@ -1,70 +1,95 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="15.0.0">
-  <zoom_level>9</zoom_level>
+  <zoom_level>13</zoom_level>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>477</x>
-      <y>270</y>
-      <w>99</w>
-      <h>27</h>
+      <x>624</x>
+      <y>351</y>
+      <w>286</w>
+      <h>78</h>
     </coordinates>
-    <panel_attributes>/ISubject/</panel_attributes>
+    <panel_attributes>/ISubject/
+--
++DoTask():void
++GetName():void</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>396</x>
-      <y>360</y>
-      <w>99</w>
-      <h>27</h>
+      <x>455</x>
+      <y>520</y>
+      <w>286</w>
+      <h>78</h>
     </coordinates>
-    <panel_attributes>RealSubject</panel_attributes>
+    <panel_attributes>RealSubject
+--
++DoTask():void
++GetName:String</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>558</x>
-      <y>360</y>
-      <w>99</w>
-      <h>27</h>
+      <x>819</x>
+      <y>520</y>
+      <w>286</w>
+      <h>403</h>
     </coordinates>
-    <panel_attributes>Proxy</panel_attributes>
+    <panel_attributes>Proxy
+--
+-subject: RealSubject
+-name:String
+--
++Proxy(name:String){
+  this-&gt;name = name
+}
++GetName(){
+   // avoid expensive creation
+   return name
+}
+
++DoTask(){
+   // expensive creation
+   if(subject == nullptr){
+      subject = new RealSubject()
+   }
+   subject-&gt;DoTask()
+}</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>441</x>
-      <y>288</y>
-      <w>99</w>
-      <h>90</h>
+      <x>572</x>
+      <y>416</y>
+      <w>221</w>
+      <h>130</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;.</panel_attributes>
-    <additional_attributes>90.0;10.0;90.0;50.0;10.0;50.0;10.0;80.0</additional_attributes>
+    <additional_attributes>150.0;10.0;150.0;50.0;10.0;50.0;10.0;80.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>486</x>
-      <y>360</y>
-      <w>90</w>
-      <h>27</h>
+      <x>728</x>
+      <y>559</y>
+      <w>117</w>
+      <h>39</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>80.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>513</x>
-      <y>288</y>
-      <w>117</w>
-      <h>90</h>
+      <x>754</x>
+      <y>416</y>
+      <w>234</w>
+      <h>130</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;50.0;110.0;50.0;110.0;80.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0;160.0;50.0;160.0;80.0</additional_attributes>
   </element>
 </diagram>
