@@ -5,34 +5,44 @@
     <id>UMLClass</id>
     <coordinates>
       <x>690</x>
-      <y>370</y>
+      <y>250</y>
       <w>220</w>
-      <h>70</h>
+      <h>180</h>
     </coordinates>
-    <panel_attributes>/Base/
+    <panel_attributes>Creator
 --
-# CreateProduct(): IProduct
-+ OperationOnProduct(): void</panel_attributes>
+-product: IProduct
+--
+#CreateProduct(): IProduct
++OperationOnProduct(){
+   if(!product){
+      product = CreateProduct()
+   }
+   product-&gt;Operation();
+   //Creator logic
+}</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
       <x>690</x>
-      <y>490</y>
+      <y>480</y>
       <w>220</w>
-      <h>60</h>
+      <h>80</h>
     </coordinates>
-    <panel_attributes>Concrete
+    <panel_attributes>ConcreteCreator
 --
-# CreateProduct(): IProduct</panel_attributes>
+#CreateProduct(){
+  return new Product();
+}</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>790</x>
-      <y>430</y>
+      <y>420</y>
       <w>30</w>
       <h>80</h>
     </coordinates>
@@ -43,7 +53,7 @@
     <id>Relation</id>
     <coordinates>
       <x>600</x>
-      <y>510</y>
+      <y>500</y>
       <w>110</w>
       <h>30</h>
     </coordinates>
@@ -54,7 +64,7 @@
     <id>UMLClass</id>
     <coordinates>
       <x>390</x>
-      <y>500</y>
+      <y>490</y>
       <w>220</w>
       <h>30</h>
     </coordinates>
@@ -65,33 +75,35 @@
     <id>UMLClass</id>
     <coordinates>
       <x>390</x>
-      <y>410</y>
+      <y>330</y>
       <w>220</w>
-      <h>30</h>
+      <h>50</h>
     </coordinates>
-    <panel_attributes>/IProduct/</panel_attributes>
+    <panel_attributes>/IProduct/
+--
++Operation:void</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>490</x>
-      <y>430</y>
+      <y>370</y>
       <w>30</w>
-      <h>90</h>
+      <h>140</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;120.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
       <x>600</x>
-      <y>410</y>
+      <y>350</y>
       <w>110</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;.</panel_attributes>
+    <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>10.0;10.0;90.0;10.0</additional_attributes>
   </element>
 </diagram>
