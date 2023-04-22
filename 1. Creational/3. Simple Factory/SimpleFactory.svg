@@ -20,12 +20,12 @@
 		.st5 {fill:#feffff;font-family:Calibri;font-size:0.833336em}
 		.st6 {marker-end:url(#mrkr4-13);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st7 {fill:#fec000;fill-opacity:1;stroke:#fec000;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st8 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st8 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st9 {fill:#dfa800;font-family:Calibri;font-size:0.666664em}
 		.st10 {fill:#61973d;stroke:#507e31;stroke-width:0.75}
 		.st11 {marker-end:url(#mrkr4-24);stroke:#70ad47;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st12 {fill:#70ad47;fill-opacity:1;stroke:#70ad47;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st13 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st13 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
 		.st14 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
 		.st15 {fill:url(#grad0-38);stroke:#61973d;stroke-width:0.75}
 		.st16 {fill:#61973d;font-family:Calibri;font-size:0.833336em}
@@ -162,7 +162,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="15.9" cy="664.724" width="40" height="17.6036"/>
 			<path d="M0 664.72 L26.53 664.72" class="st11"/>
-			<rect v:rectContext="textBkgnd" x="10.8823" y="659.925" width="10.0352" height="9.59985" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="10.8823" y="659.925" width="10.0352" height="9.59985" class="st13"/>
 			<text x="10.88" y="667.12" class="st14" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 		<g id="group37-34" transform="translate(807.874,-363.012)" v:mID="37" v:groupContext="group">
 			<v:userDefs>
@@ -272,14 +272,14 @@
 						x="49.16" dy="1.2em" class="st17">separate class</tspan></text>		</g>
 		<g id="shape62-95" v:mID="62" v:groupContext="shape" transform="translate(584.587,-396.85)">
 			<title>Rectangle.62</title>
-			<desc>The Abstract Factory is over done</desc>
+			<desc>The Abstract Factory is ‘over done’</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="77.628" cy="655.299" width="155.26" height="33.0236"/>
 			<rect x="0" y="638.787" width="155.256" height="33.0236" class="st24"/>
-			<text x="9.61" y="658.3" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>The Abstract Factory is over done</text>		</g>
+			<text x="7.12" y="658.3" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>The Abstract Factory is ‘over done’</text>		</g>
 		<g id="group64-98" transform="translate(420.502,-103.748)" v:mID="64" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
@@ -336,7 +336,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="683.15" width="40" height="17.6036"/>
 			<path d="M7.09 671.81 L7.09 686.89" class="st28"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="678.35" width="10.0352" height="9.59985" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="678.35" width="10.0352" height="9.59985" class="st13"/>
 			<text x="2.07" y="685.55" class="st30" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 		<g id="shape67-137" v:mID="67" v:groupContext="shape" v:layerMember="0" transform="translate(498.13,-467.717)">
 			<title>Dynamic connector</title>
@@ -411,7 +411,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="683.15" width="40" height="17.6036"/>
 			<path d="M7.09 671.81 L7.09 686.89" class="st28"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="678.35" width="10.0352" height="9.59985" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="678.35" width="10.0352" height="9.59985" class="st13"/>
 			<text x="2.07" y="685.55" class="st30" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 		<g id="shape71-193" v:mID="71" v:groupContext="shape" transform="translate(222.52,-595.541)">
 			<title>Rectangle.71</title>
@@ -483,7 +483,7 @@
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-11.3386" cy="664.724" width="40" height="17.6036"/>
 			<path d="M0 664.72 L-23.58 664.72" class="st31"/>
-			<rect v:rectContext="textBkgnd" x="-16.3563" y="659.925" width="10.0352" height="9.59985" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-16.3563" y="659.925" width="10.0352" height="9.59985" class="st13"/>
 			<text x="-16.36" y="667.12" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
 	</g>
 </svg>
