@@ -100,7 +100,7 @@ GetResult()
       <w>187</w>
       <h>33</h>
     </coordinates>
-    <panel_attributes>CarManual</panel_attributes>
+    <panel_attributes>CarManualProduct</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -122,7 +122,7 @@ GetResult()
       <w>187</w>
       <h>33</h>
     </coordinates>
-    <panel_attributes>Car</panel_attributes>
+    <panel_attributes>CarProduct</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
