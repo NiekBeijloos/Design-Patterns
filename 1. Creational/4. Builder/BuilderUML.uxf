@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="15.0.0">
-  <zoom_level>11</zoom_level>
+  <zoom_level>13</zoom_level>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>550</x>
-      <y>231</y>
-      <w>297</w>
-      <h>66</h>
+      <x>546</x>
+      <y>286</y>
+      <w>338</w>
+      <h>208</h>
     </coordinates>
     <panel_attributes>Director
 --
 +BuildSportsCar(builder:VehicleBuilder)
+{
+    builder-&gt;SetSeats(2);
+    builder-&gt;SetEngine();
+    builder-&gt;SetSpoiler();
+    builder-&gt;SetWindows(6)
+}
 +BuildSUV(builder:VehicleBuilder)</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>605</x>
-      <y>352</y>
-      <w>187</w>
-      <h>121</h>
+      <x>546</x>
+      <y>533</y>
+      <w>338</w>
+      <h>143</h>
     </coordinates>
     <panel_attributes>/VehicleBuilder/
 --
@@ -35,70 +41,70 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>682</x>
-      <y>286</y>
-      <w>33</w>
-      <h>88</h>
+      <x>702</x>
+      <y>481</y>
+      <w>39</w>
+      <h>78</h>
     </coordinates>
     <panel_attributes>lt=&lt;.</panel_attributes>
-    <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>495</x>
-      <y>528</y>
-      <w>187</w>
-      <h>55</h>
+      <x>377</x>
+      <y>754</y>
+      <w>338</w>
+      <h>65</h>
     </coordinates>
     <panel_attributes>CarManualBuilder
 --
-GetResult()</panel_attributes>
+GetResult():CarManualProduct</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>726</x>
-      <y>528</y>
-      <w>187</w>
-      <h>55</h>
+      <x>728</x>
+      <y>754</y>
+      <w>338</w>
+      <h>65</h>
     </coordinates>
     <panel_attributes>CarBuilder
 --
-GetResult()
+GetResult():CarProduct
 </panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>682</x>
-      <y>462</y>
-      <w>154</w>
-      <h>88</h>
+      <x>702</x>
+      <y>663</y>
+      <w>221</w>
+      <h>117</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;40.0;120.0;40.0;120.0;60.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0;150.0;50.0;150.0;70.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>561</x>
-      <y>462</y>
-      <w>154</w>
-      <h>88</h>
+      <x>520</x>
+      <y>663</y>
+      <w>221</w>
+      <h>117</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>120.0;10.0;120.0;40.0;10.0;40.0;10.0;60.0</additional_attributes>
+    <additional_attributes>150.0;10.0;150.0;50.0;10.0;50.0;10.0;70.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>495</x>
-      <y>638</y>
-      <w>187</w>
-      <h>33</h>
+      <x>377</x>
+      <y>884</y>
+      <w>338</w>
+      <h>39</h>
     </coordinates>
     <panel_attributes>CarManualProduct</panel_attributes>
     <additional_attributes/>
@@ -106,10 +112,10 @@ GetResult()
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>572</x>
-      <y>572</y>
-      <w>33</w>
-      <h>88</h>
+      <x>520</x>
+      <y>806</y>
+      <w>39</w>
+      <h>104</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
@@ -117,10 +123,10 @@ GetResult()
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>726</x>
-      <y>638</y>
-      <w>187</w>
-      <h>33</h>
+      <x>728</x>
+      <y>884</y>
+      <w>338</w>
+      <h>39</h>
     </coordinates>
     <panel_attributes>CarProduct</panel_attributes>
     <additional_attributes/>
@@ -128,10 +134,10 @@ GetResult()
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>803</x>
-      <y>572</y>
-      <w>33</w>
-      <h>88</h>
+      <x>884</x>
+      <y>806</y>
+      <w>39</w>
+      <h>104</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>

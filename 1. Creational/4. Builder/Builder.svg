@@ -21,28 +21,28 @@
 		.st6 {font-size:1em}
 		.st7 {fill:url(#grad0-17);stroke:#d06d29;stroke-width:0.75}
 		.st8 {fill:#d06d29;font-family:Calibri;font-size:0.833336em}
-		.st9 {fill:url(#grad0-45);stroke:#d06d29;stroke-width:0.75}
-		.st10 {marker-end:url(#mrkr4-51);stroke:#ed7d31;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st9 {fill:url(#grad0-46);stroke:#d06d29;stroke-width:0.75}
+		.st10 {marker-end:url(#mrkr4-52);stroke:#ed7d31;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st11 {fill:#ed7d31;fill-opacity:1;stroke:#ed7d31;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st12 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st12 {fill:#ffffff;stroke:none;stroke-linecap:butt}
 		.st13 {fill:#d06d29;font-family:Calibri;font-size:0.666664em}
 		.st14 {fill:#61973d;stroke:#507e31;stroke-width:0.75}
-		.st15 {fill:url(#grad0-64);stroke:#61973d;stroke-width:0.75}
+		.st15 {fill:url(#grad0-65);stroke:#61973d;stroke-width:0.75}
 		.st16 {fill:#61973d;font-family:Calibri;font-size:0.833336em}
 		.st17 {font-size:1em;font-weight:bold}
 		.st18 {font-size:1em;text-decoration:underline}
-		.st19 {fill:url(#grad0-120);stroke:#61973d;stroke-width:0.75}
-		.st20 {marker-end:url(#mrkr4-126);stroke:#70ad47;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st19 {fill:url(#grad0-121);stroke:#61973d;stroke-width:0.75}
+		.st20 {marker-end:url(#mrkr4-127);stroke:#70ad47;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st21 {fill:#70ad47;fill-opacity:1;stroke:#70ad47;stroke-opacity:1;stroke-width:0.52631578947368}
-		.st22 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
-		.st23 {fill:#ffffff;stroke:none;stroke-linecap:butt}
-		.st24 {marker-end:url(#mrkr4-237);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st22 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st23 {fill:#61973d;font-family:Calibri;font-size:0.666664em}
+		.st24 {marker-end:url(#mrkr4-239);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
 		.st25 {fill:#fec000;fill-opacity:1;stroke:#fec000;stroke-opacity:1;stroke-width:0.52631578947368}
 		.st26 {fill:#dfa800;font-family:Calibri;font-size:0.666664em}
 		.st27 {fill:#dfa800;stroke:#ba8c00;stroke-width:0.75}
-		.st28 {fill:url(#grad0-350);stroke:#dfa800;stroke-width:0.75}
+		.st28 {fill:url(#grad0-352);stroke:#dfa800;stroke-width:0.75}
 		.st29 {fill:#dfa800;font-family:Calibri;font-size:0.833336em}
-		.st30 {fill:url(#grad0-380);stroke:#dfa800;stroke-width:0.75}
+		.st30 {fill:url(#grad0-382);stroke:#dfa800;stroke-width:0.75}
 		.st31 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
@@ -53,27 +53,27 @@
 			<stop offset="0.24" stop-color="#fdf5f3" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-45" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-46" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#f7c6b9" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#f4d1c8" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#d76213" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-64" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-65" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#ebf1e8" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#f5f8f4" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-120" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-121" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#cedcc9" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#d9e3d5" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#578837" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-350" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-352" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#fef4e7" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#fef9f3" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
 		</linearGradient>
-		<linearGradient id="grad0-380" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+		<linearGradient id="grad0-382" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
 			<stop offset="0" stop-color="#ffddb3" stop-opacity="1"/>
 			<stop offset="0.24" stop-color="#ffe3bd" stop-opacity="1"/>
 			<stop offset="0.54" stop-color="#ca9800" stop-opacity="1"/>
@@ -83,15 +83,15 @@
 		<g id="lend4">
 			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
 		</g>
-		<marker id="mrkr4-51" class="st11" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
+		<marker id="mrkr4-52" class="st11" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
-		<marker id="mrkr4-126" class="st21" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
+		<marker id="mrkr4-127" class="st21" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
-		<marker id="mrkr4-237" class="st25" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
+		<marker id="mrkr4-239" class="st25" v:arrowType="4" v:arrowSize="1" v:setback="3.8" refX="-3.8" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-1.9,-1.9) "/>
 		</marker>
@@ -128,40 +128,42 @@
 			<rect x="0" y="1169.01" width="155.197" height="34.0158" class="st4"/>
 			<text x="14.5" y="1183.02" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Product creation must be done <tspan
 						x="15.7" dy="1.2em" class="st6">(safely) on a step</tspan>-by-step base</text>		</g>
-		<g id="group5-13" transform="translate(512.835,-138.614)" v:mID="5" v:groupContext="group">
+		<g id="group5-13" transform="translate(512.835,-134.362)" v:mID="5" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
 				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.18870740314092):1"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.871003883318):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.12334206050444):1"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.14649855448425):1"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.18981599748642):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.86409532765477):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.12479550588214):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.14616332800648):1"/>
 			</v:userDefs>
 			<title>Folded Corner</title>
 			<desc>The Builder pattern enables ‘fine’ control over object (=Prod...</desc>
 			<g id="shape5-14" v:mID="5" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="77.5984" cy="1052.29" width="155.2" height="301.465"/>
-				<path d="M0 1203.02 L146.32 1203.02 L155.2 1192.48 L155.2 901.56 L0 901.56 L0 1203.02 Z" class="st7"/>
-				<text x="4" y="914.56" class="st8" v:langID="1033"><v:paragraph/><v:tabList/>The Builder pattern enables ‘fine’ <tspan
+				<v:textRect cx="77.5984" cy="1050.17" width="155.2" height="305.717"/>
+				<path d="M0 1203.02 L146.21 1203.02 L155.2 1192.5 L155.2 897.31 L0 897.31 L0 1203.02 Z" class="st7"/>
+				<text x="4" y="910.31" class="st8" v:langID="1033"><v:paragraph/><v:tabList/>The Builder pattern enables ‘fine’ <tspan
 							x="4" dy="1.2em" class="st6">control over object (=Product) </tspan><tspan x="4" dy="1.2em" class="st6">creation. This means, it is possible </tspan><tspan
 							x="4" dy="1.2em" class="st6">to perform a creation step, process </tspan><tspan x="4" dy="1.2em"
 							class="st6">something else and perform </tspan><tspan x="4" dy="1.2em" class="st6">another creation step. The Builder </tspan><tspan
-							x="4" dy="1.2em" class="st6">returns a valid product, after all </tspan><tspan x="4" dy="1.2em"
+							x="4" dy="1.2em" class="st6">returns a valid Product, after all </tspan><tspan x="4" dy="1.2em"
 							class="st6">creation steps are completed. This </tspan><tspan x="4" dy="1.2em" class="st6">is different from the Factory </tspan><tspan
 							x="4" dy="1.2em" class="st6">patterns. The Factory patterns </tspan><tspan x="4" dy="1.2em" class="st6">create a product and return it </tspan><tspan
 							x="4" dy="1.2em" class="st6">immediately. The Product, in the </tspan><tspan x="4" dy="1.2em"
 							class="st6">Builder pattern, often exposes its </tspan><tspan x="4" dy="1.2em" class="st6">internals to allow the step</tspan>-by-step <tspan
-							x="4" dy="1.2em" class="st6">creation. This means a client might </tspan><tspan x="4" dy="1.2em"
-							class="st6">perform these constructions steps. </tspan><tspan x="4" dy="1.2em" class="st6">However, this might endanger the </tspan><tspan
-							x="4" dy="1.2em" class="st6">validity of the </tspan>Product. A <tspan x="4" dy="1.2em" class="st6">constraining factor could be that </tspan><tspan
-							x="4" dy="1.2em" class="st6">the construction steps must be </tspan><tspan x="4" dy="1.2em" class="st6">performed is a specific order or </tspan><tspan
-							x="4" dy="1.2em" class="st6">none of them can be skipped. The </tspan><tspan x="4" dy="1.2em"
-							class="st6">Builder pattern might be applied to </tspan><tspan x="4" dy="1.2em" class="st6">ensure the validity of </tspan>the Product.<v:newlineChar/></text>			</g>
-			<g id="shape6-42" v:mID="6" v:groupContext="shape" transform="translate(144.803,0)">
+							x="4" dy="1.2em" class="st6">creation. This means a client is able </tspan><tspan x="4" dy="1.2em"
+							class="st6">to construct the Product on a step</tspan>-<tspan x="4" dy="1.2em" class="st6">by</tspan>-step base without the need of <tspan
+							x="4" dy="1.2em" class="st6">the Builder pattern. However, this </tspan><tspan x="4" dy="1.2em"
+							class="st6">might endanger the validity of the </tspan><tspan x="4" dy="1.2em" class="st6">Product. A constraining factor could </tspan><tspan
+							x="4" dy="1.2em" class="st6">be that the construction steps must </tspan><tspan x="4" dy="1.2em"
+							class="st6">be performed is a specific order or </tspan><tspan x="4" dy="1.2em" class="st6">none of them can be skipped. The </tspan><tspan
+							x="4" dy="1.2em" class="st6">Builder pattern might be applied to </tspan><tspan x="4" dy="1.2em"
+							class="st6">ensure the validity </tspan>of the Product.<v:newlineChar/></text>			</g>
+			<g id="shape6-43" v:mID="6" v:groupContext="shape" transform="translate(144.803,0)">
 				<title>Sheet.6</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -170,15 +172,15 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.0111549572729):1"/>
-					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.1215386872777):1"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.12334206050444):1"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.14649855448425):1"/>
+					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.12325291642295):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.12479550588214):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.14616332800648):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M1.51 1203.02 L10.39 1192.48 L0 1194.27 L1.51 1203.02 Z" class="st9"/>
+				<path d="M1.41 1203.02 L10.39 1192.5 L0 1194.15 L1.41 1203.02 Z" class="st9"/>
 			</g>
 		</g>
-		<g id="shape8-46" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(583.346,-468.85)">
+		<g id="shape8-47" v:mID="8" v:groupContext="shape" v:layerMember="0" transform="translate(583.346,-468.85)">
 			<title>Dynamic connector.8</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -186,7 +188,7 @@
 			<path d="M7.09 1203.02 L7.09 1224.2" class="st10"/>
 			<rect v:rectContext="textBkgnd" x="2.06894" y="1210.98" width="10.0352" height="9.59985" class="st12"/>
 			<text x="2.07" y="1218.18" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape9-54" v:mID="9" v:groupContext="shape" transform="translate(675.354,-468.85)">
+		<g id="shape9-55" v:mID="9" v:groupContext="shape" transform="translate(675.354,-468.85)">
 			<title>Rectangle.9</title>
 			<desc>Overcome Constructor Telescoping</desc>
 			<v:userDefs>
@@ -196,7 +198,7 @@
 			<v:textRect cx="77.5984" cy="1186.02" width="155.2" height="34.0158"/>
 			<rect x="0" y="1169.01" width="155.197" height="34.0158" class="st4"/>
 			<text x="6.18" y="1189.02" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Overcome Constructor Telescoping</text>		</g>
-		<g id="shape13-57" v:mID="13" v:groupContext="shape" transform="translate(674.528,-570.898)">
+		<g id="shape13-58" v:mID="13" v:groupContext="shape" transform="translate(674.528,-570.898)">
 			<title>Rectangle.13</title>
 			<desc>Single Responsibility</desc>
 			<v:userDefs>
@@ -206,7 +208,7 @@
 			<v:textRect cx="60.9449" cy="1186.02" width="121.89" height="34.0158"/>
 			<rect x="0" y="1169.01" width="121.89" height="34.0158" class="st14"/>
 			<text x="19.59" y="1189.02" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Single Responsibility</text>		</g>
-		<g id="group15-60" transform="translate(835.937,-326.672)" v:mID="15" v:groupContext="group">
+		<g id="group15-61" transform="translate(835.937,-326.672)" v:mID="15" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -220,7 +222,7 @@
 			</v:userDefs>
 			<title>Folded Corner.15</title>
 			<desc>The Builder pattern compliments the Single Responsibility pri...</desc>
-			<g id="shape15-61" v:mID="15" v:groupContext="groupContent">
+			<g id="shape15-62" v:mID="15" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="941.79" width="179.3" height="522.467"/>
 				<path d="M0 1203.02 L172.32 1203.02 L179.29 1193.72 L179.29 680.56 L0 680.56 L0 1203.02 Z" class="st15"/>
@@ -257,7 +259,7 @@
 							dy="1.2em" class="st6">problem window of the client. Shrinkage </tspan><tspan x="4" dy="1.2em"
 							class="st6">of the problem window enables isolated </tspan><tspan x="4" dy="1.2em" class="st6">testing. Isolated testing enables finding </tspan><tspan
 							x="4" dy="1.2em" class="st6">malfunctions faster.</tspan></text>			</g>
-			<g id="shape16-117" v:mID="16" v:groupContext="shape" transform="translate(170.362,0)">
+			<g id="shape16-118" v:mID="16" v:groupContext="shape" transform="translate(170.362,0)">
 				<title>Sheet.16</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -274,15 +276,15 @@
 				<path d="M1.95 1203.02 L8.93 1193.72 L0 1196.33 L1.95 1203.02 Z" class="st19"/>
 			</g>
 		</g>
-		<g id="shape17-121" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(796.417,-580.819)">
+		<g id="shape17-122" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(796.417,-580.819)">
 			<title>Dynamic connector.17</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="18.119" cy="1195.94" width="40" height="17.6036"/>
 			<path d="M0 1195.94 L31.92 1195.94" class="st20"/>
-			<rect v:rectContext="textBkgnd" x="13.1013" y="1191.14" width="10.0352" height="9.59985" class="st12"/>
-			<text x="13.1" y="1198.34" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape18-129" v:mID="18" v:groupContext="shape" transform="translate(674.528,-1010.97)">
+			<rect v:rectContext="textBkgnd" x="13.1013" y="1191.14" width="10.0352" height="9.59985" class="st22"/>
+			<text x="13.1" y="1198.34" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="shape18-130" v:mID="18" v:groupContext="shape" transform="translate(674.528,-1010.97)">
 			<title>Rectangle.18</title>
 			<desc>Open Closed</desc>
 			<v:userDefs>
@@ -292,19 +294,19 @@
 			<v:textRect cx="60.9449" cy="1186.02" width="121.89" height="34.0158"/>
 			<rect x="0" y="1169.01" width="121.89" height="34.0158" class="st14"/>
 			<text x="35.24" y="1189.02" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Open Closed</text>		</g>
-		<g id="shape19-132" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(622.087,-587.906)">
+		<g id="shape19-133" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(622.087,-587.906)">
 			<title>Dynamic connector.19</title>
 			<path d="M0 1203.02 L37.58 1203.02 L37.58 762.95 L44.84 762.95" class="st20"/>
 		</g>
-		<g id="shape14-137" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(622.087,-594.992)">
+		<g id="shape14-138" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(622.087,-594.992)">
 			<title>Dynamic connector.14</title>
 			<desc>Why?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="18.1005" cy="1210.11" width="40" height="17.6036"/>
 			<path d="M0 1210.11 L31.06 1210.11 L44.84 1210.11" class="st20"/>
-			<rect v:rectContext="textBkgnd" x="8.77615" y="1205.31" width="18.6485" height="9.59985" class="st23"/>
-			<text x="8.78" y="1212.51" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
-		<g id="group20-144" transform="translate(835.937,-858.595)" v:mID="20" v:groupContext="group">
+			<rect v:rectContext="textBkgnd" x="8.77615" y="1205.31" width="18.6485" height="9.59985" class="st22"/>
+			<text x="8.78" y="1212.51" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why?</text>		</g>
+		<g id="group20-145" transform="translate(835.937,-858.595)" v:mID="20" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -318,31 +320,31 @@
 			</v:userDefs>
 			<title>Folded Corner.20</title>
 			<desc>The Builder pattern compliments the Open Closed Principle by ...</desc>
-			<g id="shape20-145" v:mID="20" v:groupContext="groupContent">
+			<g id="shape20-146" v:mID="20" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="1033.64" width="179.3" height="338.76"/>
 				<path d="M0 1203.02 L170.38 1203.02 L179.29 1194.09 L179.29 864.26 L0 864.26 L0 1203.02 Z" class="st15"/>
 				<text x="4" y="877.26" class="st16" v:langID="1033"><v:paragraph/><v:tabList/>The Builder pattern compliments the <tspan
-							x="4" dy="1.2em" class="st6">Open Closed Principle by allowing  the </tspan><tspan x="4" dy="1.2em"
-							class="st6">introduction of new object </tspan><tspan x="4" dy="1.2em" class="st6">representations without modifying or </tspan><tspan
-							x="4" dy="1.2em" class="st6">duplicating the object construction steps. </tspan><tspan x="4" dy="1.2em"
-							class="st6">This enhance the </tspan><tspan class="st17">stability </tspan>and <tspan class="st17">reusability </tspan><tspan
-							x="4" dy="1.2em" class="st6">of the code. </tspan><tspan class="st18">All aspects are compared </tspan><tspan
+							x="4" dy="1.2em" class="st6">Open Closed Principle by allowing new </tspan><tspan x="4" dy="1.2em"
+							class="st6">object representations to be introduced </tspan><tspan x="4" dy="1.2em" class="st6">without duplicating or modifying the </tspan><tspan
+							x="4" dy="1.2em" class="st6">existing object construction steps. This </tspan><tspan x="4" dy="1.2em"
+							class="st6">enhances the </tspan><tspan class="st17">stability </tspan>and <tspan class="st17">reusability </tspan>of <tspan
+							x="4" dy="1.2em" class="st6">the code. </tspan><tspan class="st18">All aspects are compared </tspan><tspan
 							x="4" dy="1.2em" class="st18">against an implementation where object </tspan><tspan x="4" dy="1.2em"
 							class="st18">construction logic is directly dependent </tspan><tspan x="4" dy="1.2em" class="st18">on concrete object representation</tspan>. <tspan
 							x="4" dy="1.2em" class="st17">Stability</tspan>, because new representations <tspan x="4" dy="1.2em"
 							class="st6">(=Products) can be added without </tspan><tspan x="4" dy="1.2em" class="st6">modifying the construction logic </tspan><tspan
 							x="4" dy="1.2em" class="st6">(=Director) directly. This minimizes the </tspan><tspan x="4" dy="1.2em"
 							class="st6">chance of breaking stable product and </tspan><tspan x="4" dy="1.2em" class="st6">test code. In contrast, Director being </tspan><tspan
-							x="4" dy="1.2em" class="st6">dependent on concrete Product might </tspan><tspan x="4" dy="1.2em"
+							x="4" dy="1.2em" class="st6">dependent on concrete Product, might </tspan><tspan x="4" dy="1.2em"
 							class="st6">result in change when a new Product is </tspan><tspan x="4" dy="1.2em" class="st6">introduced. </tspan><tspan
 							class="st17">Reusability</tspan>, because the <tspan x="4" dy="1.2em" class="st6">same construction steps (=Director) can </tspan><tspan
 							x="4" dy="1.2em" class="st6">be used with different Product </tspan><tspan x="4" dy="1.2em" class="st6">representations. In contrast, Director </tspan><tspan
 							x="4" dy="1.2em" class="st6">being dependent on concrete Product </tspan><tspan x="4" dy="1.2em"
-							class="st6">directly might result in Director </tspan><tspan x="4" dy="1.2em" class="st6">duplication for </tspan>each new representation. <tspan
-							x="4" dy="1.2em" class="st6">Duplication results in an increase in </tspan><tspan x="4" dy="1.2em"
-							class="st6">maintenance effort for both product and </tspan><tspan x="4" dy="1.2em" class="st6">test code.</tspan></text>			</g>
-			<g id="shape21-180" v:mID="21" v:groupContext="shape" transform="translate(170.362,0)">
+							class="st6">directly might result in duplication of </tspan><tspan x="4" dy="1.2em" class="st6">construction logic (=Director) for each </tspan><tspan
+							x="4" dy="1.2em" class="st6">new representation. Duplication results in </tspan><tspan x="4" dy="1.2em"
+							class="st6">an increase in maintenance effort for </tspan><tspan x="4" dy="1.2em" class="st6">both product and test code.</tspan></text>			</g>
+			<g id="shape21-181" v:mID="21" v:groupContext="shape" transform="translate(170.362,0)">
 				<title>Sheet.21</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -359,33 +361,33 @@
 				<path d="M0.02 1203.02 L8.93 1194.09 L0 1194.11 L0.02 1203.02 Z" class="st19"/>
 			</g>
 		</g>
-		<g id="shape22-183" v:mID="22" v:groupContext="shape" v:layerMember="0" transform="translate(796.417,-1020.89)">
+		<g id="shape22-184" v:mID="22" v:groupContext="shape" v:layerMember="0" transform="translate(796.417,-1020.89)">
 			<title>Dynamic connector.22</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="19.7598" cy="1195.94" width="40" height="17.6036"/>
 			<path d="M0 1195.94 L31.92 1195.94" class="st20"/>
-			<rect v:rectContext="textBkgnd" x="14.7422" y="1191.14" width="10.0352" height="9.59985" class="st12"/>
-			<text x="14.74" y="1198.34" class="st22" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group41-190" transform="translate(675.354,-148.535)" v:mID="41" v:groupContext="group">
+			<rect v:rectContext="textBkgnd" x="14.7422" y="1191.14" width="10.0352" height="9.59985" class="st22"/>
+			<text x="14.74" y="1198.34" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
+		<g id="group41-191" transform="translate(675.354,-134.362)" v:mID="41" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
 				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
-				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.16912637203788):1"/>
-				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.77309467943716):32"/>
-				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.12108935274612):1"/>
-				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.11814577861464):1"/>
+				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.17338722992231):1"/>
+				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.74938972545576):32"/>
+				<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.12726749870291):1"/>
+				<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.11841695957755):1"/>
 			</v:userDefs>
 			<title>Folded Corner.41</title>
 			<desc>The Builder pattern enables abstracting away and preventing C...</desc>
-			<g id="shape41-191" v:mID="41" v:groupContext="groupContent">
+			<g id="shape41-192" v:mID="41" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="77.5984" cy="1057.25" width="155.2" height="291.543"/>
-				<path d="M0 1203.02 L146.48 1203.02 L155.2 1194.52 L155.2 911.48 L0 911.48 L0 1203.02 Z" class="st7"/>
-				<text x="4" y="924.48" class="st8" v:langID="1033"><v:paragraph/><v:tabList/>The Builder pattern enables <tspan
+				<v:textRect cx="77.5984" cy="1050.17" width="155.2" height="305.717"/>
+				<path d="M0 1203.02 L146.03 1203.02 L155.2 1194.5 L155.2 897.31 L0 897.31 L0 1203.02 Z" class="st7"/>
+				<text x="4" y="910.31" class="st8" v:langID="1033"><v:paragraph/><v:tabList/>The Builder pattern enables <tspan
 							x="4" dy="1.2em" class="st6">abstracting away and preventing </tspan><tspan x="4" dy="1.2em"
 							class="st6">Constructor Telescoping. </tspan><tspan x="4" dy="1.2em" class="st6">Constructor Telescoping is </tspan><tspan
 							x="4" dy="1.2em" class="st6">overloading the constructor of a </tspan><tspan x="4" dy="1.2em"
@@ -393,16 +395,16 @@
 							x="4" dy="1.2em" class="st6">approach is that it </tspan>makes usability <tspan x="4" dy="1.2em"
 							class="st6">and readability hard. Clients need </tspan><tspan x="4" dy="1.2em" class="st6">to remember the order of the </tspan><tspan
 							x="4" dy="1.2em" class="st6">parameters and call the correct </tspan><tspan x="4" dy="1.2em"
-							class="st6">constructor corresponding to </tspan>the <tspan x="4" dy="1.2em" class="st6">object variant. The class could be </tspan><tspan
-							x="4" dy="1.2em" class="st6">refactored to use setters instead. </tspan><tspan x="4" dy="1.2em"
-							class="st6">This in turn could be used by the </tspan><tspan x="4" dy="1.2em" class="st6">Builder pattern to create the </tspan><tspan
-							x="4" dy="1.2em" class="st6">product in a safe, easy and reusable </tspan><tspan x="4" dy="1.2em"
-							class="st6">way. However, it might be </tspan><tspan x="4" dy="1.2em" class="st6">undesirable to change existing </tspan><tspan
-							x="4" dy="1.2em" class="st6">code. In this case, the Builder </tspan><tspan x="4" dy="1.2em"
-							class="st6">pattern can encapsulate the </tspan><tspan x="4" dy="1.2em" class="st6">Telescope Constructors and provide </tspan><tspan
+							class="st6">constructor corresponding to </tspan>the <tspan x="4" dy="1.2em" class="st6">object variant. The class, containing </tspan><tspan
+							x="4" dy="1.2em" class="st6">the Telescope Constructors, could </tspan><tspan x="4" dy="1.2em"
+							class="st6">be refactored to use setters </tspan><tspan x="4" dy="1.2em" class="st6">instead. This in turn could be used </tspan><tspan
+							x="4" dy="1.2em" class="st6">by the Builder pattern to </tspan>create the <tspan x="4" dy="1.2em"
+							class="st6">product in a safe, easy and reusable </tspan><tspan x="4" dy="1.2em" class="st6">way. However, it might be </tspan><tspan
+							x="4" dy="1.2em" class="st6">undesirable to change existing </tspan><tspan x="4" dy="1.2em" class="st6">code. In this case, </tspan>the Builder <tspan
+							x="4" dy="1.2em" class="st6">pattern can encapsulate the </tspan><tspan x="4" dy="1.2em" class="st6">Telescope Constructors and provide </tspan><tspan
 							x="4" dy="1.2em" class="st6">a simplistic construction interface </tspan><tspan x="4" dy="1.2em"
 							class="st6">to the (new) clients. </tspan> </text>			</g>
-			<g id="shape42-218" v:mID="42" v:groupContext="shape" transform="translate(146.478,0)">
+			<g id="shape42-220" v:mID="42" v:groupContext="shape" transform="translate(146.034,0)">
 				<title>Sheet.42</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -411,23 +413,23 @@
 					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.23622047244094):24"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT0(1):26"/>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(2.0374015578892):1"/>
-					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.12105269462057):1"/>
-					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.12108935274612):1"/>
-					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.11814577861464):1"/>
+					<v:ud v:nameU="ControlY" v:prompt="" v:val="VT0(0.12693760930606):1"/>
+					<v:ud v:nameU="XFoldLength" v:prompt="" v:val="VT0(0.12726749870291):1"/>
+					<v:ud v:nameU="YFoldLength" v:prompt="" v:val="VT0(0.11841695957755):1"/>
 					<v:ud v:nameU="FillForegnd" v:prompt="" v:val="VT5(#ed7d31)"/>
 				</v:userDefs>
-				<path d="M0 1203.02 L8.72 1194.52 L0.21 1194.31 L0 1203.02 Z" class="st9"/>
+				<path d="M0 1203.02 L9.16 1194.5 L0.66 1193.88 L0 1203.02 Z" class="st9"/>
 			</g>
 		</g>
-		<g id="shape43-221" v:mID="43" v:groupContext="shape" v:layerMember="0" transform="translate(745.866,-468.85)">
+		<g id="shape43-223" v:mID="43" v:groupContext="shape" v:layerMember="0" transform="translate(745.866,-468.85)">
 			<title>Dynamic connector.43</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1215.78" width="40" height="17.6036"/>
 			<path d="M7.09 1203.02 L7.09 1224.2" class="st10"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="1210.98" width="10.0352" height="9.59985" class="st12"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="1210.98" width="10.0352" height="9.59985" class="st22"/>
 			<text x="2.07" y="1218.18" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape47-228" v:mID="47" v:groupContext="shape" transform="translate(187.795,-468.85)">
+		<g id="shape47-230" v:mID="47" v:groupContext="shape" transform="translate(187.795,-468.85)">
 			<title>Rectangle.47</title>
 			<desc>The same construction logic applies to different representati...</desc>
 			<v:userDefs>
@@ -438,15 +440,15 @@
 			<rect x="0" y="1169.01" width="155.197" height="34.0158" class="st4"/>
 			<text x="5.33" y="1183.02" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>The same construction logic applies <tspan
 						x="20.91" dy="1.2em" class="st6">to different representations</tspan></text>		</g>
-		<g id="shape29-232" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(245.197,-580.819)">
+		<g id="shape29-234" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(245.197,-580.819)">
 			<title>Dynamic connector.29</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-27.8492" cy="1195.94" width="40" height="17.6036"/>
 			<path d="M0 1195.94 L-30 1195.94 L-30 1195.94 L-51.93 1195.94" class="st24"/>
-			<rect v:rectContext="textBkgnd" x="-32.8668" y="1191.14" width="10.0352" height="9.59985" class="st12"/>
+			<rect v:rectContext="textBkgnd" x="-32.8668" y="1191.14" width="10.0352" height="9.59985" class="st22"/>
 			<text x="-32.87" y="1198.34" class="st26" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="group53-240" transform="translate(187.795,-2.5512)" v:mID="53" v:groupContext="group">
+		<g id="group53-242" transform="translate(187.795,-2.5512)" v:mID="53" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -460,7 +462,7 @@
 			</v:userDefs>
 			<title>Folded Corner.53</title>
 			<desc>The main goal of the Builder pattern is to re-use the same co...</desc>
-			<g id="shape53-241" v:mID="53" v:groupContext="groupContent">
+			<g id="shape53-243" v:mID="53" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="77.5984" cy="984.26" width="155.2" height="437.528"/>
 				<path d="M0 1203.02 L143.67 1203.02 L155.2 1191.68 L155.2 765.5 L0 765.5 L0 1203.02 Z" class="st7"/>
@@ -488,7 +490,7 @@
 							class="st6">produced Products may have </tspan><tspan x="4" dy="1.2em" class="st6">complete different representations, </tspan><tspan
 							x="4" dy="1.2em" class="st6">so the builder is responsible for </tspan><tspan x="4" dy="1.2em"
 							class="st6">retrieving the final Product. </tspan> </text>			</g>
-			<g id="shape54-280" v:mID="54" v:groupContext="shape" transform="translate(143.67,0)">
+			<g id="shape54-282" v:mID="54" v:groupContext="shape" transform="translate(143.67,0)">
 				<title>Sheet.54</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -505,15 +507,15 @@
 				<path d="M0 1203.02 L11.53 1191.68 L0.19 1191.5 L0 1203.02 Z" class="st9"/>
 			</g>
 		</g>
-		<g id="shape55-283" v:mID="55" v:groupContext="shape" v:layerMember="0" transform="translate(258.307,-468.85)">
+		<g id="shape55-285" v:mID="55" v:groupContext="shape" v:layerMember="0" transform="translate(258.307,-468.85)">
 			<title>Dynamic connector.55</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1215.78" width="40" height="17.6036"/>
 			<path d="M7.09 1203.02 L7.09 1224.2" class="st10"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="1210.98" width="10.0352" height="9.59985" class="st12"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="1210.98" width="10.0352" height="9.59985" class="st22"/>
 			<text x="2.07" y="1218.18" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape56-290" v:mID="56" v:groupContext="shape" transform="translate(350.315,-468.85)">
+		<g id="shape56-292" v:mID="56" v:groupContext="shape" transform="translate(350.315,-468.85)">
 			<title>Rectangle.56</title>
 			<desc>Delegate object creation to a separate class</desc>
 			<v:userDefs>
@@ -524,7 +526,7 @@
 			<rect x="0" y="1169.01" width="155.197" height="34.0158" class="st4"/>
 			<text x="18.7" y="1183.02" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Delegate object creation to a <tspan
 						x="49.13" dy="1.2em" class="st6">separate class</tspan></text>		</g>
-		<g id="group95-294" transform="translate(350.315,-89.0079)" v:mID="95" v:groupContext="group">
+		<g id="group95-296" transform="translate(350.315,-89.0079)" v:mID="95" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -538,7 +540,7 @@
 			</v:userDefs>
 			<title>Folded Corner.95</title>
 			<desc>The Builder pattern prescribes delegation of ‘complex’ object...</desc>
-			<g id="shape95-295" v:mID="95" v:groupContext="groupContent">
+			<g id="shape95-297" v:mID="95" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="77.5984" cy="1027.49" width="155.2" height="351.071"/>
 				<path d="M0 1203.02 L143.67 1203.02 L155.2 1193.42 L155.2 851.95 L0 851.95 L0 1203.02 Z" class="st7"/>
@@ -560,7 +562,7 @@
 							class="st6">is constructed. This implementation </tspan><tspan x="4" dy="1.2em" class="st6">might be close to a Factory form, </tspan><tspan
 							x="4" dy="1.2em" class="st6">except that the </tspan>‘full’ construction of <tspan x="4" dy="1.2em"
 							class="st6">the product is on a step</tspan>-by-step <tspan x="4" dy="1.2em" class="st6">base.</tspan></text>			</g>
-			<g id="shape96-327" v:mID="96" v:groupContext="shape" transform="translate(143.669,0)">
+			<g id="shape96-329" v:mID="96" v:groupContext="shape" transform="translate(143.669,0)">
 				<title>Sheet.96</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -577,19 +579,19 @@
 				<path d="M0 1203.02 L11.53 1193.42 L2.08 1191.69 L0 1203.02 Z" class="st9"/>
 			</g>
 		</g>
-		<g id="shape97-330" v:mID="97" v:groupContext="shape" v:layerMember="0" transform="translate(420.827,-468.85)">
+		<g id="shape97-332" v:mID="97" v:groupContext="shape" v:layerMember="0" transform="translate(420.827,-468.85)">
 			<title>Dynamic connector.97</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="7.08661" cy="1215.78" width="40" height="17.6036"/>
 			<path d="M7.09 1203.02 L7.09 1224.2" class="st10"/>
-			<rect v:rectContext="textBkgnd" x="2.06894" y="1210.98" width="10.0352" height="9.59985" class="st12"/>
+			<rect v:rectContext="textBkgnd" x="2.06894" y="1210.98" width="10.0352" height="9.59985" class="st22"/>
 			<text x="2.07" y="1218.18" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape101-337" v:mID="101" v:groupContext="shape" v:layerMember="0" transform="translate(520.807,-545.386)">
+		<g id="shape101-339" v:mID="101" v:groupContext="shape" v:layerMember="0" transform="translate(520.807,-545.386)">
 			<title>Dynamic connector.101</title>
 			<path d="M0 1203.02 L0 1224.51 L69.63 1224.51 L69.63 1237.94" class="st10"/>
 		</g>
-		<g id="shape104-342" v:mID="104" v:groupContext="shape" transform="translate(245.197,-570.898)">
+		<g id="shape104-344" v:mID="104" v:groupContext="shape" transform="translate(245.197,-570.898)">
 			<title>Rectangle.104</title>
 			<desc>Negative side of Open Closed</desc>
 			<v:userDefs>
@@ -600,7 +602,7 @@
 			<rect x="0" y="1169.01" width="121.89" height="34.0158" class="st27"/>
 			<text x="16.09" y="1183.02" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Negative side of Open <tspan
 						x="47.42" dy="1.2em" class="st6">Closed</tspan></text>		</g>
-		<g id="group109-346" transform="translate(6.37797,-433.24)" v:mID="109" v:groupContext="group">
+		<g id="group109-348" transform="translate(6.37797,-433.24)" v:mID="109" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -614,7 +616,7 @@
 			</v:userDefs>
 			<title>Folded Corner.109</title>
 			<desc>The Builder design pattern entails both the negative and posi...</desc>
-			<g id="shape109-347" v:mID="109" v:groupContext="groupContent">
+			<g id="shape109-349" v:mID="109" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="1048.36" width="179.3" height="309.331"/>
 				<path d="M0 1203.02 L168.33 1203.02 L179.29 1191.3 L179.29 893.69 L0 893.69 L0 1203.02 Z" class="st28"/>
@@ -633,10 +635,10 @@
 							x="4" dy="1.2em" class="st6">necessity of this indirection should be </tspan><tspan x="4" dy="1.2em"
 							class="st6">well</tspan>-considered. The Abstract and <tspan x="4" dy="1.2em" class="st6">Concrete builder might be redundant in </tspan><tspan
 							x="4" dy="1.2em" class="st6">case a single representation is </tspan><tspan x="4" dy="1.2em"
-							class="st6">constructed by the Director and this is </tspan><tspan x="4" dy="1.2em" class="st6">unlikely to change. The Director might </tspan><tspan
-							x="4" dy="1.2em" class="st6">still be useful to allow sharing, delegating </tspan><tspan x="4"
-							dy="1.2em" class="st6">and constraining Product creation.  </tspan>  </text>			</g>
-			<g id="shape110-377" v:mID="110" v:groupContext="shape" transform="translate(167.598,0)">
+							class="st6">constructed by the Director (and change </tspan><tspan x="4" dy="1.2em" class="st6">is unlikely). </tspan>The Director might still be <tspan
+							x="4" dy="1.2em" class="st6">useful to allow sharing, delegating and </tspan><tspan x="4" dy="1.2em"
+							class="st6">constraining Product creation.  </tspan>  </text>			</g>
+			<g id="shape110-379" v:mID="110" v:groupContext="shape" transform="translate(167.598,0)">
 				<title>Sheet.110</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -653,7 +655,7 @@
 				<path d="M0.73 1203.02 L11.69 1191.3 L0 1192.09 L0.73 1203.02 Z" class="st30"/>
 			</g>
 		</g>
-		<g id="shape112-381" v:mID="112" v:groupContext="shape" transform="translate(243.78,-826.016)">
+		<g id="shape112-383" v:mID="112" v:groupContext="shape" transform="translate(243.78,-826.016)">
 			<title>Rectangle.112</title>
 			<desc>Negative side of Single Responsibility</desc>
 			<v:userDefs>
@@ -664,11 +666,11 @@
 			<rect x="0" y="1169.01" width="121.89" height="34.0158" class="st27"/>
 			<text x="15.08" y="1183.02" class="st5" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Negative side of Single <tspan
 						x="32.79" dy="1.2em" class="st6">Responsibility</tspan></text>		</g>
-		<g id="shape113-385" v:mID="113" v:groupContext="shape" v:layerMember="0" transform="translate(419.528,-587.906)">
+		<g id="shape113-387" v:mID="113" v:groupContext="shape" v:layerMember="0" transform="translate(419.528,-587.906)">
 			<title>Dynamic connector.113</title>
 			<path d="M0 1203.02 L-13.68 1203.02 L-13.68 947.91 L-46.26 947.91" class="st24"/>
 		</g>
-		<g id="shape24-390" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(419.528,-580.819)">
+		<g id="shape24-392" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(419.528,-580.819)">
 			<title>Dynamic connector.24</title>
 			<desc>Why not?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
@@ -676,7 +678,7 @@
 			<path d="M0 1195.94 L-44.84 1195.94" class="st24"/>
 			<rect v:rectContext="textBkgnd" x="-37.6135" y="1191.14" width="31.5585" height="9.59985" class="st12"/>
 			<text x="-37.61" y="1198.34" class="st26" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Why not?</text>		</g>
-		<g id="group114-397" transform="translate(6.37797,-750.676)" v:mID="114" v:groupContext="group">
+		<g id="group114-399" transform="translate(6.37797,-750.676)" v:mID="114" v:groupContext="group">
 			<v:userDefs>
 				<v:ud v:nameU="ControlDistFromCorner" v:prompt="" v:val="VT0(0.33406619583616):24"/>
 				<v:ud v:nameU="AngToControl" v:prompt="" v:val="VT0(0.78539816339745):32"/>
@@ -690,7 +692,7 @@
 			</v:userDefs>
 			<title>Folded Corner.114</title>
 			<desc>The Builder design pattern entails both the negative and posi...</desc>
-			<g id="shape114-398" v:mID="114" v:groupContext="groupContent">
+			<g id="shape114-400" v:mID="114" v:groupContext="groupContent">
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 				<v:textRect cx="89.6457" cy="1110.68" width="179.3" height="184.695"/>
 				<path d="M0 1203.02 L167.29 1203.02 L179.29 1190.24 L179.29 1018.33 L0 1018.33 L0 1203.02 Z" class="st28"/>
@@ -703,9 +705,9 @@
 							x="4" dy="1.2em" class="st6">readability and stability the pattern </tspan><tspan x="4" dy="1.2em"
 							class="st6">provides, should outweigh the decrease </tspan><tspan x="4" dy="1.2em" class="st6">in comprehend</tspan>-ability of the dependency <tspan
 							x="4" dy="1.2em" class="st6">model. Whenever this is not the case, it </tspan><tspan x="4" dy="1.2em"
-							class="st6">might be more suitable to construct an </tspan><tspan x="4" dy="1.2em" class="st6">object on a step</tspan>-by-step base within the <tspan
+							class="st6">might be more suitable to construct an </tspan><tspan x="4" dy="1.2em" class="st6">object (on a step</tspan>-by-step base) within the <tspan
 							x="4" dy="1.2em" class="st6">client directly.  </tspan>  </text>			</g>
-			<g id="shape115-417" v:mID="115" v:groupContext="shape" transform="translate(166.535,0)">
+			<g id="shape115-419" v:mID="115" v:groupContext="shape" transform="translate(166.535,0)">
 				<title>Sheet.115</title>
 				<v:userDefs>
 					<v:ud v:nameU="ControlX" v:prompt="" v:val="VT0(0.94488188976378):24"/>
@@ -722,29 +724,29 @@
 				<path d="M0.75 1203.02 L12.76 1190.24 L0 1191.04 L0.75 1203.02 Z" class="st30"/>
 			</g>
 		</g>
-		<g id="shape116-420" v:mID="116" v:groupContext="shape" v:layerMember="0" transform="translate(243.78,-835.937)">
+		<g id="shape116-422" v:mID="116" v:groupContext="shape" v:layerMember="0" transform="translate(243.78,-835.937)">
 			<title>Dynamic connector.116</title>
 			<desc>I.e.</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="-27.1861" cy="1195.94" width="40" height="17.6036"/>
 			<path d="M0 1195.94 L-50.51 1195.94" class="st24"/>
-			<rect v:rectContext="textBkgnd" x="-32.2038" y="1191.14" width="10.0352" height="9.59985" class="st12"/>
+			<rect v:rectContext="textBkgnd" x="-32.2038" y="1191.14" width="10.0352" height="9.59985" class="st22"/>
 			<text x="-32.2" y="1198.34" class="st26" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>I.e.</text>		</g>
-		<g id="shape117-427" v:mID="117" v:groupContext="shape" v:layerMember="0" transform="translate(520.807,-545.386)">
+		<g id="shape117-429" v:mID="117" v:groupContext="shape" v:layerMember="0" transform="translate(520.807,-545.386)">
 			<title>Dynamic connector</title>
 			<path d="M0 1203.02 L0 1224.97 L-92.89 1224.97 L-92.89 1237.94" class="st10"/>
 		</g>
-		<g id="shape118-432" v:mID="118" v:groupContext="shape" v:layerMember="0" transform="translate(520.807,-545.386)">
+		<g id="shape118-434" v:mID="118" v:groupContext="shape" v:layerMember="0" transform="translate(520.807,-545.386)">
 			<title>Dynamic connector.118</title>
 			<path d="M0 1203.02 L0 1224.97 L-255.41 1224.97 L-255.41 1237.94" class="st10"/>
 		</g>
-		<g id="shape102-437" v:mID="102" v:groupContext="shape" v:layerMember="0" transform="translate(520.807,-545.386)">
+		<g id="shape102-439" v:mID="102" v:groupContext="shape" v:layerMember="0" transform="translate(520.807,-545.386)">
 			<title>Dynamic connector.102</title>
 			<desc>When?</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="0.925204" cy="1211.46" width="40" height="17.6036"/>
 			<path d="M0 1203.02 L0 1224.51 L232.15 1224.51 L232.15 1237.94" class="st10"/>
-			<rect v:rectContext="textBkgnd" x="-10.6801" y="1206.66" width="23.2108" height="9.59985" class="st23"/>
+			<rect v:rectContext="textBkgnd" x="-10.6801" y="1206.66" width="23.2108" height="9.59985" class="st22"/>
 			<text x="-10.68" y="1213.86" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>When?</text>		</g>
 	</g>
 </svg>
