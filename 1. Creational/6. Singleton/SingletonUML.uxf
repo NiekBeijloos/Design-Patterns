@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="15.0.0">
-  <zoom_level>10</zoom_level>
+  <zoom_level>16</zoom_level>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>650</x>
-      <y>330</y>
-      <w>180</w>
-      <h>110</h>
+      <x>640</x>
+      <y>272</y>
+      <w>288</w>
+      <h>208</h>
     </coordinates>
     <panel_attributes>Singleton
 --
-+static Instance():Singleton
++static Instance(){
+   static Singleton singleton;
+   return singleton;
+}
 +SingletonOperation():void
-~Singleton()
---
-- static instance:Singleton
+-Singleton()
 </panel_attributes>
     <additional_attributes/>
   </element>
