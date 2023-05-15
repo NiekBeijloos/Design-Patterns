@@ -2,11 +2,11 @@
 
 It is hard to comprehend the difference between design patterns, because the result, benefits and/or structure are (almost) similar. It is yet important to know their differences, for clarifying intent verbally and non-verbally (=writing software). Developing software is all about intent. Intent is important for understanding. How 'well' we understand code and design impacts our vilocity and the amount of new bugs we introduce.
 
-Adapter, Facade, Bridge, Decorator and Proxy design patterns could be viewed identical in many aspects. However, they have differences in intent. The upcoming paragraphs will first describe the characteristics of each of those patterns. This will be followed-up by a conclusion that concludes the difference(s) between the patterns. 
+Adapter, Facade, Bridge, Decorator, Proxy and Composite design patterns could be viewed identical in many aspects. However, they have differences in intent. The upcoming paragraphs will first describe the characteristics of each of those patterns. This will be followed-up by a conclusion that concludes the difference(s) between the patterns. 
 
 ## Characteristics
 
-The characteristics used to describe the structural patterns Adapter, Facade, Bridge, Decorator, Proxy are: 
+The characteristics used to describe the structural patterns Adapter, Facade, Bridge, Decorator, Proxy and Composite are: 
 - **Participant interaction:** in what way does the pattern incorporate with its environment / other objects. 
 - **Participant relation:** how does the pattern relate to its environment.
 -  **Nickname:** what is a synonym for the pattern. (This helps in identifying the pattern in interactions with people and code).
