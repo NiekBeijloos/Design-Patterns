@@ -1,6 +1,6 @@
 # Comparison Creational patterns
 
-## Simple factory, Factory method and Abstract Factory
+## Simple Factory, Factory Method and Abstract Factory
 
 ### Context
 'Factory pattern' is one of the most misused concepts within software development. 'Factory pattern' does not exist according to the book Design Patterns written by the 'Gang of four'. When people use this term, it could be that they refer to a Simple factory (which is not a 'real' design pattern), the Factory method or the Abstract Factory. Maybe it is not important to address the exact design solution we are proposing. Maybe it is sufficient to just propose the intent: separating construction logic from our functional logic. I still believe it is valuable to know the difference, so we can be more exact in our communication.
@@ -49,7 +49,7 @@ Use the Simple Factory when:
 - The construction logic is not likely to change
 
 ### Detailed comparison: Simple Factory and Factory method
-\
+
 We can achieve the same goal with both patterns. We could use a Simple factory and dependency injection to make an object flexible in the product it uses. This is the intent of the Factory method. However, there are subtle differences. In the Factory method, product creation is part of the object itself. Using the Simple factory and dependency injection means the product creation is 'outsourced' and thus not part of the object itself. Product creation is more tightly coupled to the client in case we use the Factory method. Another difference is that a simple factory requires us to adapt the existing code in case we want to support a new concrete product. Using the Factory method, we are able to introduce a new concrete type that supports another concrete product.
 
 **When should we use one over the other?**
