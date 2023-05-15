@@ -25,7 +25,7 @@ Factory method uses inheritance to delegate dependency creation to the concrete 
 
 The main responsibility of an Abstract Factory is to create (families of related) objects. In its most simplistic form, an Abstract Factory is a simple factory behind an interface constructing a product behind an interface. The pattern provides a single point of change, namely the concrete factory instantiation, instead of multiple. This compliments the Open Closed principle by providing stability and, thus, less chance of introducing a breaking change. In addition, the pattern adheres to Single Responsibility, because it delegates complex object creation to another object. This means clients will become more readable and, we can reuse our implementation in other places of our program.
 
-### Abstract comparison Factory patterns
+### Abstract comparison: Factory patterns
 
 The intent of Abstract, Simple Factory and Factory Method pattern is to delegate object creation. Factory Method achieves this by using inheritance. Abstract Factory and Simple Factory achieve this by using delegation. The client uses Factory Method when product creation should be part of the client itself. The client uses Abstract Factory or Simple Factory in case object creation should be delegated to another object. 
 
@@ -48,7 +48,7 @@ Use the Simple Factory when:
 - A client needs to vary the product(s) during runtime
 - The construction logic is not likely to change
 
-### Detailed comparison Simple Factory and Factory method
+### Detailed comparison: Simple Factory and Factory method
 \
 We can achieve the same goal with both patterns. We could use a Simple factory and dependency injection to make an object flexible in the product it uses. This is the intent of the Factory method. However, there are subtle differences. In the Factory method, product creation is part of the object itself. Using the Simple factory and dependency injection means the product creation is 'outsourced' and thus not part of the object itself. Product creation is more tightly coupled to the client in case we use the Factory method. Another difference is that a simple factory requires us to adapt the existing code in case we want to support a new concrete product. Using the Factory method, we are able to introduce a new concrete type that supports another concrete product.
 
@@ -95,7 +95,7 @@ Prototype pattern provides copy 'behavior' on the abstract level. The pattern is
 
 <img src=PrototypeUML.png width=40% height=40%> 
 
-### Comparison Factory Method and Prototype
+### Detailed comparison: Factory Method and Prototype
 
 The key differences between the Prototype pattern and Factory Method pattern are:
 -  Prototype makes a copy of an object and Factory Method provides a 'new' object. This could be a major factor in design intent. 'New-ing' an object could be expensive, so cloning might be necessary to gain performance in our program.
