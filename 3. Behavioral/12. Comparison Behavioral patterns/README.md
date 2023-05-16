@@ -5,18 +5,16 @@ The Strategy and Visitor pattern can be both used to apply algorithmic logic to 
 1. Participant relation:
     - The Strategy pattern has an one to many relationship. A single Context is injected with multiple Strategies. Each Strategy has its own class.
     - The Visitor pattern is a many to many relationship. A hierarchy of Elements can have multiple Visitors, however a single Visitor can provide functionality for a complete class hierarchy.
-
-    <br/>
     
-    Given: a Context that uses a Strategy 
-    When: a different kind of Context is introduced, which is in favor of a slightly modified version of that Strategy
-    Then: we end-up introducing a new class to support this Strategy
+    **Case:** <br/>
+    Given: a Context that uses a Strategy <br/>
+    When: a different kind of Context is introduced, which is in favor of a slightly modified version of that Strategy <br/>
+    Then: we end-up introducing a new class to support this Strategy <br/>
 
-    The Visitor pattern resolves this issue on the functional level. 
-    
-    Given: a Visitor, that operates on a Context. 
-    When: a different kind of Context is introduced, which is in favor of a slightly modified version of a Visitor 
-    Then: we can provide this via the same Visitor using dispatching. 
+    **The Visitor pattern resolves this case on the functional level:** <br/>
+    Given: a Visitor, that operates on a Context <br/>
+    When: a different kind of Context is introduced, which is in favor of a slightly modified version of a Visitor <br/>
+    Then: we can provide this via the same Visitor using dispatching <br/>
     
     Not introducing new classes might simplify the code, especially with a lot of Strategies/Visitors.
 
