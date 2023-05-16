@@ -24,14 +24,10 @@ The Strategy and Template pattern can be both used to change parts of an existin
 1. Participant relation:
     - The Strategy pattern uses composition. This compliments the Strategy reusability aspect, because Strategies are loosly coupled to the Context. A Context can reuse a Strategy without being directly coupled to another Context. This compliments the Interface Segregation principle; a Context is not dependent on functionality it does not use (e.g. from another Context). Adhering to the interface seggregation principle provides less recompilation, more 'confident' when changing an interface (less search hits) and constraining clients ('role' interface). Composition is prefered here, because inheritance would glue Strategy and Context together violating ISP in case another Context solely wants to depend on the Strategy.
     - The Template Method uses inheritance. This enables the base Template Method class to access the sub class via a relative encapsulated approach. This relative encapsulated approach can be achieved via 'protected' access modifier in combination with the 'Hollywood' principle. Inheritance is prefered here, because composition would enforce exposure of internals on the public interface. This would violate encapsulation causing unwanted coupling that might impact adaptability of the system later.
-  
-   <br/>
     
    **The Strategy pattern should be prefered over the Template Method when:**
    - the Strategies are self contained (e.g. more then just a difference in a 'simple' return).
    - the Strategies must be reused accross different Contexts.
-   
-   <br/>
 
    **The Template Method pattern should be prefered over the Strategy pattern when:**
    - the Strategies (=Concrete Template class) are granular details (e.g. just a difference in a 'simple' return).
