@@ -121,7 +121,7 @@ The Command and Mediator both prescribe decoupling Sender from Receiver to gain 
 It might be possible to queue or undo/redo interactions using the Mediator pattern, but this would require us to externally keep track of 'Colleagues' & Momentos and use the Mediator to perform these actions. The Command pattern enables us to only keep track of Command objects externally and perform these actions on them directly. As stated before the Command's flexibility and ease of use comes from its adherence to Single Responsibility principle.
 
 ## Chain of Responsibility and Observer
-The Chain of Resonsibility and the Observer both decouple sender and receiver enabling runtime flexibility to hook-up an open-end of senders and receivers. Their differences:
+The Chain of Resonsibility and the Observer both decouple sender and receiver, which enables runtime flexibility to hook-up an open-end of senders and receivers. Their differences:
 1. Participant interaction:
    - The Observer pattern allows an open-end of Receivers to hook-up with the same Sender (during runtime).
    - The Chain of Responsbility allows a single Receiver to hook-up with a single Sender sequently (during runtime). This means in the middle of the chain Senders are also Receivers and Receivers are also Senders. 
