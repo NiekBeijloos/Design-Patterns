@@ -28,8 +28,8 @@ The Strategy and Template pattern can be both used to change parts of an existin
    <br/>
 
    **The Template Method pattern should be prefered over the Strategy pattern when:**
-   - the Strategies (=Concrete Template class) are granular details (e.g. more just a difference in a 'simple' return).
-   - the Strategies (=Concrete Template class) are used by a single Context(=base Template class), that needs access to the internal structure via an encapsulated approach.
+   - the Strategies (=Concrete Template class) are granular details (e.g. just a difference in a 'simple' return).
+   - the Strategies (=Concrete Template class) are used by a single Context (=base Template class), that needs access to the internal structure via an encapsulated approach.
 
 ## Strategy and State
 
