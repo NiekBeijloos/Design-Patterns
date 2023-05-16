@@ -8,9 +8,17 @@ The Strategy and Visitor pattern can be both used to apply algorithmic logic to 
 
     <br/>
     
-    Given a Context, that uses a Strategy. When a different kind of Context is introduced, which is in favor of a slightly modified version of that Strategy, then we end-up introducing a new class to support this Strategy.
+    Given: a Context that uses a Strategy 
+    When: a different kind of Context is introduced, which is in favor of a slightly modified version of that Strategy
+    Then: we end-up introducing a new class to support this Strategy
 
-    The Visitor pattern resolves this issue on the functional level. Given a Visitor, that operates on a Context. When a different kind of Context is introduced, which is in favor of a slightly modified version of a Visitor, then we can provide this via the same Visitor using dispatching. Not introducing new classes might simplify the code. Especially with a lot of Strategies/Visitors.
+    The Visitor pattern resolves this issue on the functional level. 
+    
+    Given: a Visitor, that operates on a Context. 
+    When: a different kind of Context is introduced, which is in favor of a slightly modified version of a Visitor 
+    Then: we can provide this via the same Visitor using dispatching. 
+    
+    Not introducing new classes might simplify the code, especially with a lot of Strategies/Visitors.
 
 ## Strategy and Template Method
 
