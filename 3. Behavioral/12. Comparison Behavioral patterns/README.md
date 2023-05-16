@@ -16,7 +16,7 @@ The Strategy and Visitor pattern can be both used to apply algorithmic logic to 
     When: a different kind of Context is introduced, which is in favor of a slightly modified version of that Visitor <br/>
     Then: we add a function to that Visitor and make use of dispatching<br/>
     
-    Not introducing new classes might simplify the code, especially with a lot of Strategies/Visitors.
+    The Visitor pattern might require significant fewer classes to resolve a problem as opposed to applying the Strategy design pattern.
 
 ## Strategy and Template Method
 
