@@ -13,8 +13,8 @@ The Strategy and Visitor pattern can be both used to apply algorithmic logic to 
 
     **The Visitor pattern resolves this case on the functional level:** <br/>
     Given: a Visitor, that operates on a Context <br/>
-    When: a different kind of Context is introduced, which is in favor of a slightly modified version of a Visitor <br/>
-    Then: we can provide this via the same Visitor by adding a function and applying dispatching <br/>
+    When: a different kind of Context is introduced, which is in favor of a slightly modified version of that Visitor <br/>
+    Then: we add a function to that Visitor and make use of dispatching<br/>
     
     Not introducing new classes might simplify the code, especially with a lot of Strategies/Visitors.
 
