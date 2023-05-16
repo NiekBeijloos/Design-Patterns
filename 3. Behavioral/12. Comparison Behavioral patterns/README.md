@@ -124,4 +124,4 @@ It might be possible to queue or undo/redo interactions using the Mediator patte
 The Chain of Resonsibility and the Observer both decouple sender and receiver, which enables runtime flexibility to hook-up an open-end of senders and receivers. Their differences:
 1. Participant interaction:
    - The Observer pattern allows an open-end of Receivers to hook-up with the same Sender (during runtime).
-   - The Chain of Responsbility allows a single Receiver to hook-up with a single Sender sequently (during runtime). This means in the middle of the chain Senders are also Receivers and Receivers are also Senders. 
+   - The Chain of Responsbility allows a single Receiver to hook-up with a single Sender sequently (during runtime). This means, in the middle of the chain Senders are also Receivers and Receivers are also Senders. 
