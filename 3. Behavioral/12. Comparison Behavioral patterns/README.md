@@ -22,8 +22,8 @@ The Strategy and Visitor pattern can be both used to apply algorithmic logic to 
 
 The Strategy and Template pattern can be both used to change parts of an existing object, without direct modification. Both patterns comply to the Open Closed Principle. Their differences can be identified in their details:
 1. Participant relation:
-    - The Strategy pattern uses composition. This compliments the Strategy reusability aspect, because Strategies are loosly coupled to the Context. A Context can reuse a Strategy without being directly coupled to another Context. This compliments the Interface Segregation principle; a Context is not dependent on functionality it does not use (e.g. from another Context). Adhering to the interface seggregation principle provides less recompilation, more 'confident' when changing an interface (less search hits) and constraining clients ('role' interface). Composition is prefered here, because inheritance would glue Strategy and Context together violating ISP in case another Context solely wants to depend on the Strategy.
-    - The Template Method uses inheritance. This enables the base Template Method class to access the sub class via a relative encapsulated approach. This relative encapsulated approach can be achieved via 'protected' access modifier in combination with the 'Hollywood' principle. Inheritance is prefered here, because composition would enforce exposure of internals on the public interface. This would violate encapsulation causing unwanted coupling that might impact adaptability of the system later.
+    - The Strategy pattern uses composition. This compliments the Strategy reusability aspect, because Strategies are loosly coupled to the Context. A Context can reuse a Strategy without being directly coupled to another Context. This compliments the Interface Segregation principle; a Context is not dependent on functionality it does not use (e.g. from another Context). Adhering to the interface Seggregation principle provides less recompilation, more 'confident' when changing an interface (less search hits) and constraining clients ('role' interface). Composition is prefered here, because inheritance would glue Strategy and Context together violating ISP in case another Context solely wants to depend on the Strategy.
+    - The Template Method uses inheritance. This enables the base Template Method class to access the sub class via a relative encapsulated approach. This relative encapsulated approach can be achieved via the 'protected' access modifier in combination with the 'Hollywood' principle. Inheritance is prefered here, because composition would enforce exposure of internals on the public interface. This would violate encapsulation causing unwanted coupling that might impact adaptability of the system later.
     
    **The Strategy pattern should be prefered over the Template Method when:**
    - the Strategies are self contained (e.g. more then just a difference in a 'simple' return).
@@ -43,11 +43,8 @@ The Strategy and State pattern both enable an object to change behavior during r
 
 
    **The Strategy pattern should be prefered over the State pattern when:**
-    - The Strategies should be used accross different Context classes that have different transition behavior. Given two Context classes and two Strategies. During runtime each Context uses each Strategy variably. The client switches the Strategy for the respective Context. The Strategies are indepent of each other. In case the Strategies would contain self-transitioning logic, as within the State pattern, then each Context would be forced to use the same transition logic.  
-    - The Strategies should be used accross multiple Context objects. The system constructs multiple Context objects in combination with a Strategy. This behavior is dependent on runtime conditions (e.g. a configuration file). This means a context is only dependent on a single Strategy and the Strategies should not have any mutual relationship. 
-    
-    <br/>
-    
+    - The Strategies should be used accross different Context classes that have different transition behavior. Given, two Context classes and two Strategies. During runtime each Context uses each Strategy variably. The client switches the Strategy for the respective Context. The Strategies are indepent of each other. In case the Strategies would contain self-transitioning logic, as within the State pattern, then each Context would be forced to use the same transition logic. 
+    <br>
     **In short:**
     The Strategies do not have a mutual relationship, making them more reusable. In contrast, the States, in the State pattern, often have a mutual relationship making them less reusable in other parts of the system.
 
@@ -127,3 +124,10 @@ The Chain of Resonsibility and the Observer both decouple sender and receiver. T
 1. Participant interaction:
    - The Observer pattern allows an open-end of Receivers to hook-up with the same Sender (during runtime).
    - The Chain of Responsbility allows a single Receiver to hook-up with a single Sender sequently (during runtime). This means, in the middle of the chain Senders are also Receivers and Receivers are also Senders. 
+
+   **The Chain Of Responsibility pattern should be prefered over the Observer when:**
+   - A single Sender must be coupled with a single Receiver and Sender/Receiver 'role' must be flexibly defined during Runtime.
+   
+   **The Observer pattern should be prefered over the Chain Of Responsibility when:**
+   - Multiple Receivers must be coupled to a Single Sender and the number of Receivers should be flexibly defined during runtime.  
+
