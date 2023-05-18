@@ -35,7 +35,7 @@ The Decorator and Chain Of Responsibility can be both used to execute a sequence
 
 ## Bridge and Strategy
 
-The Bridge design pattern is a structural design pattern and the Strategy pattern is a behavioral pattern. The patterns can be both used to dynamically switch the behavior of a given object. Their difference:
+The Bridge design pattern is a structural design pattern and the Strategy pattern is a behavioral pattern. The patterns can be both used to dynamically switch the behavior of a given object. Their differences:
 1. Intent:
    - The Bridge design pattern is used to seperate Abstraction from Implementation so both can evolve independenly.
    - The Strategy design pattern is used to dynamically switch behavior of a given object. 
@@ -46,3 +46,16 @@ The Bridge design pattern is a structural design pattern and the Strategy patter
 Unfortunately, the argumentation is not as black and with as it seems. The Bridge pattern is more expressed in the relationship between classes (composition or aggregation). I.e. the Bridge pattern is often not literally mentioned in the design, but more in communication. The Strategy pattern is more expressed on the class level. I.e. the Strategy pattern is often expressed in the design (e.g. class names). The argumentation, defined in '2. interface level', is correct in terms of the UML structure of the design pattern. However, I wouldn't explicity mention that the design is using only Bridge or Strategy based on this argument. I think both can be applicable simultaneously, only in design I would express Strategy explicitly and Bridge only in communication.
 
 The Bridge pattern can be used to dynamically switch behavior of a given object just like the Strategy pattern. However, if would need to emphasize this runtime flexibility I would prefer to use the Strategy pattern. This is because the intent of the Strategy pattern is more focussed on this aspect.
+
+## Facade and Mediator
+
+The Facade pattern is a structural design pattern and the Mediator pattern is a behavioral pattern. Both patterns can be used to encapsulate and orchistrate objects. Their differences:
+1. Intent:
+   - The Facade pattern enables a simplified interface **to** an (existing) subystem
+   - The Mediator centralizes complex object interaction **within** a subsystem
+2. Object interaction:
+   - The Facade pattern emphasizes unidirectional object interaction. I.e. the Facade 'calls' the the subsystem classes, but the subsystem classes don't call the Facade.
+   - The Mediator pattern emphasizes bidirectional object interaction. I.e. the Mediator 'calls' the Colleagues and the Colleagues call the Mediator.
+3. Functional enhancement:
+   - The Facade pattern is clustering object calls, but does not enhance the functionality of a system.
+   - The Mediator pattern enhances the functionality of a system as a result of object interaction.
