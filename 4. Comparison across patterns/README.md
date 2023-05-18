@@ -11,9 +11,6 @@ The Decorator pattern is a Structural pattern and the Visitor pattern is a Behav
 2. Level of enhancement:
     - The Decorator pattern allows to enhance the interface on the object level. I.e. the Decorator can apply interface enhancement(s) to specific objects of a class.
     - The Visitor pattern provides enhancement of the interface on the class level. I.e. specific (concrete) classes can have different extensions (Visitors), however the objects of those classes will all have identical behavior for each Visitor.
-3. Interface dehancement:
-   - The Decorator pattern allows removal of object's functionality. An existing object can be wrapped by a Decorator that replaces the original object's behavior with an empty call.
-   - The Visitor pattern unable to remove existing behavior on an object structure.
 
 ## Prototype and Momento
 
@@ -35,3 +32,17 @@ The Decorator and Chain Of Responsibility can be both used to execute a sequence
 1. Intent:
    - The Chain Of Responsibility is intended to handle a request and if it can't handle it pass it on to the next handler in the chain. In case the Handler is able to handle the request the sequence (=Chain) can be interrupted.
    - The Decorator is intended to add additional behavior on top of existing behavior. Interrupting the sequence of calls would violate the intend of the Design pattern, because (existing) behavior would be discarded.
+
+## Bridge and Strategy
+
+The Bridge design pattern is a structural design pattern and the Strategy pattern is a behavioral pattern. The patterns can be both used to dynamically switch the behavior of a given object. Their difference:
+1. Intent:
+   - The Bridge design pattern is used to seperate Abstraction from Implementation so both can evolve independenly.
+   - The Strategy design pattern is used to dynamically switch behavior of a given object. 
+2. Interface level:
+   - The Bridge design pattern prescribes the use of two abstractions. One abstraction inherited by the 'Implementor' (=Strategy in Strategy pattern) and one inherited by 'Abstraction' (=Context in Strategy pattern). This allows client flexibility for both 'Abstraction' and 'Implementor'.
+   - The Strategy design pattern prescribes the use of a single abstraction. The abstraction is inherited by the Strategy (=Implementor in Bridge design pattern). This allows flexibility of change for solely the Strategy. The Context (=Abstraction in Bridge design pattern) will be hard wired to the client, resulting in less flexibility.
+
+Unfortunately, the argumentation is not as black and with as it seems. The Bridge pattern is more expressed in the relationship between classes (composition or aggregation). I.e. the Bridge pattern is often not literally mentioned in the design, but more in communication. The Strategy pattern is more expressed on the class level. I.e. the Strategy pattern is often expressed in the design (e.g. class names). The argumentation, defined in '2. interface level', is correct in terms of the UML structure of the design pattern. However, I wouldn't explicity mention that the design is using only Bridge or Strategy based on this argument. I think both can be applicable simultaneously, only in design I would express Strategy explicitly and Bridge only in communication.
+
+The Bridge pattern can be used to dynamically switch behavior of a given object just like the Strategy pattern. However, if would need to emphasize this runtime flexibility I would prefer to use the Strategy pattern. This is because the intent of the Strategy pattern is more focussed on this aspect.
