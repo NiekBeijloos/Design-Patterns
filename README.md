@@ -1,4 +1,4 @@
-# Design Patterns mapped onto SOLID Principles
+# Design Patterns mapped on SOLID Principles
 
 Design Patterns are used to resolve commonly recurring problems within software development. This repository focusses on the 'when' and 'why' aspect of each Design Pattern described in the book 'Design Patterns' by the Gang of Four. The 'why' section is explained by means of the SOLID principles. The prerequisites for reading this repository are:
 - A 'good' understanding of the SOLID principles (see my previous post: https://github.com/NiekBeijloos/SOLID)
