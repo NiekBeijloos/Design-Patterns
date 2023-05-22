@@ -6,6 +6,6 @@ Design Patterns are used to resolve commonly recurring problems within software 
 by the Gang of Four or see: https://refactoring.guru/design-patterns)
 
 ## Design Patterns categories
-The 23 Design Patterns are subdevided amongst 3 categories. These categories allow us to quickly narrow down the problem to a selective group of Design Patterns. The following overview defines the 3 Design Pattern categories and their applicability:
+The 23 Design Patterns are subdivided amongst 3 categories. These categories allow us to quickly narrow down the problem to a selective group of Design Patterns. The following overview defines the 3 Design Pattern categories and their applicability:
 
 ![Design Patterns categories](https://github.com/NiekBeijloos/Design-Patterns/blob/master/Categories.svg?raw=true)
